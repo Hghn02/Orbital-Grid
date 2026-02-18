@@ -14,6 +14,3 @@ DROP TABLE "orbital_params";
 DROP TABLE "satellites";
 DROP TABLE "launch_manifest";
 DROP TABLE "launch_vehicles";
-
-DROP TYPE "type_of_orbit";
-DROP TYPE "type_of_object";
