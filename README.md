@@ -5,12 +5,9 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14+-blue.svg)](https://www.postgresql.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-<img src="Gemini_Generated_Image_u7lohwu7lohwu7lo.png"
-     alt="Screenshot Placeholder"
-     width="600"
-     height="720"
-     style="display:block; margin: 0 auto; object-fit: cover;">
-
+<p align="center">
+  <img src="Gemini_Generated_Image_u7lohwu7lohwu7lo.png" width="600" />
+</p>
 ---
 
 ## 📖 Overview
