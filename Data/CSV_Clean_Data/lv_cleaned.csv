@@ -1,0 +1,1621 @@
+LV_Name,LV_Family,LV_Manufacturer,LV_Max_Stage,Length,Diameter,Launch_Mass,LEO_Capacity,TO_Thrust,Class
+?,Unknown             ,,1,  0.0 , 0.00 ,     0.0 ,       0 ,       0 ,R
+Unknown,Unknown             ,,1,  0.0 , 0.00 ,     0.0 ,       0 ,       0 ,R
+N-1 11A52,N-1                 ,OKB1,3,105.3 ,14.00 ,  2788.0 ,   70000 ,   45300 ,O
+Saturn V,SaturnV             ,MSFC,4,110.6 ,10.06 ,  2913.0 ,  118000 ,   34030 ,O
+Starship V1.0 Ship,Starship            ,SPX,1, 50.0 , 9.00 ,  1470.0 ,       0 ,   12000 ,T
+Starship V1.0,Starship            ,SPX,2,121.3 , 9.00 ,  5020.0 ,  100000 ,   72500 ,O
+Starship V2,Starship            ,SPX,2,121.4 , 9.00 ,  5200.0 ,  100000 ,   80800 ,O
+Starship V3,Starship            ,SPX,2,142.0 , 9.00 ,  7000.0 ,  200000 ,  103000 ,O
+Space Shuttle,SRB                 ,RWI,3, 38.1 , 8.40 ,  2040.0 ,   24400 ,   28200 ,O
+SLS Block 1,SRB                 ,BOMIS,3, 98.1 , 8.40 ,  2608.0 ,       0 ,   39000 ,O
+Energiya,Energiya            ,NPOE,1, 58.7 , 7.75 ,  2524.0 ,   88000 ,   35139 ,O
+Energiya/Buran,Energiya            ,NPOE,1, 58.7 , 7.75 ,  2524.0 ,   88000 ,   35139 ,O
+UR-500,Proton              ,KHRU,2, 39.0 , 7.40 ,   595.0 ,    8400 ,    9500 ,O
+UR-500K,Proton              ,KHRU,3, 50.0 , 7.40 ,   694.0 ,   19000 ,    9500 ,O
+UR-500K/Blok D,Proton              ,KHRU,6, 55.4 , 7.40 ,   691.5 ,    5000 ,    9500 ,O
+Proton-K,Proton              ,KHRU,3, 50.0 , 7.40 ,   694.0 ,   21000 ,    9500 ,O
+Proton-K/D,Proton              ,KHRU,6, 55.4 , 7.40 ,   691.5 ,    5000 ,    9500 ,O
+Proton-K/D-1,Proton              ,KHRU,6, 55.4 , 7.40 ,   691.5 ,    5000 ,    9500 ,O
+Proton-K/D-2,Proton              ,KHRU,6, 55.4 , 7.40 ,   691.5 ,    5000 ,    9500 ,O
+Proton-K/DM,Proton              ,KHRU,6, 57.2 , 7.40 ,   691.5 ,    5000 ,    9500 ,O
+Proton-K/DM-2,Proton              ,KHRU,6, 57.2 , 7.40 ,   691.5 ,    5000 ,    9500 ,O
+Proton-M,Proton              ,KHRU,3, 53.0 , 7.40 ,   712.8 ,   21000 ,   10000 ,O
+Proton-M/DM-2,Proton              ,KHRU,6, 53.0 , 7.40 ,   712.8 ,   21000 ,   10000 ,O
+Proton-M/DM-3,Proton              ,KHRU,6, 53.0 , 7.40 ,   712.8 ,   21000 ,   10000 ,O
+Proton-K/DM-2M,Proton              ,KHRU,6, 57.2 , 7.40 ,   691.5 ,    5000 ,    9500 ,O
+Proton-K/17S40,Proton              ,KHRU,6, 57.2 , 7.40 ,   691.5 ,    5000 ,    9500 ,O
+Proton-K/Briz-M,Proton              ,KHRU,4, 53.0 , 7.40 ,   700.0 ,   21000 ,    9500 ,O
+Proton-M/Briz-M,Proton              ,KHRU,4, 53.0 , 7.40 ,   712.8 ,   21000 ,   10000 ,O
+Neutron,Neutron,RLABU,2, 42.8 , 7.00 ,   480.0 ,,    6570 ,O
+New Glenn 7x2,NewGlenn,BLORCC,2, 98.0 , 7.00 ,  1050.0 ,,   17219 ,O
+New Glenn 9x4,NewGlenn,BLORCC,2,122.0 , 7.00 ,  1200.0 ,,   25622 ,O
+Saturn C-1,Saturn              ,MSFC,3, 49.6 , 6.60 ,   420.0 ,    9000 ,    5768 ,O
+Saturn I,Saturn              ,MSFC,3, 50.4 , 6.60 ,   420.0 ,    9000 ,    5768 ,O
+Saturn IB,Saturn              ,MSFC,2, 68.1 , 6.53 ,   587.3 ,,    7290 ,O
+Uprated Saturn I,Saturn              ,MSFC,2, 68.1 , 6.53 ,   587.3 ,,    7290 ,O
+ATB,MX                  ,RSLP,1, 16.0 , 5.50 ,   140.6 ,,    1711 ,T
+Vulcan Centaur VC0S,Vulcan,ULAD,2, 67.0 , 5.40 ,   592.7 ,   27200 ,    4900 ,O
+Vulcan Centaur VC2S,Vulcan,ULAD,2, 67.0 , 5.40 ,   698.7 ,   27200 ,    8888 ,O
+Vulcan Centaur VC4S,Vulcan,ULAD,2, 67.0 , 5.40 ,   804.8 ,   27200 ,   13288 ,O
+Vulcan Centaur VC6S,Vulcan,ULAD,2, 67.0 , 5.40 ,   910.8 ,   27200 ,   17688 ,O
+Ariane 5G,Ariane5             ,EADSL,2, 45.7 , 5.40 ,   746.0 ,   10000 ,   11400 ,O
+Ariane 5G+,Ariane5             ,EADSL,2, 45.7 , 5.40 ,   746.0 ,   10000 ,   11400 ,O
+Ariane 5GS,Ariane5             ,EADSL,2, 45.7 , 5.40 ,   746.0 ,   10000 ,   11400 ,O
+Ariane 5ES/ATV,Ariane5             ,EADSL,2, 45.7 , 5.40 ,   746.0 ,   20000 ,   11400 ,O
+Ariane 5ES,Ariane5             ,EADSL,2, 45.7 , 5.40 ,   746.0 ,   20000 ,   11400 ,O
+Ariane 5ECA,Ariane5             ,EADSL,2, 57.7 , 5.40 ,   780.0 ,   10000 ,   11400 ,O
+Ariane 5ECA+,Ariane5             ,EADSL,2, 57.7 , 5.40 ,   780.0 ,   10000 ,   11400 ,O
+Ariane 62,Ariane5             ,ARIG,2, 60.0 , 5.40 ,   530.0 ,,    8400 ,O
+Ariane 64,Ariane5             ,ARIG,2, 60.0 , 5.40 ,   850.0 ,,   15370 ,O
+H3-30S,H2B                 ,JAXA,2, 57.0 , 5.20 ,   270.0 ,    4000 ,    3663 ,O
+H3-22S,H2B                 ,JAXA,2, 57.0 , 5.20 ,   419.0 ,       0 ,    2442 ,O
+H3-22L,H2B                 ,JAXA,2, 63.0 , 5.20 ,   420.0 ,       0 ,    2442 ,O
+H3-24L,H2B                 ,JAXA,2, 63.0 , 5.20 ,   572.0 ,       0 ,    2442 ,O
+H3-24W,H2B                 ,JAXA,2, 63.0 , 5.20 ,   572.0 ,       0 ,    2442 ,O
+H-IIB,H2B                 ,JAXA,2, 56.6 , 5.20 ,   551.0 ,   19000 ,    9000 ,O
+Chang Zheng 5,CZ5                 ,CALT,2, 59.5 , 5.00 ,   643.0 ,   25000 ,    1180 ,O
+Chang Zheng 5B,CZ5                 ,CALT,1, 59.5 , 5.00 ,   643.0 ,   25000 ,    1180 ,O
+Chang Zheng 5/YZ-2,CZ5                 ,CALT,3, 59.5 , 5.00 ,   643.0 ,   25000 ,    1180 ,O
+Chang Zheng 5B/YZ-2,CZ5                 ,CALT,2, 59.5 , 5.00 ,   643.0 ,   25000 ,    1180 ,O
+Delta 4H,Delta4              ,BOHB,2, 70.7 , 5.00 ,   733.4 ,,    8674 ,O
+Delta 4H/Star 48BV,Delta4              ,BOHB,3, 70.7 , 5.00 ,   733.4 ,,    8674 ,O
+Delta 4M,Delta4              ,BOHB,2, 63.0 , 5.00 ,   249.5 ,    8120 ,    2891 ,O
+"Delta 4M+(4,2)",Delta4              ,BOHB,2, 66.2 , 5.00 ,   292.7 ,   10430 ,    4200 ,O
+"Delta 4M+(5,4)",Delta4              ,BOHB,2, 70.7 , 5.00 ,   404.6 ,   11700 ,    5860 ,O
+"Delta 4M+(5,2)",Delta4              ,BOHB,2, 70.7 , 5.00 ,   404.6 ,   11700 ,    5860 ,O
+DC-XA,DC-X                ,MDAC,1, 12.6 , 4.95 ,    19.0 ,       0 ,     242 ,T
+DC-X,DC-X                ,MDAC,1, 12.6 , 4.95 ,    18.8 ,       0 ,     242 ,T
+Zhuque-3,ZQ-3,LANDSP,2, 66.1 , 4.50 ,   560.0 ,   12000 ,    7542 ,O
+H-II,H2                  ,MHITO,2, 49.0 , 4.00 ,   260.0 ,   10060 ,    3960 ,O
+H-IIA 202,H2                  ,NASDA,2, 53.0 , 4.00 ,   285.0 ,   10000 ,    5600 ,O
+H-IIA 204,H2                  ,NASDA,2, 53.0 , 4.00 ,   285.0 ,   10000 ,    5600 ,O
+H-IIA 2022,H2                  ,NASDA,2, 57.0 , 4.00 ,   348.0 ,,    8580 ,O
+H-IIA 2024,H2                  ,NASDA,2, 57.0 , 4.00 ,   348.0 ,,    8580 ,O
+GSLV Mk III,GSLV3               ,ISRO,2, 42.4 , 4.00 ,   629.0 ,,,O
+LVM3,GSLV3               ,ISRO,2, 42.4 , 4.00 ,   629.0 ,,,O
+Little Joe II,LJ2                 ,GDA,1, 26.2 , 3.96 ,    26.2 ,       0 ,    1482 ,T
+Antares 110,Zenit               ,OSCW,2, 40.5 , 3.90 ,   282.0 ,    4600 ,    3631 ,O
+Antares 120,Zenit               ,OSCW,2, 40.5 , 3.90 ,   282.0 ,    4600 ,    3631 ,O
+Antares 130,Zenit               ,OSCW,2, 40.5 , 3.90 ,   282.0 ,    5100 ,    3631 ,O
+Antares 230,Zenit               ,OSCW,2, 42.5 , 3.90 ,   290.0 ,    6250 ,    3844 ,O
+Antares 230+,Zenit               ,OSCW,2, 42.5 , 3.90 ,   290.0 ,    6250 ,    3844 ,O
+Zenit-2,Zenit               ,YUZH,2, 57.0 , 3.90 ,   459.0 ,   13500 ,    7259 ,O
+Zenit-2M,Zenit               ,YUZH,2, 57.0 , 3.90 ,   459.0 ,   13500 ,    7259 ,O
+Zenit-2 11K77.05,Zenit               ,YUZH,2, 57.0 , 3.90 ,   459.0 ,   13500 ,    7259 ,O
+Zenit-3SL,Zenit               ,YUZH,3, 59.6 , 3.90 ,   471.0 ,       0 ,    7259 ,O
+Zenit-2SB,Zenit               ,YUZH,2, 59.6 , 3.90 ,   471.0 ,       0 ,    7259 ,O
+Zenit-3F,Zenit               ,YUZH,3, 59.0 , 3.90 ,   471.0 ,       0 ,    7259 ,O
+Zenit-3SLB,Zenit               ,YUZH,3, 59.6 , 3.90 ,   471.0 ,       0 ,    7259 ,O
+Zenit-3SLBF,Zenit               ,YUZH,3, 59.6 , 3.90 ,   471.0 ,       0 ,    7259 ,O
+Atlas V 401,Atlas5              ,LMA,2, 58.3 , 3.80 ,   334.5 ,,    3800 ,O
+Atlas V 411,Atlas5              ,LMA,2, 58.3 , 3.80 ,   386.8 ,,,O
+Atlas V 421,Atlas5              ,LMA,2, 58.3 , 3.80 ,   433.8 ,,,O
+Atlas V 431,Atlas5              ,LMA,2, 59.1 , 3.80 ,   479.7 ,,,O
+Atlas V 501,Atlas5              ,LMA,2, 58.3 , 3.80 ,   334.5 ,,,O
+Atlas V 521,Atlas5              ,LMA,2, 59.7 , 3.80 ,   433.5 ,   14000 ,    6520 ,O
+Atlas V 511,Atlas5              ,LMA,2, 59.7 , 3.80 ,   433.5 ,   14000 ,    6520 ,O
+Atlas V 531,Atlas5              ,LMA,2, 60.0 , 3.80 ,   479.7 ,,,O
+Atlas V 541,Atlas5              ,LMA,2, 60.0 , 3.80 ,   479.7 ,,,O
+Atlas V 551,Atlas5              ,LMA,2, 59.7 , 3.80 ,   573.2 ,,,O
+Atlas V N22,Atlas5              ,LMA,2, 52.4 , 3.80 ,   444.2 ,,,O
+Ariane 1,Ariane              ,AELM,3, 47.4 , 3.80 ,   210.0 ,,    2462 ,O
+Ariane 2,Ariane              ,AELM,3, 49.0 , 3.80 ,   217.0 ,,    2689 ,O
+Ariane 3,Ariane              ,AELM,3, 49.0 , 3.80 ,   237.0 ,,    4021 ,O
+Ariane 40,Ariane              ,AELM,3, 58.4 , 3.80 ,   243.0 ,    2700 ,    2708 ,O
+Ariane 42L,Ariane              ,AELM,3, 58.4 , 3.80 ,   363.0 ,,    4208 ,O
+Ariane 42P,Ariane              ,AELM,3, 58.4 , 3.80 ,   320.0 ,,    4008 ,O
+Ariane 44L,Ariane              ,AELM,3, 58.4 , 3.80 ,   470.0 ,,    5708 ,O
+Ariane 44LP,Ariane              ,AELM,3, 58.4 , 3.80 ,   418.5 ,,    5528 ,O
+Ariane 44P,Ariane              ,AELM,3, 58.4 , 3.80 ,   355.0 ,,    5308 ,O
+Tianlong-3,TL3,TIANB,2, 71.0 , 3.80 ,   590.0 ,,    7600 ,O
+Tianlong-3 S1,TL3,TIANB,1, 71.0 , 3.80 ,   590.0 ,,    7600 ,O
+Longxing-2,CZ12,SAST,1, 30.0 , 3.80 ,,,       0 ,T
+Chang Zheng 12,CZ12,SAST,2, 62.0 , 3.80 ,   433.0 ,,    5000 ,O
+Chang Zheng 12A,CZ12,SAST,2, 69.0 , 3.80 ,   433.0 ,,    5000 ,O
+Ares I-X,SRB                 ,MSFC,1,100.0 , 3.77 ,   834.0 ,,       0 ,T
+LM AS,LMAS                ,GRUM,1,  2.5 , 3.76 ,     4.9 ,    2000 ,,D
+Dragon V2,Dragon              ,SPX,1,  6.1 , 3.70 ,     4.2 ,       0 ,     584 ,X
+Falcon Heavy,Falcon9             ,SPX,2, 69.2 , 3.65 ,  1400.0 ,   54400 ,   17000 ,O
+Falcon 9,Falcon9             ,SPX,2, 54.9 , 3.65 ,   333.4 ,    9300 ,    4940 ,O
+Grasshopper,Falcon9             ,SPX,1, 34.0 , 3.65 ,   200.0 ,       0 ,     540 ,T
+Falcon 9R,Falcon9             ,SPX,1, 49.0 , 3.65 ,   480.0 ,   13150 ,    5886 ,O
+Nuri,KSLV2               ,KARI,3, 47.2 , 3.50 ,   200.0 ,       0 ,    2942 ,O
+Vega C,VegaC               ,AVIO,4, 35.0 , 3.40 ,   210.0 ,       0 ,,O
+X-15,X-15                ,NAA,1, 15.3 , 3.55 ,    14.2 ,       0 ,     257 ,X
+Zhuque-2,ZQ-2,LANDSP,2, 49.5 , 3.35 ,   216.0 ,       0 ,    2630 ,O
+Zhuque-2E,ZQ-2,LANDSP,2, 49.5 , 3.35 ,   229.0 ,       0 ,    2880 ,O
+Dong Feng 5,DF5                 ,CALT,2, 32.6 , 3.35 ,   183.0 ,       0 ,    2500 ,M
+Dong Feng 5A,DF5                 ,CALT,2, 32.6 , 3.35 ,   183.0 ,       0 ,    2500 ,M
+Dong Feng 5C,DF5                 ,CALT,2, 32.6 , 3.35 ,   183.0 ,       0 ,    2500 ,M
+Feng Bao 1,DF5                 ,SBA,2, 32.6 , 3.35 ,   192.0 ,    2200 ,    2500 ,O
+Chang Zheng 2,DF5                 ,CALT,2, 31.2 , 3.35 ,   190.0 ,    2200 ,    2786 ,O
+Chang Zheng 2C,DF5                 ,CALT,2, 35.2 , 3.35 ,   192.0 ,    2800 ,    2962 ,O
+Chang Zheng 2C/YZ-1S,DF5                 ,CALT,3, 41.0 , 3.35 ,   213.0 ,    2800 ,    2962 ,O
+Chang Zheng 2C-III/SD,DF5                 ,CALT,3, 39.9 , 3.35 ,   213.0 ,    2800 ,    2962 ,O
+Chang Zheng 2D,DF5                 ,SAST,2, 38.3 , 3.35 ,   232.0 ,    3400 ,    2962 ,O
+Chang Zheng 2D/YZ-3,DF5                 ,SAST,3, 38.3 , 3.35 ,   232.0 ,    3400 ,    2962 ,O
+Chang Zheng 2E,DF5                 ,CALT,2, 51.2 , 3.35 ,   464.0 ,    9200 ,    5923 ,O
+Chang Zheng 2F,DF5                 ,CALT,2, 51.2 , 3.35 ,   464.0 ,    9200 ,    5923 ,O
+Chang Zheng 3,DF5                 ,CALT,3, 43.9 , 3.35 ,   202.0 ,       0 ,    2962 ,O
+Chang Zheng 3A,DF5                 ,CALT,3, 52.5 , 3.35 ,   240.0 ,       0 ,    2962 ,O
+Chang Zheng 3B,DF5                 ,CALT,3, 54.8 , 3.35 ,   425.8 ,       0 ,    5923 ,O
+Chang Zheng 3C,DF5                 ,CALT,3, 54.8 , 3.35 ,   345.0 ,       0 ,    4441 ,O
+Chang Zheng 3C/YZ-1,DF5                 ,CALT,4, 54.8 , 3.35 ,   345.0 ,       0 ,    4441 ,O
+Chang Zheng 3B/YZ-1,DF5                 ,CALT,4, 54.8 , 3.35 ,   345.0 ,       0 ,    4441 ,O
+Chang Zheng 6,DF5                 ,SAST,3, 29.0 , 3.35 ,   103.0 ,    1000 ,,O
+Chang Zheng 6A,DF5                 ,SAST,2, 50.0 , 3.35 ,   530.0 ,    1000 ,,O
+Chang Zheng 6C,DF5                 ,SAST,2, 29.0 , 3.35 ,   103.0 ,    1000 ,,O
+Chang Zheng 7,DF5                 ,CALT,2, 53.1 , 3.35 ,   594.0 ,   13500 ,,O
+Chang Zheng 7A,DF5                 ,CALT,3, 55.0 , 3.35 ,   615.0 ,   13500 ,,O
+Chang Zheng 7/YZ-1A,DF5                 ,CALT,3, 53.1 , 3.35 ,   594.0 ,   13500 ,,O
+Chang Zheng 8,DF5                 ,CALT,2, 53.1 , 3.35 ,   594.0 ,    8400 ,    4800 ,O
+Chang Zheng 8A,DF5                 ,CALT,2, 50.5 , 3.35 ,   371.0 ,    8400 ,    4800 ,O
+Chang Zheng 4,DF5                 ,SAST,3, 42.0 , 3.35 ,   249.0 ,    1650 ,    2962 ,O
+Chang Zheng 4B,DF5                 ,SAST,3, 43.1 , 3.35 ,   254.4 ,    2800 ,    2962 ,O
+Chang Zheng 4C,DF5                 ,SAST,3, 43.1 , 3.35 ,   254.4 ,    2800 ,    2962 ,O
+Tianlong-2,TL2,TIANB,3, 32.8 , 3.35 ,   150.0 ,    2000 ,    1860 ,O
+Titan I,Titan               ,MARTD,2, 31.0 , 3.05 ,   105.1 ,       0 ,    1450 ,M
+Titan II,Titan               ,MARTD,2, 31.1 , 3.05 ,   150.0 ,       0 ,    2000 ,M
+Titan II GLV,Titan               ,MARTD,2, 32.8 , 3.05 ,   150.0 ,    3600 ,    2090 ,O
+Titan II SLV,Titan               ,MARTD,2, 34.6 , 3.05 ,   155.0 ,    1900 ,    2090 ,O
+Titan IIIA,Titan               ,MARTD,3, 42.0 , 3.05 ,   161.7 ,    4100 ,    2300 ,O
+Titan IIIB,Titan               ,MMD,3, 45.0 , 3.05 ,   156.5 ,    3700 ,    2300 ,O
+Titan IIIC,Titan               ,MMD,3, 38.3 , 3.05 ,   626.2 ,   13300 ,   10600 ,O
+Titan IIID,Titan               ,MMD,2, 36.0 , 3.05 ,   613.0 ,   11200 ,   10600 ,O
+Titan IIIE,Titan               ,MMD,3, 48.8 , 3.05 ,   633.0 ,   14000 ,   10600 ,O
+Titan 23B,Titan               ,MMD,3, 45.0 , 3.05 ,   165.0 ,    3600 ,    2300 ,O
+Titan 24B,Titan               ,MMD,3, 45.0 , 3.05 ,   170.0 ,    3600 ,    2410 ,O
+Titan 33B,Titan               ,MMD,3, 45.0 , 3.05 ,   185.0 ,    3600 ,    2300 ,O
+Titan 34B,Titan               ,MMD,3, 45.5 , 3.05 ,   188.5 ,    3600 ,    2410 ,O
+Titan 34D,Titan               ,MMD,2, 50.0 , 3.05 ,   723.5 ,   15350 ,   11280 ,O
+Titan 34D/Transtage,Titan               ,MMD,3, 50.0 , 3.05 ,   720.0 ,       0 ,   11280 ,O
+Titan 34D/IUS,Titan               ,MMD,4, 52.4 , 3.05 ,   725.0 ,       0 ,   11280 ,O
+Commercial Titan 3,Titan               ,MMD,2, 47.3 , 3.05 ,   680.0 ,   14515 ,   12450 ,O
+Titan 401A/Centaur,Titan               ,LMA,3, 63.1 , 3.05 ,   868.0 ,       0 ,   14200 ,O
+Titan 402A/IUS,Titan               ,LMA,4, 54.0 , 3.05 ,   910.0 ,       0 ,   14200 ,O
+Titan 403A,Titan               ,LMA,2, 54.0 , 3.05 ,   906.0 ,   17700 ,   14200 ,O
+Titan 404A,Titan               ,LMA,2, 54.0 , 3.05 ,   906.0 ,   17700 ,   14200 ,O
+Titan 405A,Titan               ,LMA,2, 54.0 , 3.05 ,   906.0 ,   17700 ,   14200 ,O
+Titan 401B/Centaur,Titan               ,LMA,3, 62.2 , 3.05 ,   939.0 ,       0 ,   15000 ,O
+Titan 402B/IUS,Titan               ,LMA,4, 54.0 , 3.05 ,   925.0 ,       0 ,   15000 ,O
+Titan 403B,Titan               ,LMA,2, 54.0 , 3.05 ,   910.0 ,   21680 ,   15000 ,O
+Titan 404B,Titan               ,LMA,2, 54.0 , 3.05 ,   910.0 ,   21680 ,   15000 ,O
+Titan 405B,Titan               ,LMA,2, 54.0 , 3.05 ,   910.0 ,   21680 ,   15000 ,O
+Blue Streak,BlueStreak          ,ELDO,1, 31.7 , 3.05 ,   100.0 ,       0 ,    1512 ,X
+ELDO A,BlueStreak          ,ELDO,3, 31.7 , 3.05 ,   104.6 ,    1000 ,    1512 ,O
+Europa I,BlueStreak          ,ELDO,3, 31.7 , 3.05 ,   104.6 ,    1000 ,    1512 ,O
+Europa II,BlueStreak          ,ELDO,4, 31.7 , 3.05 ,   111.7 ,    1160 ,    1512 ,O
+Atlas A,Atlas               ,GDA,1, 22.9 , 3.05 ,    82.0 ,       0 ,    1210 ,X
+Atlas B,Atlas               ,GDA,1, 22.0 , 3.05 ,   112.5 ,      68 ,    1615 ,O
+Atlas C,Atlas               ,GDA,1, 24.0 , 3.05 ,   112.5 ,       0 ,    1615 ,M
+Atlas D,Atlas               ,GDA,1, 24.0 , 3.05 ,   119.0 ,    1400 ,    1629 ,O
+Atlas E,Atlas               ,GDA,1, 20.0 , 3.05 ,   121.0 ,    1700 ,    1731 ,O
+Atlas F,Atlas               ,GDA,1, 20.0 , 3.05 ,   121.0 ,    1700 ,    1731 ,O
+Atlas F/Trident,Atlas               ,GDA,2, 25.0 , 3.05 ,   130.0 ,       0 ,    1731 ,M
+Atlas E/Trident,Atlas               ,GDA,2, 25.0 , 3.05 ,   130.0 ,       0 ,    1731 ,M
+Atlas C Able,Atlas               ,GDA,3, 28.0 , 3.05 ,   120.0 ,     170 ,    1615 ,O
+Atlas F/Agena D,Atlas               ,GDA,2, 34.6 , 3.05 ,   130.0 ,,    1731 ,O
+Atlas F/MSD,Atlas               ,GDA,2, 27.3 , 3.05 ,   122.0 ,    1200 ,    1731 ,O
+Atlas E/MSD,Atlas               ,GDA,2, 27.3 , 3.05 ,   122.0 ,    1200 ,    1731 ,O
+Atlas E Altair,Atlas               ,GDA,2, 27.3 , 3.05 ,   125.0 ,       0 ,    1731 ,O
+Atlas F/OIS,Atlas               ,GDA,2, 32.1 , 3.05 ,   120.0 ,,    1731 ,O
+Atlas E/OIS,Atlas               ,GDA,2, 28.7 , 3.05 ,   120.0 ,,    1731 ,O
+Atlas F/PTS,Atlas               ,GDA,2, 29.2 , 3.05 ,   125.0 ,     295 ,    1731 ,O
+Atlas E/SVS,Atlas               ,GDA,3, 29.2 , 3.05 ,   125.0 ,     700 ,    1731 ,O
+Atlas F/SVS,Atlas               ,GDA,3, 29.2 , 3.05 ,   125.0 ,     700 ,    1731 ,O
+Atlas E/SGS-2,Atlas               ,GDA,3, 32.1 , 3.05 ,   125.0 ,     861 ,    1731 ,O
+Atlas SLV-3,Atlas               ,GDA,1, 21.0 , 3.05 ,   120.0 ,       0 ,    1650 ,O
+Atlas G Centaur,Atlas               ,GDA,2, 41.8 , 3.05 ,   166.1 ,    3630 ,    1987 ,O
+Atlas H,Atlas               ,GDA,1, 27.4 , 3.05 ,   150.5 ,    2000 ,    1954 ,O
+Atlas Able,Atlas               ,GDA,3, 35.0 , 3.05 ,   120.0 ,,    1629 ,O
+Atlas Agena A,Atlas               ,GDA,2, 30.0 , 3.05 ,   124.0 ,,    1629 ,O
+Atlas Agena B,Atlas               ,GDA,2, 32.1 , 3.05 ,   130.0 ,,    1629 ,O
+Atlas Agena D,Atlas               ,GDA,2, 32.1 , 3.05 ,   130.0 ,,    1590 ,O
+Atlas SLV-3 Agena B,Atlas               ,GDA,2, 32.1 , 3.05 ,   140.0 ,,    1629 ,O
+Atlas SLV-3 Agena D,Atlas               ,GDA,2, 32.1 , 3.05 ,   140.0 ,,    1629 ,O
+Atlas SLV-3A Agena D,Atlas               ,GDA,2, 36.0 , 3.05 ,   155.0 ,,    1700 ,O
+Atlas Burner 2,Atlas               ,GDA,2, 28.9 , 3.05 ,   130.0 ,,    1700 ,O
+Atlas Burner 2A,Atlas               ,GDA,3, 30.0 , 3.05 ,   130.0 ,,    1700 ,O
+Atlas Centaur,Atlas               ,GDA,2, 33.0 , 3.05 ,   136.1 ,,    1629 ,O
+Atlas Centaur D,Atlas               ,GDA,2, 33.0 , 3.05 ,   136.1 ,,    1629 ,O
+Atlas SLV-3C Centaur,Atlas               ,GDA,2, 40.2 , 3.05 ,   148.4 ,,    1700 ,O
+Atlas SLV-3D Centaur,Atlas               ,GDA,2, 40.3 , 3.05 ,   149.0 ,,    1741 ,O
+Atlas I,Atlas               ,LMA,2, 41.8 , 3.05 ,   166.1 ,,    1987 ,O
+Atlas II,Atlas               ,LMA,2, 45.0 , 3.05 ,   187.0 ,    6580 ,    2140 ,O
+Atlas IIA,Atlas               ,LMA,2, 47.4 , 3.05 ,   187.5 ,    7316 ,    2140 ,O
+Atlas IIAS,Atlas               ,LMA,2, 47.4 , 3.05 ,   237.2 ,    8618 ,    3000 ,O
+Atlas 3A,Atlas               ,LMA,2, 52.8 , 3.05 ,   225.0 ,    8620 ,    3827 ,O
+Atlas 3B,Atlas               ,LMA,2, 53.6 , 3.05 ,   225.0 ,    8620 ,    3827 ,O
+New Shepard,NewShepard          ,BLOR,1, 15.0 , 3.00 ,    35.0 ,       0 ,    1020 ,O
+Vega,Vega                ,ELV,4, 30.1 , 3.00 ,   136.7 ,    1500 ,    2974 ,O
+YGCS,YGCS,CALT,1, 20.0 , 3.00 ,   100.0 ,       0 ,,M
+Sarmat,Sarmat,MAK,2, 35.5 , 3.00 ,   208.1 ,       0 ,,M
+R-36,R-36                ,OKB586,2, 34.1 , 3.00 ,   183.9 ,       0 ,    2360 ,M
+R-36 8K67,R-36                ,OKB586,2, 34.1 , 3.00 ,   183.9 ,       0 ,    2360 ,M
+R-36 8K67P,R-36                ,OKB586,2, 33.9 , 3.00 ,   183.9 ,       0 ,    2360 ,M
+R-36 8K67PM,R-36                ,OKB586,2, 33.9 , 3.00 ,   183.9 ,       0 ,    2360 ,M
+R-36 8K67M,R-36                ,OKB586,2, 34.6 , 3.00 ,   185.0 ,       0 ,    2360 ,M
+R-36 8K67MA,R-36                ,OKB586,2, 34.6 , 3.00 ,   185.0 ,       0 ,    2360 ,M
+R-36O 8K69,R-36                ,OKB586,2, 35.0 , 3.00 ,   180.0 ,       0 ,    2360 ,O
+R-36O 8K69M,R-36                ,OKB586,2, 35.0 , 3.00 ,   180.0 ,       0 ,    2360 ,O
+Tsiklon-2A,R-36                ,OKB586,2, 39.7 , 3.00 ,   180.0 ,    3000 ,    2652 ,O
+Tsiklon-2,R-36                ,OKB586,2, 35.5 , 3.00 ,   180.0 ,    3350 ,    2652 ,O
+Tsiklon-3,R-36                ,YUZH,3, 39.3 , 3.00 ,   190.0 ,    4100 ,    2745 ,O
+R-36M 15A14,R-36                ,YUZH,2, 33.6 , 3.00 ,   209.6 ,       0 ,    4500 ,M
+R-36MU 15A18,R-36                ,YUZH,3, 34.3 , 3.00 ,   211.0 ,       0 ,    4525 ,M
+R-36M2 15A18M,R-36                ,YUZH,3, 37.0 , 3.00 ,   211.1 ,       0 ,    4500 ,M
+Dnepr,R-36                ,YUZH,3, 34.3 , 3.00 ,   211.0 ,    4500 ,    4525 ,O
+R-16,R-16                ,OKB586,2, 34.3 , 3.00 ,   140.6 ,       0 ,    2610 ,M
+R-16U,R-16                ,OKB586,2, 34.3 , 3.00 ,   140.6 ,       0 ,    2610 ,M
+UR-200,UR-200              ,KHRU,2, 26.4 , 3.00 ,   138.0 ,       0 ,    2001 ,M
+R-7,R-7                 ,OKB1,2, 34.2 , 2.95 ,   274.3 ,       0 ,    3904 ,M
+R-7A,R-7                 ,OKB1,2, 31.1 , 2.95 ,   276.6 ,       0 ,    4020 ,M
+Sputnik 8K71PS,R-7                 ,OKB1,2, 29.2 , 2.95 ,   265.0 ,     500 ,    3904 ,O
+Sputnik 8A91,R-7                 ,OKB1,2, 29.2 , 2.95 ,   268.6 ,     500 ,    3806 ,O
+Voskhod 11A57,R-7                 ,OKB1,3, 44.0 , 2.95 ,   305.1 ,    5600 ,    4054 ,O
+Vostok-L 8K72,R-7                 ,OKB1,3, 33.5 , 2.95 ,   279.1 ,    4000 ,    3998 ,O
+Vostok 8K72,R-7                 ,OKB1,3, 38.4 , 2.95 ,   283.5 ,    4500 ,    3998 ,O
+Vostok 8A92,R-7                 ,OKB1,3, 38.4 , 2.95 ,   285.9 ,    4750 ,    4020 ,O
+Vostok 8A92M,R-7                 ,PROG,3, 38.8 , 2.95 ,   283.1 ,    1280 ,    4020 ,O
+Polyot 11A59,R-7                 ,OKB1,2, 34.5 , 2.95 ,   275.3 ,    2250 ,    4020 ,O
+Vostok-2A 11A510,R-7                 ,OKB1,2, 37.9 , 2.95 ,   280.7 ,    3600 ,    4054 ,O
+Soyuz 11A511,R-7                 ,PROG/OKB1,3, 50.0 , 2.95 ,   300.0 ,    6500 ,    4054 ,O
+Soyuz 11A511L,R-7                 ,PROG/OKB1,3, 50.0 , 2.95 ,   300.0 ,    6500 ,    4054 ,O
+Soyuz 11A511M,R-7                 ,PROG/OKB1,3, 50.0 , 2.95 ,   300.0 ,    6500 ,    4054 ,O
+Soyuz-U,R-7                 ,PROG,3, 50.7 , 2.95 ,   310.0 ,    7200 ,    4032 ,O
+Soyuz-U-PVB,R-7                 ,PROG,3, 50.7 , 2.95 ,   310.0 ,    7200 ,    4032 ,O
+Soyuz-U2,R-7                 ,PROG,3, 50.7 , 2.95 ,   310.0 ,    7200 ,    4062 ,O
+Soyuz-2-1A,R-7                 ,PROG,3, 50.7 , 2.95 ,   313.0 ,    7600 ,    4146 ,O
+Soyuz-2-1B,R-7                 ,PROG,3, 50.7 , 2.95 ,   313.0 ,    7600 ,    4146 ,O
+Soyuz-2-1V,Blok-A              ,PROG,2, 41.1 , 2.95 ,   160.0 ,    2800 ,,O
+Soyuz-ST-A,R-7                 ,PROG,3, 50.7 , 2.95 ,   313.0 ,    7600 ,    4146 ,O
+Soyuz-ST-B,R-7                 ,PROG,3, 50.7 , 2.95 ,   313.0 ,    7600 ,    4146 ,O
+Soyuz-FG,R-7                 ,PROG,3, 46.0 , 2.95 ,   308.0 ,    7200 ,    4146 ,O
+Molniya 8K78,R-7                 ,OKB1,5, 44.0 , 2.95 ,   305.5 ,,    4020 ,O
+Molniya 8K78M,R-7                 ,PROG,5, 42.8 , 2.95 ,   305.5 ,,    4054 ,O
+Molniya 8K78M-PVB,R-7                 ,PROG,5, 43.4 , 2.95 ,   305.0 ,       0 ,    4054 ,O
+Angara A5,Angara              ,KHRU,3, 42.8 , 2.90 ,   773.0 ,   24500 ,    2095 ,O
+Angara A5/Persei,Angara              ,KHRU,3, 42.8 , 2.90 ,   773.0 ,   24500 ,    2095 ,O
+Angara A5/Orion,Angara              ,KHRU,3, 42.8 , 2.90 ,   773.0 ,   24500 ,    2095 ,O
+Angara-1.2PP,Angara              ,KHRU,2, 42.8 , 2.90 ,   171.0 ,       0 ,    2095 ,O
+Angara-1.2,Angara              ,KHRU,3, 42.8 , 2.90 ,   171.0 ,       0 ,    2095 ,O
+Naro-1,Angara              ,KARI,2, 33.5 , 2.90 ,   140.0 ,     100 ,    2095 ,O
+PSLV,PSLV                ,VSSC/SHAR,4, 44.4 , 2.80 ,   294.0 ,    1600 ,    5290 ,O
+PSLV-DL,PSLV                ,VSSC/SHAR,4, 44.4 , 2.80 ,   230.0 ,    1300 ,    4430 ,O
+PSLV-QL,PSLV                ,VSSC/SHAR,4, 44.4 , 2.80 ,   230.0 ,    1300 ,    4430 ,O
+PSLV-XL,PSLV                ,VSSC/SHAR,4, 44.4 , 2.80 ,   230.0 ,    1800 ,    9230 ,O
+GSLV Mk I,PSLV                ,VSSC/SHAR,3, 49.0 , 2.80 ,   401.0 ,       0 ,    7420 ,O
+GSLV Mk II,PSLV                ,VSSC/SHAR,3, 49.0 , 2.80 ,   401.0 ,       0 ,    7420 ,O
+R-9A,R-9                 ,OKB1,2, 24.0 , 2.68 ,   100.0 ,       0 ,    1385 ,M
+Jupiter IRBM,Jupiter             ,CHRY/ABMA,1, 18.4 , 2.67 ,    54.4 ,       0 ,     667 ,M
+Juno II,Jupiter             ,CHRY/ABMA,4, 23.4 , 2.67 ,    55.3 ,      50 ,     667 ,O
+Lijian-1,ZK-1,CASIOM,4, 50.0 , 2.65 ,   135.0 ,,,O
+Jielong-3,ZK-1,CZHJ,4, 31.0 , 2.65 ,   140.0 ,    1500 ,,O
+Yinli-1,ZK-1,DFK,3, 29.0 , 2.65 ,   400.0 ,    6500 ,,O
+Al Abid,Abid                ,IQ,3, 25.0 , 2.64 ,    48.0 ,       0 ,     650 ,X
+KSLV-II TLV,KSLV2-2             ,KARI,2, 25.8 , 2.60 ,    52.1 ,       0 ,     747 ,M
+A-350,A-350               ,SKB30,2, 20.0 , 2.57 ,    33.0 ,       0 ,,M
+A-350Zh,A-350               ,SKB30,2, 17.9 , 2.57 ,    32.0 ,       0 ,,M
+A-925,A-350               ,FAKEL,2, 19.8 , 2.57 ,    33.0 ,       0 ,,M
+Nudol',A-350               ,ALMAN,2, 19.0 , 2.60 ,    33.0 ,       0 ,,M
+Hwasong-17,Hwasong-15          ,KPA,2, 25.0 , 2.60 ,   100.0 ,       0 ,    3200 ,M
+Epsilon,H2.SRB              ,JAXA,4, 24.4 , 2.50 ,    91.0 ,       0 ,    2250 ,O
+UR-100N,UR-100N             ,KHRU,2, 18.9 , 2.50 ,    50.0 ,       0 ,,M
+UR-100NU 15A35,UR-100N             ,KHRU,3, 24.3 , 2.50 ,   105.6 ,       0 ,    1870 ,M
+UR-100NU 15A35P,UR-100N             ,KHRU,3, 24.3 , 2.50 ,   105.6 ,       0 ,    1870 ,M
+UR-100NU 15A35S,UR-100N             ,KHRU,3, 24.3 , 2.50 ,   105.6 ,       0 ,    1870 ,M
+Strela,UR-100N             ,NPOMA,3, 29.2 , 2.50 ,   105.0 ,    1400 ,,O
+Rokot,UR-100N             ,KHRU,3, 29.0 , 2.50 ,   107.0 ,    1850 ,    1870 ,O
+M-V,MV                  ,NISST,3, 30.7 , 2.50 ,   139.0 ,    1800 ,    3786 ,O
+Thor DM-18,Thor                ,DACM,1, 19.8 , 2.44 ,    48.5 ,       0 ,     710 ,M
+Thor DM-18A,Thor                ,DACM,1, 19.4 , 2.44 ,    48.9 ,       0 ,     668 ,M
+Thor DM-18C,Thor                ,DACM,1, 22.0 , 2.44 ,    48.5 ,       0 ,     734 ,M
+Thor Able,Thor                ,DACM,2, 24.8 , 2.44 ,    48.3 ,       0 ,     668 ,M
+Thor Able I,Thor                ,DACM,3, 26.9 , 2.44 ,    52.0 ,      50 ,     710 ,O
+Thor Able II,Thor                ,DACM,2, 27.3 , 2.44 ,    52.0 ,,     668 ,M
+Thor Able III,Thor                ,DACM,3, 27.4 , 2.44 ,    52.0 ,     100 ,     668 ,O
+Thor Able IV,Thor                ,DACM,3, 27.2 , 2.44 ,    52.0 ,     100 ,     668 ,O
+Thor Ablestar,Thor                ,DACM,2, 23.5 , 2.44 ,    53.0 ,     150 ,     668 ,O
+Thor Agena A,Thor                ,DACM,2, 24.0 , 2.44 ,    53.1 ,     250 ,     670 ,O
+Thor Agena B,Thor                ,DACM,2, 23.4 , 2.44 ,    56.5 ,,     670 ,O
+Thor Agena D,Thor                ,DACM,2, 23.4 , 2.44 ,    56.5 ,,     743 ,O
+Thor SLV-2 Agena B,Thor                ,DACM,2, 27.2 , 2.44 ,    56.5 ,,     756 ,O
+Thor SLV-2 Agena D,Thor                ,DACM,2, 27.2 , 2.44 ,    56.5 ,,     756 ,O
+Thor SLV-2A Agena B,Thor                ,DACM,2, 27.2 , 2.44 ,    67.8 ,,    1475 ,O
+Thor SLV-2A Agena D,Thor                ,DACM,2, 27.2 , 2.44 ,    67.8 ,,    1475 ,O
+Thorad SLV-2G Agena D,Thor                ,DACM,2, 32.9 , 2.44 ,    91.4 ,    1500 ,    1444 ,O
+Thorad SLV-2H Agena D,Thor                ,DACM,2, 32.9 , 2.44 ,    91.4 ,    1500 ,    1444 ,O
+Thor Delta,Thor                ,DACM,3, 27.5 , 2.44 ,    50.7 ,     226 ,     734 ,O
+Thor Delta A,Thor                ,DACM,3, 27.5 , 2.44 ,    51.0 ,     250 ,     756 ,O
+Thor Delta B,Thor                ,DACM,3, 27.5 , 2.44 ,    51.8 ,     370 ,     756 ,O
+Thor Delta C,Thor                ,DACM,3, 27.5 , 2.44 ,    52.0 ,     400 ,     756 ,O
+Thor Delta C1,Thor                ,DACM,3, 27.5 , 2.44 ,    52.0 ,     400 ,     756 ,O
+Thor Delta D,Thor                ,DACM,3, 27.5 , 2.44 ,    64.7 ,     450 ,     756 ,O
+Thor Delta E,Thor                ,DACM,3, 28.0 , 2.44 ,    68.0 ,     540 ,    1450 ,O
+Thor Delta E1,Thor                ,DACM,3, 28.0 , 2.44 ,    68.0 ,     540 ,    1450 ,O
+Thor Delta G,Thor                ,DACM,2, 28.0 , 2.44 ,    65.0 ,,    1590 ,O
+Thor Delta J,Thor                ,DACM,3, 28.0 , 2.44 ,    65.0 ,,    1590 ,O
+Thor Delta L,Thor                ,DACM,3, 34.0 , 2.44 ,    89.9 ,,    1590 ,O
+Thor Delta M,Thor                ,DACM,3, 32.4 , 2.44 ,    91.0 ,,    1590 ,O
+Thor Delta M6,Thor                ,DACM,3, 32.4 , 2.44 ,   103.7 ,,    2411 ,O
+Thor Delta N,Thor                ,DACM,2, 33.0 , 2.44 ,    90.0 ,,    1590 ,O
+Thor Delta N6,Thor                ,DACM,2, 33.0 , 2.44 ,   102.9 ,,    2411 ,O
+Thor DSV-2D,Thor                ,DACM,1, 21.7 , 2.44 ,    50.0 ,       0 ,     743 ,X
+Thor DSV-2E,Thor                ,DACM,1, 19.4 , 2.44 ,    49.3 ,       0 ,     668 ,M
+Thor DSV-2F,Thor                ,DACM,1, 20.8 , 2.44 ,    50.0 ,       0 ,     668 ,V
+Thor DSV-2G,Thor                ,DACM,2, 26.9 , 2.44 ,    55.0 ,       0 ,     668 ,V
+Thor DSV-2J,Thor                ,DACM,1, 19.4 , 2.44 ,    55.0 ,       0 ,     668 ,M
+Thor DSV-2U,Thor                ,DACM,2, 23.0 , 2.44 ,    49.5 ,     500 ,     750 ,O
+Thor MG-18,Thor                ,DACM,2, 23.0 , 2.44 ,    50.0 ,     200 ,     668 ,O
+Thor Burner 1,Thor                ,DACM,2, 23.0 , 2.44 ,    50.0 ,     200 ,     668 ,O
+Thor Burner 2,Thor                ,DACM,2, 22.4 , 2.44 ,    50.0 ,     500 ,     750 ,O
+Thor Burner 2A,Thor                ,MDAC,3, 23.0 , 2.44 ,    50.0 ,     500 ,     750 ,O
+Delta 0300,Thor                ,MDAC,2, 34.0 , 2.44 ,    90.1 ,    1000 ,    1590 ,O
+Delta 0900,Thor                ,MDAC,2, 34.0 , 2.44 ,   116.5 ,    1300 ,    2500 ,O
+Delta 1410,Thor                ,MDAC,2, 35.0 , 2.44 ,   110.0 ,    1000 ,    1863 ,O
+Delta 1604,Thor                ,MDAC,3, 35.0 , 2.44 ,   118.0 ,,    2410 ,O
+Delta 1900,Thor                ,MDAC,2, 35.0 , 2.44 ,   130.0 ,,    2410 ,O
+Delta 1910,Thor                ,MDAC,2, 35.0 , 2.44 ,   130.0 ,,    2410 ,O
+Delta 1913,Thor                ,MDAC,3, 35.0 , 2.44 ,   130.0 ,,    2410 ,O
+Delta 1914,Thor                ,MDAC,3, 35.0 , 2.44 ,   130.3 ,,    2410 ,O
+Delta 2310,Thor                ,MDAC,2, 35.0 , 2.44 ,   131.0 ,,    1737 ,O
+Delta 2910,Thor                ,MDAC,2, 35.0 , 2.44 ,   131.0 ,,    2560 ,O
+Delta 2313,Thor                ,MDAC,3, 35.0 , 2.44 ,   131.0 ,    1540 ,    1737 ,O
+Delta 2913,Thor                ,MDAC,3, 35.0 , 2.44 ,   131.8 ,    2000 ,    2560 ,O
+Delta 2914,Thor                ,MDAC,3, 35.0 , 2.44 ,   130.4 ,    2000 ,    2560 ,O
+Delta 3910,Thor                ,MDAC,2, 35.0 , 2.44 ,   190.0 ,,    3188 ,O
+Delta 3910/PAM,Thor                ,MDAC,3, 35.0 , 2.44 ,   191.6 ,       0 ,    3188 ,O
+Delta 3913,Thor                ,MDAC,3, 35.0 , 2.44 ,   190.0 ,,    3188 ,O
+Delta 3914,Thor                ,MDAC,3, 35.0 , 2.44 ,   190.3 ,    2700 ,    3188 ,O
+Delta 3920-8,Thor                ,MDAC,2, 36.0 , 2.44 ,   190.0 ,,    3188 ,O
+Delta 3920,Thor                ,MDAC,2, 36.0 , 2.44 ,   191.0 ,,    3188 ,O
+Delta 3920/PAM,Thor                ,MDAC,3, 36.0 , 2.44 ,   191.6 ,       0 ,    3188 ,O
+Delta 3924,Thor                ,MDAC,3, 36.0 , 2.44 ,   191.0 ,,    3188 ,O
+Delta 4925-8,Thor                ,MDAC,3, 34.0 , 2.44 ,   200.7 ,,    3470 ,O
+Delta 5920-8,Thor                ,MDAC,2, 34.0 , 2.44 ,   201.6 ,    3850 ,    3470 ,O
+Delta 6920-8,Thor                ,MDAC,2, 39.0 , 2.44 ,   219.0 ,,    3790 ,O
+Delta 6920-10,Thor                ,MDAC,2, 39.0 , 2.44 ,   219.0 ,,    3790 ,O
+Delta 6925-8,Thor                ,MDAC,3, 39.0 , 2.44 ,   219.0 ,       0 ,    3790 ,O
+Delta 6925,Thor                ,MDAC,3, 39.0 , 2.44 ,   219.0 ,       0 ,    3790 ,O
+Delta 7320-10,Thor                ,MDAC,2, 38.9 , 2.44 ,   151.7 ,,    2500 ,O
+Delta 7320-10C,Thor                ,MDAC,2, 38.9 , 2.44 ,   151.7 ,,    2500 ,O
+Delta 7326-9.5,Thor                ,MDAC,3, 38.4 , 2.44 ,   155.0 ,,    2500 ,O
+Delta 7420-10C,Thor                ,MDAC,2, 39.0 , 2.44 ,   165.0 ,,    3020 ,O
+Delta 7425-9.5,Thor                ,MDAC,3, 39.0 , 2.44 ,   170.0 ,,    3020 ,O
+Delta 7425-10,Thor                ,MDAC,3, 39.0 , 2.44 ,   170.0 ,,    3020 ,O
+Delta 7426-9.5,Thor                ,MDAC,3, 39.0 , 2.44 ,   170.0 ,,    3020 ,O
+Delta 7920-8,Thor                ,MDAC,2, 39.0 , 2.44 ,   220.0 ,    5118 ,    4000 ,O
+Delta 7920-10,Thor                ,MDAC,2, 39.0 , 2.44 ,   220.0 ,    5118 ,    4000 ,O
+Delta 7920-10C,Thor                ,MDAC,2, 39.0 , 2.44 ,   232.0 ,,    4000 ,O
+Delta 7920-10L,Thor                ,MDAC,2, 40.0 , 2.44 ,   232.0 ,,    4000 ,O
+Delta 7925,Thor                ,MDAC,3, 39.7 , 2.44 ,   219.9 ,,    4000 ,O
+Delta 7925H,Thor                ,MDAC,3, 39.7 , 2.44 ,   283.0 ,,    5030 ,O
+Delta 7920H,Thor                ,MDAC,2, 39.7 , 2.44 ,   283.0 ,,    5030 ,O
+Delta 7925-8,Thor                ,MDAC,3, 38.2 , 2.44 ,   220.0 ,,    4000 ,O
+Delta 7925-9.5,Thor                ,MDAC,3, 39.0 , 2.44 ,   231.0 ,,    4000 ,O
+Delta 7925-10,Thor                ,MDAC,3, 38.9 , 2.44 ,   231.9 ,,    4000 ,O
+Delta 7925-10C,Thor                ,MDAC,3, 38.9 , 2.44 ,   231.9 ,,    4000 ,O
+Delta 7925-10L,Thor                ,MDAC,3, 38.9 , 2.44 ,   231.9 ,,    4000 ,O
+Delta 8930,Thor                ,BOHB,2, 39.1 , 2.44 ,   301.5 ,    8280 ,    4891 ,O
+N-1,Thor                ,MHITO,3, 33.0 , 2.44 ,    90.0 ,    1200 ,    2290 ,O
+N-2,Thor                ,MHITO,3, 35.0 , 2.44 ,   135.0 ,    2000 ,    2290 ,O
+H-1,Thor                ,MHITO,3, 42.0 , 2.44 ,   142.0 ,    3200 ,    2130 ,O
+R-39,R-39                ,MAK,3, 16.0 , 2.40 ,    84.0 ,       0 ,    2060 ,M
+R-39U,R-39                ,MAK,3, 16.0 , 2.40 ,    84.0 ,       0 ,    2060 ,M
+R-39UTTKh,R-39                ,MAK,3, 16.0 , 2.40 ,    34.0 ,       0 ,    2060 ,M
+Grom,R-39                ,MAK,3, 16.0 , 2.40 ,    84.0 ,       0 ,    2060 ,M
+RT-23 15Zh44,R-39                ,YUZH,3, 22.4 , 2.40 ,   104.5 ,       0 ,    2060 ,M
+RT-23 15Zh52,R-39                ,YUZH,3, 22.4 , 2.40 ,   104.5 ,       0 ,    2060 ,M
+RT-23U 15Zh61,R-39                ,YUZH,3, 22.6 , 2.40 ,   104.5 ,       0 ,    2060 ,M
+RT-23U 15Zh60,R-39                ,YUZH,3, 22.6 , 2.40 ,   104.5 ,       0 ,    2060 ,M
+Hwasong-18,Hwasong-18         ,KPA,3, 27.0 , 2.40 ,    40.0 ,       0 ,,M
+Hwasong-19,Hwasong-18         ,KPA,3, 27.0 , 2.40 ,    40.0 ,       0 ,,M
+Hwasong-16,Hwasong-18         ,KPA,2, 15.0 , 2.40 ,    18.0 ,       0 ,,M
+Hwasong-16Na,Hwasong-18         ,KPA,2, 13.0 , 2.40 ,    18.0 ,       0 ,,M
+Cheonlima-1,Hwasong-15          ,NADA,3, 25.0 , 2.40 ,   100.0 ,      50 ,    1000 ,O
+NK Kerolox LV,Hwasong-15          ,NADA,3, 25.0 , 2.40 ,   100.0 ,      50 ,    1000 ,O
+Hwasong-15,Hwasong-15          ,KPA,2, 22.0 , 2.40 ,    85.0 ,       0 ,,M
+Unha-1,Unha                ,KPA,2, 29.0 , 2.40 ,    85.0 ,       0 ,    1000 ,X
+Unha-2,Unha                ,KPA,3, 30.0 , 2.40 ,    85.0 ,      50 ,    1000 ,O
+Unha-3,Unha                ,KPA,3, 30.0 , 2.40 ,    85.0 ,      50 ,    1000 ,O
+Kwangmyongsong,Unha                ,KPA,3, 30.0 , 2.40 ,    85.0 ,      50 ,    1000 ,O
+Simorgh,Unha                ,IR,2, 27.0 , 2.40 ,    85.0 ,      50 ,    1000 ,O
+R-14,R-14                ,OKB586,1, 24.4 , 2.40 ,    86.3 ,       0 ,    1480 ,M
+R-14U,R-14                ,OKB586,1, 24.4 , 2.40 ,    86.4 ,       0 ,    1480 ,M
+Kosmos 65S3,R-14                ,OKB586,2, 32.4 , 2.40 ,   109.0 ,    1500 ,    1480 ,O
+Kosmos 11K65,R-14                ,OKB586,2, 32.4 , 2.40 ,   109.0 ,    1500 ,    1485 ,O
+Kosmos 11K65M,R-14                ,POL,2, 32.4 , 2.40 ,   109.0 ,    1500 ,    1485 ,O
+Vertikal' K65UP,R-14                ,POL,1, 27.6 , 2.40 ,    90.0 ,       0 ,    1485 ,X
+K65M-R,R-14                ,POL,2, 32.4 , 2.40 ,   109.0 ,       0 ,    1485 ,M
+K65M-RB,R-14                ,POL,2, 32.4 , 2.40 ,   109.0 ,    1500 ,    1485 ,O
+Burya,Burya               ,OKB23,2, 22.0 , 2.40 ,   120.0 ,       0 ,    1530 ,C
+Gushenxing-2,GSX2,XIDO,4, 26.0 , 2.35 ,   100.0 ,    1600 ,,O
+ICBM-T3,MX                  ,OSCC,3, 17.6 , 2.35 ,    50.0 ,       0 ,,M
+ARPA Taurus,MX                  ,OSCC,4, 27.2 , 2.35 ,    73.0 ,    1320 ,    1711 ,O
+Taurus 2110,MX                  ,OSCC,4, 27.9 , 2.35 ,    73.0 ,    1380 ,    1711 ,O
+Taurus 2210,MX                  ,OSCC,4, 29.7 , 2.35 ,    73.0 ,    1380 ,    1711 ,O
+Taurus 3210,MX                  ,OSCC,4, 31.6 , 2.35 ,    73.0 ,    1380 ,    1711 ,O
+Taurus 3110,MX                  ,OSCC,4, 31.6 , 2.35 ,    73.0 ,    1380 ,    1711 ,O
+Taurus 1110,MX                  ,OSCC,4, 27.9 , 2.35 ,    73.0 ,    1320 ,    1711 ,O
+Minotaur-C 3210,MX                  ,OSCC,4, 31.6 , 2.35 ,    73.0 ,    1380 ,    1711 ,O
+Peacekeeper,MX                  ,MMD,4, 21.6 , 2.30 ,    88.5 ,       0 ,    1711 ,M
+LLV-1,MX                  ,LMSC,3, 18.9 , 2.30 ,    66.3 ,     820 ,    1450 ,O
+LMLV-1,MX                  ,LMSC,3, 18.9 , 2.30 ,    66.3 ,     820 ,    1450 ,O
+Athena-1,MX                  ,LMSC,3, 18.9 , 2.30 ,    66.3 ,     820 ,    1450 ,O
+Athena-2,MX                  ,LMSC,4, 28.2 , 2.30 ,   120.7 ,    2065 ,    1450 ,O
+Minotaur V,MX                  ,OSCC,5, 23.9 , 2.35 ,    36.2 ,    1735 ,    1600 ,O
+Minotaur IV,MX                  ,OSCC,4, 23.9 , 2.35 ,    36.2 ,    1735 ,    1600 ,O
+Minotaur IV+,MX                  ,OSCC,4, 23.9 , 2.35 ,    36.2 ,    1735 ,    1600 ,O
+Minotaur IV Lite,MX                  ,OSCC,3, 23.0 , 2.35 ,    36.2 ,    1735 ,    1600 ,M
+MSBS M51,M51                 ,EADSA,3, 12.0 , 2.30 ,    56.0 ,       0 ,,M
+Terran 1,Terran1,RELSP,2, 35.2 , 2.30 ,    77.1 ,    1500 ,     920 ,M
+MR-UR-100,MR-UR-100           ,YUZH,3, 20.9 , 2.25 ,    71.0 ,       0 ,    1236 ,M
+MR-UR-100U 15A16,MR-UR-100           ,YUZH,3, 21.6 , 2.25 ,    71.1 ,       0 ,    1236 ,M
+Perimetr 15A11,MR-UR-100           ,YUZH,2, 21.6 , 2.25 ,    71.0 ,       0 ,    1236 ,M
+DF-3,DF3                 ,CALT,1, 24.0 , 2.25 ,    64.0 ,       0 ,    1224 ,M
+DF-3A,DF3                 ,CALT,1, 24.0 , 2.25 ,    64.0 ,       0 ,    1224 ,M
+DF-4,DF3                 ,CALT,2, 28.0 , 2.25 ,    82.0 ,       0 ,    1224 ,M
+Chang Zheng 1,DF3                 ,CALT,3, 29.5 , 2.25 ,    81.5 ,     250 ,    1224 ,O
+Chang Zheng 1D,DF3                 ,CALT,3, 29.5 , 2.25 ,    81.5 ,     250 ,    1224 ,O
+Kuaizhou-11,DF-31               ,ARMT,3, 11.0 , 2.20 ,    78.0 ,       0 ,,M
+DF-41,DF-31               ,ARMT,3, 11.0 , 2.20 ,    40.0 ,       0 ,,M
+DF-31,DF-31               ,ARMT,3, 11.0 , 2.20 ,    20.0 ,       0 ,,M
+JL-2,DF-31               ,ARMT,3, 11.0 , 2.20 ,    20.0 ,       0 ,,M
+JL-3,DF-31               ,ARMT,3, 11.0 , 2.20 ,    20.0 ,       0 ,,M
+Chang Zheng 11,DF-31               ,CALT/SLREC,4, 20.0 , 2.20 ,    58.0 ,     500 ,    1177 ,O
+KT-2,DF-31               ,CASIC4A,3, 20.0 , 2.20 ,    30.0 ,     250 ,,O
+ADD TV1,ADD-SLV,ADD,3, 16.2 , 2.20 ,    20.0 ,       0 ,,X
+ADD TV2,ADD-SLV,ADD,3, 20.6 , 2.20 ,    20.0 ,       0 ,,O
+Hyunmoo-5,ADD-SLV,ADD,2, 16.2 , 2.20 ,    15.0 ,       0 ,,M
+Trident D-5,Trident             ,LMSC,3, 13.6 , 2.11 ,    58.5 ,       0 ,,M
+ISRO TV,ISRO-L40,VSSC,1, 19.7 , 2.10 ,    46.0 ,       0 ,     680 ,T
+Little Joe 1,LJ1                 ,NAA,1, 15.2 , 2.03 ,    12.7 ,       0 ,     650 ,T
+Cora,Coralie             ,LRBA/NORD,2, 11.0 , 2.01 ,    16.0 ,       0 ,     268 ,T
+Spectrum,Spectrum,ISAR,2, 28.0 , 2.00 ,   100.0 ,    1000 ,     675 ,O
+PRS-1 5Ya26,PRS-1               ,NOVTR,1, 10.0 , 2.00 ,    12.0 ,       0 ,,A
+PRS-1,PRS-1               ,NOVTR,1, 10.0 , 2.00 ,    12.0 ,       0 ,,A
+PRS-1M,PRS-1               ,NOVTR,1, 10.0 , 2.00 ,    12.0 ,       0 ,,A
+Black Arrow,BlackArrow          ,RAE,3, 12.9 , 2.00 ,    18.1 ,      75 ,     222 ,O
+Eris Block 1,Eris,GILM,3, 25.0 , 2.00 ,    35.0 ,     300 ,     440 ,O
+Agni 5,Agni3               ,DRDO,3, 17.2 , 2.00 ,    50.0 ,       0 ,,M
+Agni 3,Agni3               ,DRDO,2, 16.0 , 2.00 ,    48.0 ,       0 ,,M
+SSLV,SSLV,ISRO,4, 34.0 , 2.00 ,   120.0 ,     500 ,    2600 ,O
+UR-100,UR-100              ,KHRU,2, 16.9 , 2.00 ,    42.3 ,       0 ,    2070 ,M
+UR-100M,UR-100              ,KHRU,2, 16.7 , 2.00 ,    42.3 ,       0 ,    2070 ,M
+UR-100K,UR-100              ,KHRU,2, 18.9 , 2.00 ,    50.0 ,       0 ,    2070 ,M
+UR-100U,UR-100              ,KHRU,2, 18.9 , 2.00 ,    50.0 ,       0 ,    2070 ,M
+MSBS M45,MSBS                ,AELM,3, 11.0 , 1.93 ,    35.0 ,       0 ,     900 ,M
+MSBS M4,MSBS                ,AELM,3, 11.0 , 1.93 ,    35.0 ,       0 ,     900 ,M
+Vysota,R-29                ,MAK,2, 13.0 , 1.90 ,    33.3 ,       0 ,     682 ,M
+Volna,R-29                ,MAK,2, 14.1 , 1.90 ,    35.3 ,       0 ,     682 ,M
+Shtil',R-29                ,MAK,3, 14.8 , 1.90 ,    40.3 ,       0 ,     682 ,M
+Shtil'-1,R-29                ,MAK,3, 14.8 , 1.90 ,    40.0 ,     430 ,     810 ,O
+Sineva,R-29                ,MAK,3, 14.8 , 1.90 ,    40.3 ,       0 ,     682 ,M
+Layner,R-29                ,MAK,3, 14.8 , 1.90 ,    40.3 ,       0 ,     682 ,M
+Poseidon C3,Poseidon            ,LMSC,2, 10.4 , 1.88 ,    29.4 ,       0 ,,M
+Trident C-4,Trident             ,LMSC,3, 10.4 , 1.88 ,    33.1 ,       0 ,,M
+ICBM-T1,Trident             ,OATK,3, 17.6 , 1.68 ,    33.1 ,       0 ,     935 ,M
+ICBM-T2,Trident             ,OATK,3, 17.6 , 1.68 ,    33.1 ,       0 ,     935 ,M
+LV-2,Trident             ,LMSC,2, 10.4 , 1.88 ,    30.0 ,,,M
+LV-3,Trident             ,LMSC,3, 15.0 , 1.88 ,    40.0 ,,,M
+MRBM-T3c2,Trident             ,LMSC,2, 15.0 , 1.88 ,    40.0 ,,,M
+RT-1,RT-2                ,OKB1,3, 18.0 , 1.84 ,    34.0 ,       0 ,     890 ,M
+RT-2,RT-2                ,OKB1,3, 21.3 , 1.84 ,    46.0 ,       0 ,     890 ,M
+RT-2P,RT-2                ,ARSL,3, 21.3 , 1.84 ,    51.0 ,       0 ,     980 ,M
+RT-2M,RT-2                ,MITT,3, 21.3 , 1.84 ,    51.0 ,       0 ,     980 ,M
+LauncherOne,LauncherOne         ,VORB,2, 20.0 , 1.83 ,    24.4 ,     500 ,     308 ,O
+RS1,RS1,ABLSS,2, 27.0 , 1.83 ,    50.0 ,    1300 ,     503 ,O
+Firefly Alpha,Alpha,FFLY,2, 29.8 , 1.82 ,    54.1 ,    1000 ,     736 ,O
+Topol',Topol               ,MITT/VOTK,3, 21.5 , 1.80 ,    45.0 ,       0 ,     890 ,M
+Topol'-E,Topol               ,MITT/VOTK,3, 21.5 , 1.80 ,    45.0 ,       0 ,     890 ,M
+Topol'-M,Topol               ,MITT/VOTK,3, 20.5 , 1.80 ,    47.1 ,       0 ,     890 ,M
+Topol'-M 15Zh55,Topol               ,MITT/VOTK,3, 20.5 , 1.80 ,    47.1 ,       0 ,     890 ,M
+Perimetr-RTs,Topol               ,MITT/VOTK,3, 20.5 , 1.80 ,    47.1 ,       0 ,     890 ,M
+Skorost',Topol               ,MITT/VOTK,2, 18.0 , 1.80 ,    45.0 ,       0 ,     890 ,M
+Rubezh,Topol               ,MITT/VOTK,2, 20.5 , 1.80 ,    47.1 ,       0 ,     890 ,M
+Oreshnik,Topol               ,MITT/VOTK,2, 20.5 , 1.80 ,    47.1 ,       0 ,     890 ,M
+Yars,Topol               ,MITT/VOTK,3, 20.5 , 1.80 ,    47.1 ,       0 ,     890 ,M
+Yars-E,Topol               ,MITT/VOTK,3, 20.5 , 1.80 ,    47.1 ,       0 ,     890 ,M
+Yars-M,Topol               ,MITT/VOTK,3, 20.5 , 1.80 ,    47.1 ,       0 ,     890 ,M
+Yars 15Zh65M,Topol               ,MITT/VOTK,3, 20.5 , 1.80 ,    47.1 ,       0 ,     890 ,M
+Bulava,Topol               ,MITT/VOTK,3, 20.5 , 1.80 ,    47.1 ,       0 ,     890 ,M
+Start,Topol               ,MITT,6, 28.9 , 1.80 ,    60.0 ,     650 ,     890 ,O
+Start-1,Topol               ,MITT,5, 22.7 , 1.80 ,    47.0 ,     500 ,     890 ,O
+Start-1.2,Topol               ,MITT,5, 22.7 , 1.80 ,    47.0 ,     500 ,     890 ,O
+RT-20P,RT-20P              ,YUZH,2, 17.5 , 1.80 ,    30.0 ,       0 ,     600 ,M
+J-1,H2.SRB              ,NISST,2, 33.1 , 1.80 ,    88.5 ,       0 ,    1550 ,X
+Pioner,Temp-2S             ,MITT/VOTK,2, 16.5 , 1.79 ,    37.0 ,       0 ,,M
+Pioner UTTKh,Temp-2S             ,MITT/VOTK,2, 16.5 , 1.79 ,    37.0 ,       0 ,,M
+Pioner-3,Temp-2S             ,MITT/VOTK,2, 16.5 , 1.79 ,    37.0 ,       0 ,,M
+Temp-2S,Temp-2S             ,MITT/VOTK,3, 18.5 , 1.79 ,    41.5 ,       0 ,,M
+Jupiter A,Redstone            ,CHRY/ABMA,1, 20.0 , 1.78 ,    28.4 ,       0 ,     357 ,M
+Redstone,Redstone            ,CHRY/ABMA,1, 20.0 , 1.78 ,    28.4 ,       0 ,     357 ,M
+Redstone MRLV,Redstone            ,CHRY/ABMA,1, 20.0 , 1.78 ,    28.4 ,       0 ,     357 ,M
+SPARTA,Redstone            ,CHRY/TRW,3, 21.8 , 1.78 ,    30.0 ,      45 ,     357 ,O
+Jupiter C,Redstone            ,ABMA,3, 21.2 , 1.78 ,    28.5 ,      11 ,     357 ,V
+Hwasong-14,Hwasong-12          ,KPA,2, 17.9 , 1.75 ,    20.0 ,       0 ,,M
+Hwasong-12,Hwasong-12          ,KPA,1, 14.0 , 1.75 ,    16.0 ,       0 ,,M
+Hwasong-12A,Hwasong-12          ,KPA,1, 14.0 , 1.75 ,    16.0 ,       0 ,,M
+Falcon 1,Falcon1             ,SPX,2, 21.3 , 1.70 ,    27.2 ,     600 ,     378 ,O
+Minuteman 1A,Minuteman           ,BOUT,1, 16.4 , 1.68 ,    30.0 ,       0 ,     935 ,T
+Minuteman 1B,Minuteman           ,BOUT,3, 16.8 , 1.68 ,    31.7 ,       0 ,     935 ,M
+Minuteman 2,Minuteman           ,BOUT,3, 17.6 , 1.68 ,    33.1 ,       0 ,     935 ,M
+Minotaur II,Minuteman           ,BOUT,3, 17.6 , 1.68 ,    33.1 ,       0 ,     935 ,M
+Minotaur II+,Minuteman           ,BOUT,3, 17.6 , 1.68 ,    33.1 ,       0 ,     935 ,M
+Minuteman 3,Minuteman           ,BOUT,4, 18.3 , 1.68 ,    35.3 ,       0 ,     935 ,M
+Minuteman 1,Minuteman           ,BOUT,3, 16.0 , 1.68 ,    30.0 ,       0 ,     935 ,T
+HOE,Minuteman           ,LMMS,2, 19.0 , 1.68 ,    35.0 ,       0 ,     935 ,M
+Minotaur I,Minuteman           ,OSCC,4, 19.2 , 1.68 ,    36.3 ,     340 ,     892 ,O
+Minotaur I Lite,Minuteman           ,OSCC,3, 19.2 , 1.68 ,    36.3 ,     340 ,     892 ,O
+R-5,R-5                 ,OKB1,1, 20.7 , 1.65 ,    24.4 ,       0 ,     430 ,M
+R-5A,R-5                 ,OKB1,1, 20.7 , 1.65 ,    24.4 ,       0 ,     430 ,M
+R-5B,R-5                 ,OKB1,1, 20.7 , 1.65 ,    24.4 ,       0 ,     430 ,M
+R-5M,R-5                 ,OKB1,1, 20.3 , 1.65 ,    24.4 ,       0 ,     430 ,M
+R-5V,R-5                 ,OKB1,1, 21.2 , 1.65 ,    24.4 ,       0 ,     430 ,R
+R-5 VAO,R-5                 ,OKB1,1, 21.2 , 1.65 ,    24.4 ,       0 ,     430 ,R
+R-12,R-12                ,OKB586,1, 22.5 , 1.65 ,    42.0 ,       0 ,     730 ,M
+R-12U,R-12                ,OKB586,1, 22.5 , 1.65 ,    42.0 ,       0 ,     730 ,M
+K63,R-12                ,OKB586,1, 22.5 , 1.65 ,    42.0 ,       0 ,     730 ,M
+K63D,R-12                ,OKB586,1, 22.5 , 1.65 ,    42.0 ,       0 ,     730 ,M
+Kosmos 63S1,R-12                ,OKB586,2, 31.5 , 1.65 ,    48.1 ,     500 ,     730 ,O
+Kosmos 11K63,R-12                ,OKB586,2, 31.5 , 1.65 ,    48.1 ,     500 ,     730 ,O
+R-UNK,UNK                 ,,1, 22.5 , 1.65 ,    42.0 ,       0 ,,M
+DF-1,V-2                 ,CALT,1, 17.6 , 1.65 ,    20.4 ,       0 ,     250 ,B
+DF-2,V-2                 ,CALT,1, 20.6 , 1.65 ,    32.0 ,       0 ,     300 ,B
+DF-2A,V-2                 ,CALT,1, 20.6 , 1.65 ,    32.0 ,       0 ,     300 ,B
+A-4,V-2                 ,WEHR,1, 13.6 , 1.65 ,    12.8 ,       0 ,     270 ,B
+A-4b,V-2                 ,WEHR,1, 13.6 , 1.65 ,    12.8 ,       0 ,     312 ,B
+V-2,V-2                 ,WEHR,1, 13.6 , 1.65 ,    12.8 ,       0 ,     312 ,R
+Hermes II,V-2                 ,GEMTS,1, 14.0 , 1.65 ,    13.0 ,       0 ,     312 ,R
+Bumper-WAC,V-2                 ,GEMTS,2, 17.2 , 1.65 ,    12.9 ,       0 ,     267 ,X
+R-1,V-2                 ,NII88,1, 14.1 , 1.65 ,    13.4 ,       0 ,     267 ,B
+R-1 8A11,V-2                 ,NII88,1, 14.1 , 1.65 ,    13.4 ,       0 ,     267 ,B
+A-1,V-2                 ,NII88,1, 14.1 , 1.65 ,    13.4 ,       0 ,     267 ,R
+R-1A,V-2                 ,OKB1,1, 14.1 , 1.65 ,    13.4 ,       0 ,     267 ,B
+R-1B,V-2                 ,OKB1,1, 17.5 , 1.65 ,    13.4 ,       0 ,     267 ,R
+R-1V,V-2                 ,OKB1,1, 17.5 , 1.65 ,    13.4 ,       0 ,     267 ,R
+R-1D,V-2                 ,OKB1,1, 14.1 , 1.65 ,    13.4 ,       0 ,     267 ,R
+R-1E (A-1),V-2                 ,OKB1,1, 14.1 , 1.65 ,    13.4 ,       0 ,     267 ,R
+R-1E,V-2                 ,OKB1,1, 14.1 , 1.65 ,    13.4 ,       0 ,     267 ,R
+R-1UK,V-2                 ,OKB1,1, 14.1 , 1.65 ,    13.4 ,       0 ,     267 ,B
+R-2,V-2                 ,OKB1,1, 17.0 , 1.65 ,    20.3 ,       0 ,     363 ,B
+R-2A,V-2                 ,OKB1,1, 17.0 , 1.65 ,    20.3 ,       0 ,     363 ,R
+R-2e,V-2                 ,OKB1,1, 17.0 , 1.65 ,    20.3 ,       0 ,     363 ,R
+R-2R,V-2                 ,OKB1,1, 17.0 , 1.65 ,    20.3 ,       0 ,     363 ,R
+R-31,R-31                ,ARSL,3, 11.4 , 1.54 ,    26.9 ,       0 ,     580 ,M
+CE-5 SSQ,CESSQ,CAST,1,  1.5 , 1.50 ,     0.5 ,       0 ,,O
+Zyb,R-27                ,MAK,1,  9.7 , 1.50 ,    14.2 ,       0 ,,M
+Zyb R-27U,R-27                ,MAK,1,  9.7 , 1.50 ,    14.2 ,       0 ,,M
+Zyb R-27K,R-27                ,MAK,1,  9.7 , 1.50 ,    14.2 ,       0 ,,M
+Hwasong-10,R-27                ,KPA,1,  9.7 , 1.50 ,    14.2 ,       0 ,,M
+Khorramshahr,R-27                ,IR,1,  9.7 , 1.50 ,    14.2 ,       0 ,,M
+Zoljanah,Zoljanah,IR,3, 25.5 , 1.50 ,    40.0 ,     220 ,,M
+Bukguekseong,Bukguekseong        ,KPA,2,  9.5 , 1.50 ,    18.0 ,       0 ,,M
+Bukguekseong-2,Bukguekseong        ,KPA,2,  9.5 , 1.50 ,    18.0 ,       0 ,,M
+Bukguekseong-3,Bukguekseong        ,KPA,2,  9.5 , 1.50 ,    18.0 ,       0 ,,M
+MSBS M011,P-10                ,SEREB,2, 10.0 , 1.50 ,    15.0 ,       0 ,     440 ,T
+MSBS M012,P-10                ,SEREB,2, 10.0 , 1.50 ,    15.0 ,       0 ,     440 ,M
+MSBS M013,P-10                ,SEREB,2, 10.0 , 1.50 ,    15.0 ,       0 ,     440 ,M
+MSBS M112,P-10                ,SEREB,2, 10.4 , 1.50 ,    18.0 ,       0 ,     440 ,T
+MSBS M1,P-10                ,SEREB,2, 10.4 , 1.50 ,    18.0 ,       0 ,     440 ,M
+MSBS M2,P-10                ,SEREB,2, 10.7 , 1.50 ,    20.0 ,       0 ,     440 ,M
+MSBS M20,P-10                ,AELM,2, 10.7 , 1.50 ,    20.0 ,       0 ,     440 ,M
+SSBS S112,P-10                ,SEREB,2, 12.6 , 1.50 ,    25.1 ,       0 ,     440 ,T
+SSBS S01,P-10                ,SEREB,2, 15.1 , 1.50 ,    25.0 ,       0 ,     440 ,M
+SSBS S02,P-16                ,SEREB,2, 14.8 , 1.50 ,    31.9 ,       0 ,     540 ,M
+SSBS S2,P-16                ,SEREB,2, 14.8 , 1.50 ,    31.9 ,       0 ,     540 ,M
+SSBS S3,P-16                ,AELM,2, 13.8 , 1.50 ,    25.8 ,       0 ,     540 ,M
+Spaceship One,SS1                 ,SCAL,1,  5.0 , 1.50 ,     4.0 ,       0 ,,X
+Spaceship Two,SS2                 ,SCAL,1, 18.3 , 2.30 ,     9.7 ,       0 ,,X
+RT-15,RT-15               ,ARSL,2, 11.9 , 1.49 ,    16.0 ,       0 ,     412 ,M
+RT-15M,RT-15               ,ARSL,2, 11.9 , 1.49 ,    16.0 ,       0 ,     412 ,M
+Kestrel I,Kestrel1,ATSP,2, 10.2 , 1.46 ,     3.0 ,       0 ,      77 ,R
+Hapith I,Kestrel1,ATSP,2, 10.2 , 1.46 ,     3.0 ,       0 ,      77 ,R
+ETV,Mu                  ,NISST,2, 21.3 , 1.41 ,    39.4 ,       0 ,    1932 ,X
+Mu-1,Mu                  ,NISST,4, 21.9 , 1.41 ,    40.0 ,       0 ,    1932 ,T
+Mu-3D,Mu                  ,NISST,4, 23.6 , 1.41 ,    40.0 ,       0 ,    1932 ,X
+Mu-4S,Mu                  ,NISST,4, 23.6 , 1.41 ,    43.6 ,     180 ,    1932 ,O
+Mu-3C,Mu                  ,NISST,3, 20.2 , 1.41 ,    41.6 ,     195 ,    1932 ,O
+Mu-3H,Mu                  ,NISST,4, 23.8 , 1.41 ,    44.7 ,     300 ,    2150 ,O
+Mu-3S,Mu                  ,NISST,3, 23.8 , 1.41 ,    49.3 ,     300 ,    2150 ,O
+Mu-3S-II,Mu                  ,NISST,3, 27.8 , 1.41 ,    61.7 ,     800 ,    1930 ,O
+HANBIT-NANO,HANBIT,INNOSP,2, 21.8 , 1.40 ,    15.0 ,      90 ,     245 ,O
+Emeraude VE121,Emeraude            ,SEREB,1, 17.9 , 1.40 ,    18.2 ,       0 ,     275 ,V
+Saphir VE231,Emeraude            ,SEREB,2, 17.8 , 1.40 ,    18.0 ,       0 ,     275 ,V
+Diamant A,Emeraude            ,SEREB,3, 18.9 , 1.40 ,    18.5 ,      40 ,     275 ,O
+Diamant B,Emeraude            ,SEREB,3, 23.5 , 1.40 ,    24.6 ,     115 ,     348 ,O
+Diamant BP.4,Emeraude            ,SEREB,3, 21.6 , 1.40 ,    26.3 ,     150 ,     316 ,O
+Polaris AX,Polaris             ,LMSC,2,  7.6 , 1.37 ,    10.0 ,       0 ,,M
+Polaris A1,Polaris             ,LMSC,2,  8.7 , 1.37 ,    13.0 ,       0 ,,M
+Polaris A2E,Polaris             ,LMSC,2,  9.4 , 1.37 ,    14.7 ,       0 ,,M
+Polaris A2,Polaris             ,LMSC,2,  9.4 , 1.37 ,    14.7 ,       0 ,,M
+Polaris A3,Polaris             ,LMSC,2,  9.4 , 1.37 ,    16.2 ,       0 ,,M
+STARS,Polaris             ,LMSC/SAND,3, 11.5 , 1.37 ,    16.7 ,       0 ,,M
+Alfa,Alfa                ,AERIT,1,  6.5 , 1.37 ,     8.0 ,       0 ,     245 ,M
+Squirt,Squirt              ,MDAC,2,  8.2 , 1.37 ,     3.4 ,       0 ,    3000 ,A
+Sprint ABM,Sprint              ,MDAC,2,  8.2 , 1.37 ,     3.4 ,       0 ,    3000 ,A
+HEDI,Sprint              ,MDAC,2,  8.2 , 1.37 ,     3.5 ,       0 ,    3000 ,A
+Kuryer,Kuryer              ,MITT/VOTK,3, 11.2 , 1.36 ,    15.0 ,       0 ,,M
+LRAShM,LRAShM,DRDO,2, 14.0 , 1.40 ,    20.0 ,       0 ,,M
+Shuang Quxian 1,DF-21               ,XJRY,4, 24.0 , 1.40 ,    31.0 ,     280 ,     555 ,O
+Gushenxing 1,DF-21               ,XIDO,4, 19.0 , 1.40 ,    30.0 ,     350 ,     590 ,O
+Kairos,Kairos,SPONE,4, 18.0 , 1.35 ,    23.0 ,     250 ,,O
+KT-1,DF-21               ,CASIC4A,4, 11.0 , 1.35 ,    20.0 ,      50 ,,O
+Kuaizhou,DF-21               ,CASIC4A,4, 20.0 , 1.35 ,    30.0 ,     250 ,,O
+Kuaizhou-1A,DF-21               ,CASIC4A,4, 20.0 , 1.35 ,    30.0 ,     250 ,,O
+JL-1,DF-21               ,CASIC4A,2, 10.7 , 1.35 ,    14.7 ,       0 ,,M
+DF-21,DF-21               ,CASIC4A,2, 10.7 , 1.35 ,    14.7 ,       0 ,,M
+DF-26,DF-21               ,CASIC4A,2, 14.0 , 1.35 ,    20.0 ,       0 ,,M
+DF-27,DF-21               ,CASIC4A,2, 14.0 , 1.35 ,    20.0 ,       0 ,,M
+Zhuque-1,DF-21               ,CASIC4A,3, 19.0 , 1.35 ,    27.0 ,     400 ,     200 ,O
+Shaheen 2,DF-21               ,PKNDC,2, 18.0 , 1.35 ,    25.0 ,       0 ,,M
+Shaheen 3,DF-21               ,PKNDC,2, 18.0 , 1.35 ,    25.0 ,       0 ,,M
+Ababeel,DF-21               ,PKNDC,3, 22.0 , 1.35 ,    25.0 ,       0 ,,M
+Jericho II,Jericho             ,IAI,1, 15.0 , 1.35 ,    20.0 ,       0 ,     610 ,M
+Jericho III,Jericho             ,IAI,2, 15.0 , 1.35 ,    20.0 ,       0 ,     610 ,M
+Shavit,Jericho             ,IAI,3, 17.0 , 1.35 ,    26.0 ,     200 ,     610 ,O
+Shavit 1,Jericho             ,IAI,3, 18.0 , 1.35 ,    30.0 ,     230 ,     610 ,O
+Shavit 2,Jericho             ,IAI,3, 18.0 , 1.35 ,    30.0 ,     230 ,     610 ,O
+Arrow 1,Jericho             ,IAI,1,  7.5 , 1.35 ,,       0 ,,A
+RSA-3,Jericho             ,HOUW,3, 17.6 , 1.35 ,    23.6 ,     330 ,     451 ,M
+Astra Rocket 3.1,Astra               ,ASTRV,2, 11.6 , 1.32 ,    11.0 ,      10 ,     140 ,O
+Astra Rocket 3.2,Astra               ,ASTRV,2, 11.6 , 1.32 ,    11.0 ,      10 ,     140 ,O
+Astra Rocket 3.3,Astra               ,ASTRV,2, 11.8 , 1.32 ,    11.0 ,      10 ,     140 ,O
+Storm-2,SR19                ,OSCC,1,  9.9 , 1.32 ,    10.0 ,       0 ,     267 ,M
+SR19,SR19                ,COLE,1,  6.0 , 1.32 ,     8.0 ,       0 ,     267 ,R
+AltAir,SR19                ,SVC,1,  6.0 , 1.32 ,     8.0 ,       0 ,     267 ,M
+eMRBM,SR19                ,LMCO,2, 15.5 , 1.32 ,    15.0 ,       0 ,     267 ,M
+MRBM Target,SR19                ,LMCO,2, 15.5 , 1.32 ,    15.0 ,       0 ,     267 ,M
+eMRBM-T1,SR19                ,OSCC,2, 15.5 , 1.32 ,    15.0 ,       0 ,     267 ,M
+Janus,SR19                ,OSCC,2, 11.2 , 1.32 ,    10.8 ,       0 ,     267 ,M
+MRBM-T1,SR19                ,LMCO,2, 15.5 , 1.32 ,    15.0 ,       0 ,     267 ,M
+MRBM-T2,SR19                ,LMCO,2, 15.5 , 1.32 ,    15.0 ,       0 ,     267 ,M
+MRBM-T3,SR19                ,OSCC,2, 15.0 , 1.32 ,    15.0 ,       0 ,     267 ,M
+SR19/SR19,SR19                ,OSCC,2, 15.5 , 1.32 ,    15.0 ,       0 ,     267 ,M
+LRALT,SR19                ,COLE,2, 15.5 , 1.32 ,    15.0 ,       0 ,     267 ,M
+E-LRALT,SR19                ,COLE,3, 15.5 , 1.32 ,    15.0 ,       0 ,     267 ,M
+SRALT,SR19                ,COLE,1, 12.0 , 1.32 ,    12.0 ,       0 ,     267 ,M
+Hera,SR19                ,COLE,2, 11.2 , 1.32 ,    10.8 ,       0 ,     267 ,M
+Juno,SR19                ,OSCC,2, 11.2 , 1.32 ,    10.8 ,       0 ,     267 ,M
+Minuteman 2 PLV,SR19                ,LMMS,2, 10.3 , 1.32 ,    15.0 ,       0 ,     267 ,M
+R-21,R-21                ,SKB385,1, 13.0 , 1.30 ,    16.6 ,       0 ,,M
+R-13,R-13                ,SKB385,1, 11.8 , 1.30 ,    13.7 ,       0 ,,B
+K-4,K-4                 ,DRDO,2, 12.0 , 1.30 ,    17.0 ,       0 ,,M
+PDV Mk II,K-4                 ,DRDO,3, 12.0 , 1.30 ,    17.0 ,       0 ,,M
+V-825,V-825               ,FAKEL,1, 18.5 , 1.30 ,    16.6 ,       0 ,,B
+Qaem-100,Qaem,IRGC,3, 15.0 , 1.25 ,    40.0 ,       0 ,,O
+Sejjil,Sejjil              ,IR,2, 17.6 , 1.25 ,    23.6 ,       0 ,     255 ,B
+Sejjil-2,Sejjil              ,IR,2, 17.9 , 1.25 ,    23.6 ,       0 ,     560 ,B
+Ashura,Sejjil              ,IR,2, 10.0 , 1.25 ,    20.0 ,       0 ,     560 ,B
+Hwasong-7,Nodong              ,KPA,1, 16.0 , 1.25 ,    16.0 ,       0 ,     255 ,B
+Shahab 3,Nodong              ,IR,1, 15.6 , 1.25 ,    16.0 ,       0 ,     255 ,B
+Salman,Nodong              ,IR,1, 15.6 , 1.25 ,    16.0 ,       0 ,     255 ,B
+Emad,Nodong              ,IR,1, 15.5 , 1.25 ,    17.5 ,       0 ,     255 ,B
+Ghadr 1,Nodong              ,IR,1, 15.6 , 1.25 ,    16.0 ,       0 ,     255 ,B
+Ghadr-110,Nodong              ,IR,1, 15.6 , 1.25 ,    16.0 ,       0 ,     255 ,B
+Ghadr F,Nodong              ,IR,1, 15.9 , 1.25 ,    17.5 ,       0 ,     255 ,B
+Toufan,Nodong              ,IR,1, 15.9 , 1.25 ,    17.5 ,       0 ,     255 ,B
+Safir,Nodong              ,IR,2, 22.0 , 1.25 ,    26.0 ,       0 ,     255 ,B
+Qased,Nodong              ,IR,3, 18.0 , 1.25 ,    19.4 ,       0 ,     255 ,B
+Paektusan 1,Nodong              ,KPA,3, 25.8 , 1.25 ,    33.4 ,      50 ,     570 ,O
+Ghauri,Nodong              ,KRLP,1, 16.0 , 1.25 ,    16.0 ,       0 ,     255 ,B
+Scud D,Nodong              ,KPA,1, 16.0 , 1.25 ,    16.0 ,       0 ,     255 ,B
+AMROC IRR,AMROC               ,AMROC,1, 17.7 , 1.29 ,    12.2 ,       0 ,     315 ,R
+GBI,Pegasus             ,OSCC,3, 15.5 , 1.28 ,    18.0 ,       0 ,     580 ,M
+ALV,Pegasus             ,ATKE,2, 16.8 , 1.28 ,    15.0 ,,     580 ,R
+Pegasus,Pegasus             ,OSCC,3, 15.5 , 1.28 ,    18.5 ,     350 ,     580 ,O
+Pegasus/HAPS,Pegasus             ,OSCC,4, 15.5 , 1.28 ,    18.5 ,     250 ,     580 ,O
+Pegasus H,Pegasus             ,OSCC,3, 15.5 , 1.28 ,    18.5 ,     350 ,     580 ,O
+Pegasus XL,Pegasus             ,OSCC,3, 17.4 , 1.28 ,    23.0 ,     440 ,     726 ,O
+Pegasus XL/HAPS,Pegasus             ,OSCC,4, 17.4 , 1.28 ,    23.0 ,     350 ,     726 ,O
+IRBM-T1,Pegasus             ,OSCC,2, 15.0 , 1.28 ,    23.0 ,     350 ,     726 ,M
+IRBM-T2,Pegasus             ,OSCC,2, 15.0 , 1.28 ,    23.0 ,     350 ,     726 ,M
+Hyper X,Pegasus             ,OSCC,1, 14.9 , 1.28 ,    18.8 ,       0 ,     726 ,T
+Al Kahir,AlKahir             ,EGAO,1, 12.5 , 1.22 ,    10.0 ,       0 ,,A
+LDSD,Star48              ,JPL,1,  2.0 , 1.22 ,     3.0 ,       0 ,,A
+Hyunmoo-1,Hyunmoo             ,ADD,2, 11.9 , 1.20 ,     4.9 ,       0 ,     775 ,A
+Hyunmoo-2A,Hyunmoo             ,ADD,1,  7.0 , 1.20 ,     5.0 ,       0 ,,B
+Hyunmoo-2B,Hyunmoo             ,ADD,1,  7.0 , 1.20 ,     5.0 ,       0 ,,B
+Hyunmoo-2C,Hyunmoo             ,ADD,1,  7.0 , 1.20 ,     5.0 ,       0 ,,B
+Hyunmoo-4,Hyunmoo             ,ADD,1,  7.0 , 1.20 ,     5.0 ,       0 ,,B
+Electron,Electron            ,RLABN,3, 17.0 , 1.20 ,    12.6 ,     150 ,     162 ,O
+HASTE,Electron            ,RLABN,3, 17.0 , 1.20 ,    12.6 ,     150 ,     162 ,V
+Jielong-1,JL1                 ,CZHJ,4, 19.5 , 1.20 ,    19.5 ,     150 ,,O
+DF-16,DF-16               ,CASIC,1, 12.0 , 1.20 ,    18.0 ,       0 ,,M
+DF-17,DF-16               ,CASIC,1, 12.0 , 1.20 ,    18.0 ,       0 ,,M
+Hermes A-3B,HermesA3            ,GEMTS,1, 10.1 , 1.19 ,     5.4 ,       0 ,     100 ,A
+SICBM,SICBM               ,MMD?,4, 16.2 , 1.17 ,    17.0 ,       0 ,     979 ,M
+Super Strypi,LEO-46              ,SAND,3, 20.6 , 1.17 ,    24.0 ,     300 ,,O
+Aries,Aries               ,SVC,1,  9.2 , 1.16 ,     6.3 ,       0 ,     200 ,R
+M56A1,Aries               ,OSCC,1,  9.2 , 1.16 ,     6.3 ,       0 ,     200 ,R
+ERIS,Aries               ,LMSC,2,  4.1 , 1.16 ,    14.0 ,       0 ,     200 ,M
+Viking Type 9,Viking              ,NRL,1, 12.8 , 1.14 ,     6.8 ,       0 ,      93 ,R
+Vanguard,Viking              ,NRL,3, 22.1 , 1.14 ,    10.0 ,      20 ,     120 ,O
+Scout II TV,Zefiro              ,BPD,1,  9.0 , 1.14 ,    17.0 ,       0 ,     590 ,T
+Scout D-1,ScoutD              ,LTV,4, 25.0 , 1.14 ,    21.3 ,     183 ,     464 ,O
+Scout E-1,ScoutD              ,LTV,5, 25.0 , 1.14 ,    20.6 ,     200 ,     464 ,O
+Scout F-1,ScoutD              ,LTV,4, 25.0 , 1.14 ,    20.6 ,     192 ,     464 ,O
+Scout G-1,ScoutD              ,LTV,4, 25.0 , 1.14 ,    23.8 ,     205 ,     464 ,O
+TR-1,TR-1                ,NISST,1, 14.3 , 1.13 ,    11.8 ,       0 ,     608 ,R
+TR-1A,TR-1                ,NISST,1, 13.4 , 1.13 ,    10.3 ,       0 ,     608 ,R
+Prithvi,Prithvi             ,HAL,1,  9.0 , 1.10 ,     4.5 ,       0 ,,B
+Prithvi 2,Prithvi             ,HAL,1,  9.0 , 1.10 ,     4.5 ,       0 ,,B
+PDV Target,Prithvi             ,HAL,2,  9.0 , 1.10 ,     4.5 ,       0 ,,B
+PDV,Prithvi             ,HAL,1,  9.0 , 1.10 ,     4.5 ,       0 ,,B
+Dhanush,Prithvi             ,HAL,1,  8.5 , 1.10 ,     4.5 ,       0 ,,B
+Spartan ABM,Spartan             ,MDAC/WELEC,3, 16.8 , 1.09 ,    13.2 ,       0 ,    2000 ,M
+Nike Zeus,Spartan             ,DACC/WELEC,2, 14.7 , 1.09 ,    10.3 ,       0 ,    2002 ,M
+Nike Zeus DM-15S,Spartan             ,DACC/WELEC,3, 14.6 , 1.09 ,    10.3 ,       0 ,    2002 ,M
+Dolphin,Dolphin             ,STST,1, 15.5 , 1.07 ,     7.5 ,       0 ,     155 ,T
+Nike Hercules 1810,Hercules            ,DACC/WELEC,2, 11.9 , 1.06 ,     4.9 ,       0 ,     775 ,A
+Nike Hercules R&D,Hercules            ,DACC/WELEC,2, 11.9 , 1.06 ,     4.9 ,       0 ,     775 ,A
+Nike Hercules,Hercules            ,DACC/WELEC,2, 11.9 , 1.06 ,     4.9 ,       0 ,     775 ,A
+Nike J,Hercules            ,MHITO?,2, 11.9 , 1.06 ,     4.9 ,       0 ,     775 ,A
+Paekkom,Hercules            ,ADD,2, 11.9 , 1.06 ,     4.9 ,       0 ,     775 ,A
+Hermes A-3A,HermesA3            ,GEMTS,1,  8.7 , 1.02 ,     3.8 ,       0 ,      80 ,A
+Blue Scout I,Scout               ,LTV,3, 21.7 , 1.02 ,    16.7 ,       0 ,     556 ,R
+Blue Scout II,Scout               ,LTV,4, 21.7 , 1.02 ,    16.9 ,      50 ,     556 ,O
+Scout X,Scout               ,LTV,4, 21.6 , 1.02 ,    16.7 ,       0 ,     556 ,X
+Scout X-1,Scout               ,LTV,4, 21.6 , 1.02 ,    16.7 ,      59 ,     556 ,O
+Scout X-1A,Scout               ,LTV,5, 22.0 , 1.02 ,    17.0 ,       0 ,     440 ,R
+Scout X-2,Scout               ,LTV,4, 22.0 , 1.02 ,    17.0 ,      76 ,     440 ,O
+Scout X-2B,Scout               ,LTV,4, 22.0 , 1.02 ,    17.0 ,      90 ,     440 ,O
+Scout X-2M,Scout               ,LTV,4, 22.0 , 1.02 ,    17.0 ,      90 ,     440 ,O
+Scout X-3,Scout               ,LTV,4, 22.0 , 1.02 ,    17.0 ,      87 ,     380 ,O
+Scout X-3M,Scout               ,LTV,4, 22.0 , 1.02 ,    17.0 ,      90 ,     380 ,O
+Scout X-3A,Scout               ,LTV,5, 22.0 , 1.02 ,    17.0 ,       0 ,     380 ,R
+Scout X-3C,Scout               ,LTV,3, 22.0 , 1.02 ,    17.0 ,       0 ,     380 ,R
+Scout X-4,Scout               ,LTV,4, 22.0 , 1.02 ,    17.5 ,     103 ,     380 ,O
+Scout X-4A,Scout               ,LTV,5, 22.0 , 1.02 ,    17.5 ,       0 ,     380 ,R
+Scout X-5C,Scout               ,LTV,3, 22.0 , 1.02 ,    17.5 ,       0 ,     380 ,R
+Scout A,Scout               ,LTV,4, 22.0 , 1.02 ,    17.9 ,     121 ,     400 ,O
+Scout A-1,Scout               ,LTV,4, 22.0 , 1.02 ,    17.9 ,     121 ,     440 ,O
+Scout B,Scout               ,LTV,4, 22.4 , 1.02 ,    17.9 ,     143 ,     400 ,O
+Scout B-1,Scout               ,LTV,4, 22.0 , 1.02 ,    17.9 ,     143 ,     440 ,O
+Athena H,Castor4             ,ATLC/CELES,3, 18.6 , 1.02 ,    14.0 ,       0 ,     422 ,V
+Prospector,Castor4             ,SDCO,1, 14.1 , 1.02 ,    12.2 ,       0 ,     430 ,R
+Strypi XIIR,Sergeant            ,SAND,2, 16.0 , 1.02 ,    13.5 ,       0 ,     430 ,R
+Castor 4A,Castor4             ,OSCC,1, 16.0 , 1.02 ,    13.5 ,       0 ,     430 ,R
+Maxus,Castor4             ,EADSB,1, 15.5 , 1.02 ,    12.3 ,       0 ,     500 ,R
+Castor 4B,Castor4             ,OSCC,1, 14.0 , 1.02 ,    13.0 ,       0 ,     500 ,R
+MRT,Castor4             ,OSCC,1, 14.0 , 1.02 ,    13.0 ,       0 ,     500 ,B
+Castor-M57A1,Castor4             ,OSCC,2, 16.0 , 1.02 ,    14.0 ,       0 ,     500 ,R
+Conestoga 1620,Castor4             ,EERSSI,4, 15.2 , 1.02 ,    87.4 ,     900 ,    1580 ,O
+GBI BV,GEM                 ,BOHSV,3, 15.5 , 1.02 ,    14.0 ,       0 ,     500 ,M
+GBI BV+,GEM                 ,LMSC,3, 15.5 , 1.02 ,    14.0 ,       0 ,     500 ,M
+Pershing 1,Pershing            ,MARTO,2, 10.7 , 1.02 ,     4.7 ,       0 ,     116 ,M
+Pershing 1A,Pershing            ,MARTO,2, 10.7 , 1.02 ,     4.7 ,       0 ,     116 ,M
+Pershing 2,Pershing            ,MARTO,2, 10.7 , 1.02 ,     7.5 ,       0 ,,M
+Sonda 4,S-40                ,INPE,2, 11.0 , 1.01 ,     7.2 ,       0 ,     203 ,R
+VS-40,S-40                ,INPE,2,  9.5 , 1.01 ,     6.8 ,       0 ,     190 ,R
+VS-40M,S-40                ,INPE,2,  9.5 , 1.01 ,     6.8 ,       0 ,     190 ,R
+VLS-1,S-40                ,INPE,3, 19.5 , 1.01 ,    50.7 ,     120 ,    1172 ,O
+Temp,Temp                ,MIT/VOTK,1, 12.4 , 1.01 ,     9.7 ,       0 ,,M
+Temp-S,Temp                ,MIT/VOTK,1, 12.4 , 1.01 ,     9.3 ,       0 ,,M
+Astra Rocket 1.0,Astra               ,ASTRV,2, 10.0 , 1.00 ,     6.0 ,       0 ,,X
+Astra Rocket 2.0,Astra               ,ASTRV,2, 10.0 , 1.00 ,     6.0 ,       0 ,,X
+Orion LAS,Orion.LAS           ,OSCC,1, 11.6 , 1.00 ,     6.1 ,       0 ,,A
+Agni TD,ASLV                ,DRDO,2, 21.0 , 1.00 ,    19.0 ,       0 ,     503 ,M
+Agni P,ASLV                ,DRDO,2, 17.2 , 1.00 ,    24.0 ,       0 ,,M
+Agni 1,ASLV                ,DRDO,1, 15.0 , 1.00 ,    12.0 ,       0 ,     503 ,M
+Agni 2,ASLV                ,DRDO,2, 20.0 , 1.00 ,    16.0 ,       0 ,     503 ,M
+Agni 2P,ASLV                ,DRDO,2, 20.0 , 1.00 ,    16.0 ,       0 ,     503 ,M
+Agni 4,ASLV                ,DRDO,2, 20.0 , 1.00 ,    16.0 ,       0 ,     503 ,M
+ASLV,ASLV                ,ISRO,4, 23.6 , 1.00 ,    39.0 ,     150 ,    1383 ,O
+SLV-3,ASLV                ,ISRO,4, 23.6 , 1.00 ,    17.0 ,      42 ,     503 ,O
+HS9,ASLV                ,ISRO,1, 19.0 , 1.00 ,     9.0 ,       0 ,     503 ,R
+KSR-III,KSR-3               ,KARI,1, 13.5 , 1.00 ,     5.6 ,       0 ,     126 ,R
+HANBIT-TLV,HANBIT,INNOSP,1, 16.3 , 1.00 ,     8.4 ,       0 ,,X
+Vesta,Vesta               ,LRBA,1, 10.2 , 1.00 ,     6.0 ,       0 ,     140 ,R
+Talon-A,Talon,STRATO,1,  8.5 , 1.00 ,     6.0 ,       0 ,      22 ,A
+DF-15,DF-15               ,ARMT,1,  9.1 , 1.00 ,     6.2 ,       0 ,,B
+Lihong-1,DF-15               ,ZKYT,1,  9.3 , 1.00 ,     7.0 ,       0 ,,B
+Shaheen 1A,DF-15               ,PKNDC,1,  9.1 , 1.00 ,     6.2 ,       0 ,,B
+Shaheen 1,DF-15               ,PKNDC,1,  9.1 , 1.00 ,     6.2 ,       0 ,,B
+Dezful,Dezful,ANSAL,1, 10.3 , 1.00 ,     5.0 ,       0 ,      90 ,B
+Kheibar Shekan,Dezful,IR,1, 14.0 , 1.00 ,    20.0 ,       0 ,,M
+Fattah-1,Dezful,IR,1, 14.0 , 1.00 ,    20.0 ,       0 ,,M
+V-1000,V-1000              ,SKB30,1, 14.5 , 1.00 ,     8.8 ,       0 ,,A
+1Ya2TA,V-1000              ,SKB30,1, 14.5 , 1.00 ,     8.8 ,       0 ,,R
+Oka,Oka                 ,KBM,1,  7.5 , 0.92 ,     4.7 ,       0 ,,B
+Iskander,Oka                 ,KBM,1,  7.3 , 0.92 ,     3.8 ,       0 ,,A
+Kinzhal,Oka                 ,KBM,1,  7.3 , 0.92 ,     3.8 ,       0 ,,A
+Bukguekseong-6,Oka                 ,KPA,1,  8.0 , 0.88 ,    14.0 ,       0 ,,M
+Hwasong-11Ga,Oka                 ,KPA,1,  7.3 , 0.92 ,     4.0 ,       0 ,,M
+Hwasong-11Ka,Oka                 ,KPA,1,  7.3 , 0.92 ,     4.0 ,       0 ,,M
+Hwasong-11Da,Oka                 ,KPA,1,  7.3 , 0.92 ,     4.0 ,       0 ,,M
+Hwasong-11Da-4.5,Oka                 ,KPA,1,  7.3 , 0.92 ,     4.0 ,       0 ,,M
+Hwasong-11Ra,Oka                 ,KPA,1,  7.3 , 0.92 ,     4.0 ,       0 ,,M
+Hwasong-11E,Oka                 ,KPA,1,  7.3 , 0.92 ,     4.0 ,       0 ,,M
+Iskander-M,Oka                 ,KBM,1,  7.3 , 0.92 ,     3.8 ,       0 ,,A
+Iskander-E,Oka                 ,KBM,1,  7.3 , 0.92 ,     3.8 ,       0 ,,A
+Falstaff,Stonechat           ,RAE/RORD,1,  5.3 , 0.92 ,     5.1 ,       0 ,     240 ,V
+Black Knight,BlackKnight         ,SROE,1, 10.2 , 0.91 ,     5.4 ,       0 ,      75 ,V
+Nike Zeus A,Spartan             ,DACC/WELEC,2, 13.3 , 0.91 ,     5.0 ,       0 ,    2002 ,A
+Skybolt ALBM,Skybolt             ,DAC,2, 12.0 , 0.91 ,     5.1 ,       0 ,     111 ,M
+IRCPS,IRCPS,LMPLM,2,  7.3 , 0.88 ,     5.0 ,       0 ,,M
+Ghaznavi,DF-11               ,PKPMO,1,  9.1 , 0.88 ,     6.2 ,       0 ,,B
+OS-X0,DF-11               ,LYK,1,  8.4 , 0.88 ,     4.6 ,       0 ,      90 ,B
+OS-X1,DF-11               ,LYK,1,  8.4 , 0.88 ,     4.6 ,       0 ,      90 ,B
+OS-M1,DF-11               ,LYK,4, 19.0 , 0.88 ,    20.0 ,       0 ,      90 ,O
+OS-X6B,DF-11               ,LYK,1,  9.4 , 0.88 ,     5.0 ,       0 ,,R
+DF-11,DF-11               ,SANJ,1, 11.3 , 0.88 ,     6.3 ,       0 ,      90 ,B
+DF-11M,DF-11               ,SANJ,1, 13.3 , 0.88 ,     8.0 ,       0 ,      90 ,B
+Elbrus,R-11                ,MAK,1, 11.3 , 0.88 ,     6.3 ,       0 ,      90 ,B
+Shahab 1,R-11                ,MAK,1, 11.3 , 0.88 ,     6.3 ,       0 ,      90 ,B
+Shahab 2,R-11                ,MAK,1, 11.3 , 0.88 ,     6.1 ,       0 ,      90 ,B
+Qiam-1,R-11                ,MAK,1, 10.6 , 0.88 ,     6.1 ,       0 ,      90 ,B
+Scud B,R-11                ,MAK,1, 11.3 , 0.88 ,     6.3 ,       0 ,      90 ,B
+R-17,R-11                ,VOTK/MAK,1,  9.0 , 0.88 ,     5.4 ,       0 ,      93 ,B
+R-17E,R-11                ,VOTK/MAK,1,  9.0 , 0.88 ,     5.4 ,       0 ,      93 ,B
+R-17VTO,R-11                ,VOTK/MAK,1,  9.0 , 0.88 ,     5.4 ,       0 ,      93 ,B
+Al Abbas,R-11                ,IQ,1, 13.2 , 0.88 ,     7.8 ,       0 ,      90 ,B
+Al Hussein,R-11                ,IQ,1, 12.2 , 0.88 ,     6.3 ,       0 ,      90 ,B
+Al Hijara,R-11                ,IQ,1, 11.9 , 0.88 ,     6.3 ,       0 ,      90 ,B
+Short Al Hussein,R-11                ,IQ,1, 11.6 , 0.88 ,     6.3 ,       0 ,      90 ,B
+Scud,R-11                ,VOTK,1, 11.2 , 0.88 ,     5.5 ,       0 ,      90 ,B
+Hwasong 5,R-11                ,KPA,1, 10.0 , 0.88 ,     5.0 ,       0 ,      90 ,B
+Hwasong 6,R-11                ,KPA,1, 10.0 , 0.88 ,     5.0 ,       0 ,      90 ,B
+Hwasong 9,R-11                ,KPA,1, 16.0 , 0.88 ,     5.0 ,       0 ,     255 ,B
+Burkan-1H,R-11                ,ANSAL,1, 10.0 , 0.88 ,     5.0 ,       0 ,      90 ,B
+Burkan-2H,R-11                ,ANSAL,1, 10.0 , 0.88 ,     5.0 ,       0 ,      90 ,B
+Burkan-3,R-11                ,ANSAL,1, 10.0 , 0.88 ,     5.0 ,       0 ,      90 ,B
+Zulfiqar,R-11                ,ANSAL,1, 10.0 , 0.88 ,     5.0 ,       0 ,      90 ,B
+R-11,R-11                ,OKB1/MAK,1,  7.4 , 0.88 ,     4.6 ,       0 ,      80 ,B
+R-11M,R-11                ,OKB1,1,  7.4 , 0.88 ,     4.6 ,       0 ,      80 ,B
+R-11FM,R-11                ,OKB1,1,  8.4 , 0.88 ,     4.6 ,       0 ,      93 ,B
+R-11A,R-11                ,OKB1,1, 10.2 , 0.88 ,     4.6 ,       0 ,      80 ,B
+R-11A-MV,R-11                ,OKB1,1, 10.0 , 0.88 ,     5.0 ,       0 ,      80 ,B
+Wasserfall,Hermes              ,WEHR,1,  7.8 , 0.88 ,     3.5 ,       0 ,      80 ,A
+CHGB Booster,CHGB,USN/LM,2, 10.2 , 0.88 ,     7.4 ,       0 ,,M
+Hermes A-1,Hermes              ,GEMTS,1,  7.8 , 0.86 ,     3.0 ,       0 ,      71 ,A
+Viking,Viking              ,NRL,1, 14.9 , 0.81 ,     4.5 ,       0 ,      93 ,R
+Topaze VE111,Agate               ,SEREB,1,  7.1 , 0.80 ,     2.8 ,       0 ,     120 ,V
+Topaze VE111L,Agate               ,SEREB,1,  7.9 , 0.80 ,     3.4 ,       0 ,     147 ,V
+Agate,Agate               ,SEREB,1,  8.5 , 0.80 ,     3.2 ,       0 ,     186 ,Q
+Rubis,Agate               ,SEREB,2,  9.6 , 0.80 ,     4.0 ,       0 ,     186 ,R
+MD-620,Agate               ,DASST/IAI,1, 13.4 , 0.80 ,     6.5 ,       0 ,,B
+Jericho,Agate               ,DASST/IAI,2, 13.4 , 0.80 ,     6.5 ,       0 ,,B
+Jericho-1,Arrow2              ,DASST/IAI,1,  9.0 , 0.80 ,     6.0 ,       0 ,,B
+Arrow 2,Arrow2              ,IAI,2,  6.3 , 0.80 ,     2.5 ,       0 ,,B
+HIBEX,HIBEX               ,BOKT?,1,  5.2 , 0.79 ,     6.0 ,       0 ,,B
+Upstage,HIBEX               ,MDAC,2,  5.2 , 0.79 ,     6.0 ,       0 ,,T
+ARPAT,Sergeant            ,RAYTH?,2,  8.0 , 0.79 ,     4.0 ,       0 ,,T
+RV-A-10,Sergeant            ,GEMTS/JPL,1,  6.2 , 0.79 ,     3.5 ,       0 ,     140 ,T
+Sergeant,Sergeant            ,JPL,1,  5.1 , 0.79 ,     2.3 ,       0 ,     220 ,B
+High Virgo WS199C,Sergeant            ,CONV,1,  9.4 , 0.79 ,     5.5 ,       0 ,     220 ,M
+Polaris TV,Polaris             ,LVN,1,  8.0 , 0.79 ,     5.0 ,       0 ,     220 ,T
+Polaris FTV-5,Sergeant            ,LMSC,2, 10.1 , 0.79 ,     5.0 ,       0 ,,B
+Journeyman,Sergeant            ,AEROL,4, 18.9 , 0.79 ,     6.3 ,       0 ,,R
+Bold Orion,Sergeant            ,MARTB,1, 11.3 , 0.79 ,,       0 ,,M
+Storm,Sergeant            ,OSCC,2,, 0.79 ,     6.0 ,       0 ,,M
+Sergeant Hydac,Sergeant            ,SDCO,2, 13.8 , 0.79 ,     4.8 ,       0 ,,R
+Draco,Sergeant            ,MCDA,2, 14.0 , 0.79 ,,       0 ,,Q
+X-17,Sergeant            ,LVN,3, 12.3 , 0.79 ,     3.4 ,       0 ,     220 ,V
+Polaris FTV-3,Sergeant            ,LVN,3, 12.3 , 0.79 ,     3.4 ,       0 ,     220 ,V
+Polaris FTV-1,Sergeant            ,LMSC,1, 10.1 , 0.79 ,     5.0 ,       0 ,,A
+Shotput,Sergeant            ,PARD,2,  9.9 , 0.79 ,     5.1 ,       0 ,     220 ,X
+Sergeant 5-stage,Sergeant            ,PARD,5, 14.0 , 0.79 ,,       0 ,     230 ,Q
+Castor,Sergeant            ,THKX,1,  8.0 , 0.79 ,,       0 ,     235 ,R
+Blue Scout Jr,Sergeant            ,LTV,4, 12.4 , 0.79 ,     5.8 ,       0 ,     222 ,R
+Blue Scout Jr SLV-1B(m),Sergeant            ,LTV,3, 12.0 , 0.79 ,     5.8 ,       0 ,     222 ,R
+Blue Scout Jr SLV-1C,Sergeant            ,LTV,3, 12.4 , 0.79 ,     5.8 ,       0 ,     222 ,R
+RAM A,Sergeant            ,PARD,4,, 0.79 ,,       0 ,,R
+RAM B,Sergeant            ,PARD,3, 12.6 , 0.79 ,     6.0 ,       0 ,     235 ,R
+Strypi,Sergeant            ,SAND,1,, 0.79 ,,       0 ,,R
+Swik A,Sergeant            ,SAND,2, 11.0 , 0.79 ,     5.9 ,       0 ,,R
+Strypi II,Sergeant            ,SAND,1, 11.3 , 0.79 ,     5.5 ,       0 ,     586 ,R
+Strypi IIR,Sergeant            ,SAND,1, 11.3 , 0.79 ,     5.5 ,       0 ,     586 ,R
+Strypi IIAR,Sergeant            ,SAND,1,, 0.79 ,,       0 ,     586 ,R
+Strypi IV,Sergeant            ,SAND,2,  9.3 , 0.79 ,,       0 ,     586 ,R
+Strypi IVA,Sergeant            ,SAND,2,  9.3 , 0.79 ,,       0 ,     586 ,R
+Strypi IVR,Sergeant            ,SAND,2,  9.3 , 0.79 ,,       0 ,     586 ,R
+Strypi VI,Sergeant            ,SAND,3,, 0.79 ,,       0 ,,R
+Strypi VIIAR,Sergeant            ,SAND,3,, 0.79 ,,       0 ,,R
+Strypi VIIR,Sergeant            ,SAND,3, 11.2 , 0.79 ,     4.6 ,       0 ,     499 ,R
+Strypi VIIIR,Sergeant            ,SAND,2, 11.2 , 0.79 ,     4.6 ,       0 ,     499 ,R
+Strypi IX,Sergeant            ,SAND,2,, 0.79 ,,       0 ,,R
+Strypi XI,Sergeant            ,SAND,3,, 0.79 ,,       0 ,,R
+DOT,Sergeant            ,SAND,2, 11.6 , 0.79 ,     5.5 ,       0 ,     586 ,M
+Athena,Sergeant            ,ATLR,4, 15.2 , 0.79 ,     7.2 ,       0 ,     586 ,M
+WASP,Sergeant            ,LARC?,2, 14.7 , 0.79 ,     6.8 ,       0 ,     580 ,R
+Castor Lance,Sergeant            ,SAND,2, 15.1 , 0.79 ,     5.8 ,       0 ,,R
+Castor-Recruit,Sergeant            ,SAND,2,, 0.79 ,,       0 ,,R
+Trailblazer 2,Sergeant            ,AFCRL,4, 15.7 , 0.79 ,     6.1 ,       0 ,     547 ,V
+Astrobee 1500,Sergeant            ,AJSP,2, 10.4 , 0.79 ,     5.2 ,       0 ,     566 ,R
+Scanner,Sergeant            ,LARC,3,, 0.79 ,,       0 ,     550 ,R
+Xaero,Xaero               ,MASTEN,1,  4.6 , 0.77 ,     1.0 ,       0 ,,R
+D-21B,Avanti              ,LAC,2, 13.1 , 0.77 ,,       0 ,,C
+RTV-A-2,MX-774              ,CONV,1,  9.6 , 0.76 ,     1.3 ,       0 ,      35 ,T
+Corporal,Corporal            ,SUEL/JPL,1, 14.0 , 0.76 ,     5.4 ,       0 ,      89 ,A
+Corporal Type 1,Corporal            ,SUEL/JPL,1, 14.0 , 0.76 ,     5.4 ,       0 ,      89 ,A
+Corporal E,Corporal            ,JPL,1, 14.0 , 0.76 ,     4.5 ,       0 ,      89 ,T
+Talos,Talos               ,APL,1,  9.8 , 0.76 ,     3.5 ,       0 ,,A
+HPB,Talos               ,SDCO,2, 14.4 , 0.76 ,     9.0 ,       0 ,,R
+Talos Castor,Talos               ,SDCO,2, 16.9 , 0.76 ,     8.2 ,       0 ,,R
+Talos Terrier,Talos               ,DNA,2, 10.0 , 0.76 ,,       0 ,,Q
+Talos Terrier Oriole,Talos               ,NASA,3, 19.8 , 0.76 ,,       0 ,,R
+SRBM T4-G,Talos               ,MDA,2, 14.0 , 0.76 ,,       0 ,,R
+LCLV,Talos               ,SDCO,3, 16.5 , 0.76 ,     6.9 ,       0 ,,R
+Talos Sergeant Hydac,Talos               ,SDCO,3, 17.3 , 0.76 ,     6.1 ,       0 ,,R
+TATER,Talos               ,SAMSO?,3, 12.3 , 0.76 ,,       0 ,,Q
+Starbird,Talos               ,SDCO,4, 17.5 , 0.76 ,     7.4 ,       0 ,,R
+Super Chief I,Talos               ,AJSP,2, 14.7 , 0.76 ,     4.7 ,       0 ,     516 ,R
+Super Chief II,Talos               ,AJSP,2, 14.7 , 0.76 ,     4.7 ,       0 ,     516 ,R
+Talos Terrier Peregrine,Talos               ,MSFC,3, 14.0 , 0.46 ,     1.0 ,       0 ,,R
+Oriole III,Talos               ,DTI,3, 14.0 , 0.46 ,     1.0 ,       0 ,     258 ,R
+Oriole IV,Talos               ,NASA,4, 19.8 , 0.76 ,,       0 ,,R
+Black Brant XI,Talos               ,BAL,3, 17.0 , 0.76 ,     5.3 ,       0 ,     489 ,R
+Black Brant XII,Talos               ,BAL,4, 17.0 , 0.76 ,     5.3 ,       0 ,     489 ,R
+Black Brant XIA,Talos               ,BAL,3, 17.0 , 0.76 ,     5.3 ,       0 ,     489 ,R
+Black Brant XIIA,Talos               ,BAL,4, 17.0 , 0.76 ,     5.3 ,       0 ,     489 ,R
+NOTS EV1,HOTROC              ,NOTS,5,  4.4 , 0.76 ,     0.9 ,       1 ,     125 ,O
+Al Samoud 2,Samoud              ,IQMIC,1,  7.2 , 0.76 ,     2.0 ,       0 ,,A
+OTRAG,OTRAG               ,OTR,1, 10.3 , 0.76 ,,       0 ,,X
+TKS VA SAS,TKSVA,OKB52,1, 10.5 , 0.74 ,,       0 ,,T
+Lambda 2,Lambda              ,ISAS,2, 15.5 , 0.74 ,     6.3 ,       0 ,     970 ,R
+Lambda 3,Lambda              ,ISAS,3, 17.4 , 0.74 ,     7.0 ,       0 ,     970 ,R
+Lambda 3H,Lambda              ,ISAS,3, 16.5 , 0.74 ,     8.2 ,       0 ,     970 ,R
+Lambda 4S,Lambda              ,ISAS,4, 16.5 , 0.74 ,     9.4 ,      26 ,     970 ,O
+Lambda 4SC,Lambda              ,ISAS,4, 16.5 , 0.74 ,     9.4 ,       0 ,     970 ,X
+Lambda 4T,Lambda              ,ISAS,4, 16.5 , 0.74 ,     9.4 ,       0 ,     970 ,X
+ST-735,SB-735              ,ISAS,2, 14.0 , 0.74 ,     7.4 ,       0 ,,R
+NAL-735,SB-735              ,ISAS/NAL,1, 10.0 , 0.74 ,     4.7 ,       0 ,     250 ,T
+Shaurya,K-15                ,DRDO,2, 10.0 , 0.74 ,     6.2 ,       0 ,,M
+Kontakt,Kontakt             ,FAKEL,3, 10.0 , 0.74 ,     4.5 ,       0 ,,M
+VLS-R1,Sonda               ,IAE,2,  6.0 , 0.72 ,     1.0 ,       0 ,     120 ,T
+Pedro Recruit,Pedro               ,USAF,2,  7.8 , 0.71 ,,       0 ,     244 ,T
+Arrow 3,Arrow3              ,IAI,2, 11.0 , 0.70 ,     1.5 ,       0 ,,M
+Miura 1,Miura,PLDS,1, 12.7 , 0.70 ,     2.6 ,       0 ,      30 ,R
+Skylark L,SkylarkL,SKYR,1, 11.7 , 0.70 ,     0.0 ,       0 ,,W
+SyLEx,Sylex,ARIG,1, 10.0 , 0.70 ,     0.0 ,       0 ,,R
+HIMES Rockoon,KM-D                ,NISST,1,  3.5 , 0.70 ,     0.5 ,       0 ,,T
+Zolfaghar,Zulfiqar,IRGC,1, 10.3 , 0.68 ,     5.0 ,       0 ,      90 ,B
+Apollo LES,Apollo.LES          ,NAA,1, 10.2 , 0.66 ,     2.5 ,       0 ,     690 ,T
+ARRW,ARRW,LMPLM,1,  5.9 , 0.66 ,     2.3 ,       0 ,,A
+KN-02,Tochka              ,KPA,1,  6.4 , 0.65 ,     2.0 ,       0 ,,A
+Tochka,Tochka              ,KBM,1,  6.4 , 0.65 ,     2.0 ,       0 ,,A
+Tochka-U,Tochka              ,KBM,1,  6.4 , 0.65 ,     2.0 ,       0 ,,A
+ZUR-215,V-750               ,NPOL,1, 10.7 , 0.65 ,     2.3 ,       0 ,     490 ,A
+V-750,V-750               ,FAKEL,1, 10.7 , 0.65 ,     2.3 ,       0 ,     490 ,A
+Qahir-1,V-750               ,FAKEL,1, 11.0 , 0.65 ,     2.3 ,       0 ,     490 ,A
+Qahir-M2,V-750               ,FAKEL,1, 11.0 , 0.65 ,     2.3 ,       0 ,     490 ,A
+SR75,SR75                ,HYIMP,1, 14.0 , 0.64 ,     1.0 ,       0 ,      75 ,A
+Sabre Zombie,ATACMS              ,SMDC,1,  4.0 , 0.61 ,     1.0 ,       0 ,      57 ,B
+Pathfinder Zombie,ATACMS              ,SMDC,1,  6.0 , 0.61 ,     1.0 ,       0 ,      57 ,A
+ATACMS,ATACMS              ,SMDC,1,  5.0 , 0.61 ,     1.0 ,       0 ,      57 ,B
+X-51A,ATACMS              ,BNAP,2,  7.7 , 0.61 ,     1.8 ,       0 ,     180 ,T
+Tayfun,B-611,ROKSN,1,  7.0 , 0.60 ,     2.0 ,       0 ,,M
+Bora-1,B-611,ROKSN,1,  7.0 , 0.60 ,     2.0 ,       0 ,,A
+B-611,B-611,SANJ,1,  7.0 , 0.60 ,     2.0 ,       0 ,      90 ,B
+TP 0.1,B-611,ROKSN,1,  6.0 , 0.60 ,     1.0 ,       0 ,,A
+TP 0.2,B-611,ROKSN,2,  8.0 , 0.60 ,     1.0 ,       0 ,,R
+SR 0.1,B-611,ROKSN,2,  8.0 , 0.60 ,     1.0 ,       0 ,,R
+K-BATS,ATACMS              ,HANWHA,1,  4.0 , 0.60 ,     1.5 ,       0 ,,A
+Hwasong-11Na,KN-24               ,KP,1,  5.5 , 0.60 ,     1.5 ,       0 ,,M
+Badr-1,Grad                ,FAKEL,1,  5.0 , 0.60 ,     2.0 ,       0 ,,A
+Grad,Grad                ,FAKEL,1,  5.0 , 0.60 ,     2.0 ,       0 ,,A
+NOTS EV2,NOTS500             ,NOTS,2,  4.9 , 0.61 ,     1.3 ,       0 ,,X
+GFV,NOTS500             ,NOTS,2,  4.9 , 0.61 ,     1.3 ,       0 ,,X
+HYSR,HYSR                ,LMSC,1, 18.0 , 0.61 ,,       0 ,     270 ,Q
+SORS,SORS,DVST,1, 10.0 , 0.60 ,,       0 ,,A
+LS-C,LS-C                ,MHITO?,2, 10.3 , 0.60 ,     2.3 ,       0 ,,A
+Seliger 1,Seliger             ,DRG,1,  3.4 , 0.60 ,     0.5 ,       0 ,      49 ,A
+Seliger 2,Seliger             ,DRG,2,  6.0 , 0.60 ,     1.5 ,       0 ,      49 ,R
+Seliger 3,Seliger             ,DRG,3, 12.8 , 0.60 ,     3.0 ,       0 ,      49 ,R
+JTSPACE Sounding Rocket,JTSPACE,JTSPACE,2, 11.4 , 0.60 ,     1.4 ,       0 ,      66 ,R
+Javelin,HJ                  ,AEROL,4, 14.8 , 0.58 ,     3.4 ,       0 ,     365 ,R
+Trailblazer 1,HJ                  ,PARD,6, 17.1 , 0.58 ,     3.4 ,       0 ,     365 ,V
+Taurus Orion,HJ                  ,WFF,2, 10.1 , 0.58 ,     2.0 ,       0 ,     457 ,R
+Taurus Tomahawk,HJ                  ,WFF,2,  9.4 , 0.58 ,     1.6 ,       0 ,     457 ,R
+Taurus Nike Tomahawk,HJ                  ,WFF,3, 12.0 , 0.58 ,     2.2 ,       0 ,     457 ,R
+Taurus,HJ                  ,WFF,1,  5.0 , 0.58 ,     1.5 ,       0 ,     457 ,T
+Taurion,HJ                  ,WFF,1,  5.0 , 0.58 ,     1.5 ,       0 ,       7 ,T
+Exos,HJ                  ,UMI,3, 12.9 , 0.58 ,     2.6 ,       0 ,     365 ,R
+Strongarm,HJ                  ,UMI,5, 17.1 , 0.58 ,     3.3 ,       0 ,     365 ,R
+Honest John,HJ                  ,ORDRSA,1,  5.0 , 0.58 ,     1.5 ,       0 ,     365 ,T
+Father John,HJ                  ,ORDRSA,1,  5.0 , 0.58 ,     1.5 ,       0 ,     365 ,T
+Improved Honest John,HJ                  ,DAC,1,  4.1 , 0.58 ,     1.5 ,       0 ,,A
+HJ,HJ                  ,ORDRSA,1,  5.0 , 0.58 ,     1.5 ,       0 ,     365 ,T
+HJ Hydac,HJ                  ,SDCO,2, 11.3 , 0.58 ,     2.6 ,       0 ,     365 ,R
+HJ Orion,HJ                  ,NASA,2, 12.6 , 0.58 ,     2.0 ,       0 ,     365 ,R
+HJ Javelin,HJ                  ,SDCO,2,  9.1 , 0.58 ,     1.7 ,       0 ,     365 ,R
+HJ Nike,HJ                  ,SDCO,2, 14.3 , 0.58 ,     2.7 ,       0 ,     365 ,R
+HJ Nike Hydac,HJ                  ,SDCO,3, 14.3 , 0.58 ,     2.9 ,       0 ,     365 ,R
+HJ Nike Javelin,HJ                  ,SDCO,3, 13.4 , 0.58 ,     2.8 ,       0 ,     365 ,R
+HJ Nike Gosling,HJ                  ,PARD,3, 10.0 , 0.58 ,,       0 ,     365 ,Q
+HJ Nike Nike,HJ                  ,PARD,3, 10.0 , 0.58 ,,       0 ,     365 ,R
+"HJ Nike Nike 20""SM",HJ                  ,PARD,4, 12.0 , 0.58 ,     3.2 ,       0 ,     365 ,R
+HJ Nike T40,HJ                  ,PARD,3, 12.0 , 0.58 ,,       0 ,     365 ,Q
+HJ Nike T40 T55,HJ                  ,PARD,4, 12.0 , 0.58 ,,       0 ,     365 ,Q
+HJ Nike Tri-Deacon T40,HJ                  ,PARD,4, 12.0 , 0.58 ,,       0 ,     365 ,Q
+HJ Nike Nike Recruit,HJ                  ,PARD,4, 10.0 , 0.58 ,     1.3 ,       0 ,     365 ,Q
+HJ Nike Nike Recruit T55,HJ                  ,PARD,5, 10.9 , 0.58 ,     1.3 ,       0 ,     365 ,Q
+HJ PRV,HJ                  ,PARD,4, 12.0 , 0.58 ,,       0 ,     365 ,A
+Jason,HJ                  ,AEROL,5, 17.5 , 0.58 ,     3.4 ,       0 ,     365 ,R
+X-7A-1,HJ                  ,LVN,2,  2.1 , 0.61 ,     3.6 ,       0 ,,C
+Fateh-110,Zelzal              ,IR,1,  9.0 , 0.61 ,     1.0 ,       0 ,,A
+Fateh-360,Zelzal              ,IR,1,  9.0 , 0.61 ,     1.0 ,       0 ,,M
+M-600,Zelzal              ,SYMC,1,  9.0 , 0.61 ,     1.0 ,       0 ,,M
+Zelzal,Zelzal              ,IR,1, 10.0 , 0.61 ,     0.9 ,       0 ,,A
+Zelzal-1,Zelzal              ,IR,1, 10.0 , 0.61 ,     0.9 ,       0 ,,A
+Zelzal-2,Zelzal              ,IR,1, 10.0 , 0.61 ,     0.9 ,       0 ,,A
+Zelzal-3,Zelzal              ,IR,1, 10.0 , 0.61 ,     0.9 ,       0 ,,A
+Kavoshgar K110,Zelzal              ,IR,1, 10.0 , 0.61 ,     0.9 ,       0 ,,R
+Lance,Lance               ,LTVM,1,  6.2 , 0.56 ,,       0 ,,A
+Sonda 3,Sonda3              ,IAE,2,  8.0 , 0.56 ,     1.5 ,       0 ,     102 ,R
+VS-30,Sonda3              ,INPE,1,  5.0 , 0.56 ,     1.4 ,       0 ,     102 ,R
+VSB-30,Sonda3              ,INPE,2, 12.0 , 0.56 ,     2.6 ,       0 ,     102 ,R
+S31/S30/IO,Sonda3              ,INPE,3, 12.0 , 0.56 ,     2.6 ,       0 ,     102 ,R
+VS-30/Orion,Sonda3              ,INPE,2,  7.0 , 0.56 ,     1.8 ,       0 ,     102 ,R
+VS-31/Orion,Sonda3              ,IAE,2,  8.0 , 0.56 ,     1.8 ,       0 ,     102 ,R
+VS-31/IM,Sonda3              ,IAE,2,  8.0 , 0.56 ,     2.7 ,       0 ,     102 ,R
+Red Kite,RedKite,DLR/BAYCH,1,  3.3 , 0.56 ,     1.1 ,       0 ,     226 ,R
+Red Kite/Red Kite,RedKite,DLR/BAYCH,2, 13.4 , 0.56 ,     1.1 ,       0 ,     226 ,R
+Red Kite/IM,RedKite,DLR/BAYCH,2,  8.0 , 0.56 ,     1.1 ,       0 ,     226 ,R
+Red Kite/BB5,RedKite,DLR/BAYCH,2, 13.4 , 0.56 ,     1.1 ,       0 ,     226 ,R
+ATV,Stromboli           ,VSSC,2, 10.3 , 0.56 ,     3.0 ,       0 ,     120 ,R
+RH-560/300 Mk II,Stromboli           ,VSSC,2,  9.1 , 0.56 ,     1.3 ,       0 ,      76 ,R
+RH-560 Mk III,Stromboli           ,VSSC,2,  9.1 , 0.56 ,     1.3 ,       0 ,      76 ,R
+RH-560S,Stromboli           ,VSSC,1,  5.9 , 0.56 ,     1.5 ,       0 ,     119 ,R
+RH-560,Stromboli           ,VSSC,2,  8.4 , 0.56 ,     1.3 ,       0 ,      76 ,R
+RH-560/LPR-3T,Stromboli           ,VSSC,2, 10.0 , 0.56 ,     2.5 ,       0 ,     119 ,A
+Berenice,Stromboli           ,ONERA,4, 12.3 , 0.56 ,     3.4 ,       0 ,     170 ,V
+Titus,Stromboli           ,ONERA,2, 11.6 , 0.56 ,     3.4 ,       0 ,     170 ,V
+Tibere,Stromboli           ,ONERA,3, 14.2 , 0.56 ,     4.6 ,       0 ,     170 ,V
+Tacite,Stromboli           ,ONERA,1,  7.8 , 0.56 ,     2.0 ,       0 ,     170 ,V
+OPd-56-39-22D,Stromboli           ,ONERA,4, 12.2 , 0.56 ,     1.8 ,       0 ,     200 ,V
+Antares,Stromboli           ,ONERA,4, 12.2 , 0.56 ,     1.8 ,       0 ,     200 ,V
+Dragon,Stromboli           ,SUD,2,  7.0 , 0.56 ,     1.2 ,       0 ,      75 ,R
+Dragon 2B,Stromboli           ,SUD,2,  7.0 , 0.56 ,     1.2 ,       0 ,      97 ,R
+Dragon 3,Stromboli           ,SUD,2,  7.3 , 0.56 ,     1.3 ,       0 ,      97 ,R
+Hatf I,Stromboli           ,SUPA,1,  5.3 , 0.56 ,     1.1 ,       0 ,      97 ,A
+Dauphin,Stromboli           ,SUD,1,  5.3 , 0.56 ,     1.1 ,       0 ,      97 ,R
+Eridan,Stromboli           ,CNES,2,  8.3 , 0.56 ,     2.1 ,       0 ,      97 ,R
+Hatf II,Stromboli           ,SUPA,2,  8.3 , 0.56 ,     2.1 ,       0 ,      97 ,B
+SE4400,Stromboli           ,SUD,1,  8.1 , 0.56 ,     1.2 ,       0 ,,A
+VE10A Aigle,Stromboli           ,LRBA,1,  8.0 , 0.55 ,     2.3 ,       0 ,,Q
+VE10 Aigle,Stromboli           ,LRBA,1,  8.0 , 0.55 ,     2.3 ,       0 ,,Q
+Stataltex,Stromboli           ,NORD,1,  9.9 , 0.56 ,     1.7 ,       0 ,,C
+Vega Statoreacteur,Stromboli           ,NORD,1,  9.9 , 0.56 ,     1.7 ,       0 ,,C
+Veronique R,Veronique           ,LRBA,1,  7.3 , 0.55 ,     1.3 ,       0 ,      40 ,T
+Veronique,Veronique           ,LRBA,1,  7.3 , 0.55 ,     1.3 ,       0 ,      40 ,R
+Veronique AGI,Veronique           ,LRBA,1,  7.1 , 0.55 ,     1.3 ,       0 ,      40 ,R
+Veronique 61,Veronique           ,LRBA,1,  9.5 , 0.55 ,     1.9 ,       0 ,      60 ,R
+Veronique 61M,Veronique           ,LRBA,1,  9.5 , 0.55 ,     1.9 ,       0 ,      60 ,R
+Veronique P2,Veronique           ,LRBA,1,  6.0 , 0.55 ,     0.5 ,       0 ,      20 ,T
+Veronique P6,Veronique           ,LRBA,1,  6.0 , 0.55 ,     0.5 ,       0 ,      20 ,T
+Sounding Rocket,NSPOB               ,NSPO,2,  8.0 , 0.55 ,     2.0 ,       0 ,,R
+Luna-M,Luna                ,MITT,1,  9.4 , 0.54 ,     2.5 ,       0 ,,A
+SM-3,Mk72                ,USN,3,  7.9 , 0.53 ,     1.3 ,       0 ,,R
+SM-3-IB,Mk72                ,USN,3,  7.9 , 0.53 ,     1.3 ,       0 ,,R
+SM-3-IIA,Mk72                ,USN,3,  7.9 , 0.53 ,     1.3 ,       0 ,,R
+SM-2-IV,Mk72                ,USN,2,  7.9 , 0.53 ,     1.3 ,       0 ,,A
+SM-6,Mk72                ,USN,2,  7.9 , 0.53 ,     1.3 ,       0 ,,A
+Hades,Hades               ,AELM,1,  7.5 , 0.53 ,     1.9 ,       0 ,,B
+Black Sparrow,BlackSparrow        ,IAI,1,  4.8 , 0.53 ,     1.2 ,       0 ,,B
+Blue Sparrow,BlackSparrow        ,IAI,1,  6.5 , 0.53 ,     1.9 ,       0 ,,B
+Silver Sparrow,BlackSparrow        ,IAI,1,  8.4 , 0.53 ,     3.1 ,       0 ,,B
+Al Samoud,V-750               ,IQMIC,1,  7.7 , 0.50 ,     1.5 ,       0 ,,A
+Al Fatah,Fatah               ,FATAH,1,  6.5 , 0.50 ,     1.6 ,       0 ,,A
+Cedre 3,Cedre               ,LRS,3,  6.8 , 0.52 ,     1.2 ,       0 ,,A
+Cedre 4,Cedre               ,LRS,3,  7.0 , 0.52 ,     1.2 ,       0 ,,R
+S-520,S-520               ,NISST,1,  9.4 , 0.52 ,     2.2 ,       0 ,     143 ,R
+SS-520,S-520               ,NISST,2,  9.7 , 0.52 ,     2.6 ,       0 ,,R
+TT-500,JCR                 ,NASDA,2, 10.5 , 0.50 ,     2.2 ,       0 ,,R
+TT-500A,JCR                 ,NASDA,2, 10.5 , 0.50 ,     2.2 ,       0 ,,R
+48N6,48N6                ,FAKEL,1,  7.5 , 0.50 ,     1.8 ,       0 ,,A
+JCR,JCR                 ,NASDA,2, 10.3 , 0.51 ,     2.3 ,       0 ,     133 ,X
+Momo,Momo                ,IST,1,  9.9 , 0.50 ,     1.1 ,       0 ,      12 ,R
+Hydra Sandhawk,NOTS400             ,NOTS/LLNL,2, 10.0 , 0.50 ,     1.2 ,       0 ,,R
+STIG-B,STIG-B              ,ARMAD,1, 10.4 , 0.51 ,     0.7 ,       0 ,      22 ,R
+SARGE,STIG-B              ,EXOSA,1, 11.0 , 0.51 ,     1.1 ,       0 ,      24 ,A
+K-15,K-15                ,DRDO,2, 11.0 , 0.50 ,     4.0 ,       0 ,,M
+E-8-5 VA,E8                  ,NPOL,1,  2.3 , 0.50 ,     0.8 ,       0 ,,D
+Long Tom,LongTom             ,WRE,2,  8.3 , 0.47 ,     0.9 ,       0 ,     190 ,R
+HAT,LongTom             ,WRE,2,  5.0 , 0.47 ,     0.5 ,       0 ,,R
+Nike T48 Ajax,T48                 ,DAC,2,  8.0 , 0.46 ,     1.3 ,       0 ,     190 ,A
+SM-2,Terrier             ,USN,2,  7.9 , 0.53 ,     1.3 ,       0 ,,A
+SM-2 TMT,Terrier             ,USN,2,  7.9 , 0.53 ,     1.3 ,       0 ,,B
+SM-1ER,Terrier             ,GDPO,2,  8.0 , 0.46 ,     1.3 ,       0 ,     258 ,A
+Hugo,Terrier             ,NMSU,2, 10.0 , 0.46 ,     1.3 ,       0 ,,R
+Terrier Sandhawk,Terrier             ,SAND,2, 11.4 , 0.46 ,,       0 ,     258 ,R
+ARAV-ER,Terrier             ,KRAT,3, 14.0 , 0.46 ,     1.0 ,       0 ,     258 ,R
+Oriole II,Terrier             ,DTI,2, 11.0 , 0.46 ,     1.0 ,       0 ,     258 ,R
+Terrier Oriole,Terrier             ,DTI,2, 11.0 , 0.46 ,     1.0 ,       0 ,     258 ,R
+Terrier Oriole Oriole,Terrier             ,DGA,3, 14.0 , 0.46 ,     1.0 ,       0 ,     258 ,R
+Oriole IIIA,Terrier             ,DTI,3, 14.0 , 0.46 ,     1.0 ,       0 ,     258 ,R
+Terrier Terrier Oriole,Terrier             ,DTI,3, 14.0 , 0.46 ,     1.0 ,       0 ,     258 ,R
+MRBM T4-E,Terrier             ,DTI,3, 14.0 , 0.46 ,     1.0 ,       0 ,     258 ,R
+Terrier Mk 70 Oriole,Terrier             ,DTI,2, 11.0 , 0.46 ,     1.0 ,       0 ,     258 ,R
+SRBM T4-B,Terrier             ,DTI,2, 11.0 , 0.46 ,     1.0 ,       0 ,     258 ,R
+Terrier,Terrier             ,ORDRSA,1,  6.0 , 0.46 ,     1.3 ,       0 ,     258 ,T
+Terrier Mk 70 Peregrine,Terrier             ,MSFC,2, 17.0 , 0.46 ,     2.2 ,       0 ,,R
+Terrier Malemute,Terrier             ,SAND,2, 12.7 , 0.46 ,     1.6 ,       0 ,     258 ,R
+Terrier Imp Malemute,Terrier             ,GSFC,2, 12.7 , 0.46 ,     1.6 ,       0 ,     258 ,R
+Terrier Terrier Imp Mal.,Terrier             ,GSFC,3, 12.7 , 0.46 ,     1.6 ,       0 ,     258 ,R
+Terrier/551,Terrier             ,NOTS?,2,  8.4 , 0.46 ,     1.3 ,       0 ,     258 ,R
+Terrier LEAP,Terrier             ,BMDO,3, 10.0 , 0.46 ,     1.3 ,       0 ,     258 ,A
+Terrier ASAS,Terrier             ,BMDO,2, 12.0 , 0.46 ,     1.3 ,       0 ,     258 ,R
+Terrier Hydac,Terrier             ,DACC,2, 10.0 , 0.46 ,,       0 ,     258 ,R
+Terrier Nike,Terrier             ,SAND,2,  9.8 , 0.46 ,     1.1 ,       0 ,     258 ,A
+Terrier Asp IV,Terrier             ,NOTS,2, 10.0 , 0.46 ,     1.1 ,       0 ,     258 ,R
+Terrier Asp,Terrier             ,NOTS,2, 10.0 , 0.46 ,     1.1 ,       0 ,     258 ,R
+Terrier Orion,Terrier             ,NASA,2, 12.8 , 0.46 ,     1.3 ,       0 ,     258 ,R
+Terrier Mk 70 Orion,Terrier             ,NASA,2, 12.8 , 0.46 ,     1.3 ,       0 ,     258 ,R
+Terrier Improved Orion,Terrier             ,NASA,2, 12.8 , 0.46 ,     1.3 ,       0 ,     258 ,R
+Terrier Mk 12 Imp Orion,Terrier             ,NASA,2, 12.8 , 0.46 ,     1.3 ,       0 ,     258 ,R
+Terrier Mk 70 Imp Orion,Terrier             ,NASA,2, 12.8 , 0.46 ,     1.3 ,       0 ,     258 ,R
+Terrier Tomahawk,Terrier             ,SAND,2,  9.0 , 0.46 ,     1.1 ,       0 ,     258 ,R
+Black Dagger,Terrier             ,SMDC,2,  6.0 , 0.46 ,     1.0 ,       0 ,     258 ,R
+Boosted Zombie,Terrier             ,SMDC,2,  6.0 , 0.46 ,     1.0 ,       0 ,     258 ,R
+Terrier Lynx,Terrier             ,NAWC?,2,  9.0 , 0.46 ,     1.3 ,       0 ,     258 ,R
+Terrier ASROC Cajun,Terrier             ,NOTS,3, 11.0 , 0.46 ,     1.4 ,       0 ,     258 ,R
+Terrier Recruit,Terrier             ,WFC,2,  5.0 , 0.46 ,     1.0 ,       0 ,     258 ,Q
+Coyote,Terrier             ,OSCC,1,  9.5 , 0.46 ,     1.0 ,       0 ,     258 ,C
+STAR,Terrier             ,OSCC,1,  4.0 , 0.11 ,     0.0 ,       0 ,,Y
+Black Brant IX,Terrier             ,BAL,2, 12.2 , 0.46 ,     2.2 ,       0 ,     257 ,R
+Black Brant IXB,Terrier             ,BAL,2, 12.2 , 0.46 ,     2.2 ,       0 ,     257 ,R
+Black Brant 9BM1,Terrier             ,BAL,2, 12.2 , 0.46 ,     2.2 ,       0 ,     257 ,R
+Black Brant 9CM1,Terrier             ,BAL,2, 12.2 , 0.46 ,     2.2 ,       0 ,     257 ,R
+Black Brant X,Terrier             ,BAL,3, 14.5 , 0.46 ,     2.6 ,       0 ,     257 ,R
+Black Brant XB,Terrier             ,BAL,3, 14.5 , 0.46 ,     2.6 ,       0 ,     257 ,R
+Black Brant 10CM1,Terrier             ,BAL,3, 14.5 , 0.46 ,     2.6 ,       0 ,     257 ,R
+SRAM,SRAM                ,BOUT,1,  4.3 , 0.46 ,     1.0 ,       0 ,,C
+ASAT,SRAM                ,LTV,2,  5.4 , 0.46 ,     1.2 ,       0 ,,M
+Farside,Recruit             ,AENUT,4,  7.3 , 0.46 ,     0.9 ,       0 ,     667 ,R
+NATIV,RTV                 ,NAAD,1,  4.1 , 0.46 ,     0.6 ,       0 ,      12 ,T
+PERUN,PERUN,SPFOR,1, 11.5 , 0.45 ,     1.0 ,       0 ,      28 ,R
+MR-12,MR-12               ,TAIFUN,1,  8.8 , 0.45 ,     1.4 ,       0 ,     100 ,R
+MR-20,MR-12               ,TAIFUN,1,  9.0 , 0.45 ,     1.6 ,       0 ,     100 ,R
+MR-25,MR-12               ,TAIFUN,1,  9.0 , 0.45 ,     1.6 ,       0 ,     100 ,R
+MR-30,MR-12               ,TAIFUN,1,  8.0 , 0.45 ,     1.6 ,       0 ,     100 ,R
+MN-300,MR-12               ,TAIFUN,1,  8.0 , 0.45 ,     1.6 ,       0 ,     100 ,R
+Tianying-3C,Tianying            ,CSSAR,1,  6.4 , 0.45 ,     1.1 ,       0 ,,R
+Tianying-3E,Tianying            ,CSSAR,1,  6.4 , 0.45 ,     1.1 ,       0 ,,R
+Tianying-3F,Tianying            ,CSSAR,2,  9.1 , 0.45 ,     1.6 ,       0 ,,R
+Huayi-1,Tianying            ,HUAYI,2,  9.1 , 0.45 ,     1.6 ,       0 ,,R
+T-7,T-7                 ,SIMED,1,  9.6 , 0.45 ,     1.1 ,       0 ,,R
+T-7A,T-7                 ,SIMED,1, 10.3 , 0.45 ,     1.1 ,       0 ,,R
+T-7A-S2,T-7                 ,SIMED,1, 10.0 , 0.45 ,     1.3 ,       0 ,,R
+T-7A-S,T-7                 ,SIMED,1, 10.3 , 0.45 ,     1.2 ,       0 ,,R
+T-7M,T-7                 ,SIMED,1,  5.3 , 0.45 ,     0.2 ,       0 ,       2 ,T
+T-7/GF-01A,T-7                 ,SIMED,2, 10.0 , 0.45 ,     1.5 ,       0 ,,R
+Black Brant I,BB5                 ,CARDE,1,  8.4 , 0.44 ,     1.0 ,       0 ,     111 ,R
+Black Brant II,BB5                 ,CARDE,1,  8.4 , 0.44 ,     1.0 ,       0 ,     111 ,R
+Black Brant IIB,BB5                 ,CARDE,1,  8.4 , 0.44 ,     1.0 ,       0 ,      89 ,R
+Black Brant IVA,BB5                 ,BAL,2, 12.0 , 0.44 ,     1.4 ,       0 ,     111 ,R
+Black Brant IVB,BB5                 ,BAL,2, 12.0 , 0.44 ,     1.4 ,       0 ,     111 ,R
+Black Brant VA,BB5                 ,BAL,1,  8.3 , 0.44 ,     1.1 ,       0 ,     111 ,R
+Black Brant VB,BB5                 ,BAL,1,  8.3 , 0.44 ,     1.2 ,       0 ,      68 ,R
+Black Brant VC,BB5                 ,BAL,1,  8.3 , 0.44 ,     1.3 ,       0 ,      68 ,R
+Black Brant 8B,Nike                ,BAL,2, 11.9 , 0.44 ,     2.0 ,       0 ,     196 ,R
+Black Brant 8C,Nike                ,BAL,2, 11.9 , 0.44 ,     2.0 ,       0 ,     196 ,R
+Skylark,Raven               ,RAE,1,  7.5 , 0.44 ,     1.1 ,       0 ,      44 ,R
+Skylark 1,Raven               ,BAC,1, 10.8 , 0.44 ,     1.2 ,       0 ,      50 ,R
+Skylark 2,Raven               ,BAC,2, 12.7 , 0.44 ,     1.5 ,       0 ,      80 ,R
+Skylark 2 AC,Raven               ,BAC,2, 12.7 , 0.44 ,     1.5 ,       0 ,      80 ,R
+Skylark 3,Raven               ,BAC,2, 12.7 , 0.44 ,     1.7 ,       0 ,      80 ,R
+Skylark 3 AC,Raven               ,BAC,2, 12.7 , 0.44 ,     1.7 ,       0 ,      80 ,R
+Skylark 4,Raven               ,BAC,2, 13.2 , 0.44 ,     1.9 ,       0 ,     191 ,R
+Skylark 4 AC,Raven               ,BAC,2, 13.2 , 0.44 ,     1.9 ,       0 ,     191 ,R
+Skylark 6,Raven               ,BAC,2, 13.2 , 0.44 ,     1.9 ,       0 ,     191 ,R
+Skylark 6 AC,Raven               ,BAC,2, 13.2 , 0.44 ,     1.9 ,       0 ,     191 ,R
+Skylark 7,Raven               ,BAC,2, 12.2 , 0.44 ,     2.1 ,       0 ,     191 ,R
+Skylark 7 AC,Raven               ,BAC,2, 12.2 , 0.44 ,     2.0 ,       0 ,     191 ,R
+Skylark 12,Raven               ,BAC,3, 13.0 , 0.44 ,     2.1 ,       0 ,     191 ,R
+Skylark 12 AC,Raven               ,BAC,3, 13.0 , 0.44 ,     2.1 ,       0 ,     191 ,R
+Skylark 10A,Raven               ,RAE,2,  6.0 , 0.44 ,     0.8 ,       0 ,     130 ,R
+Jaguar 1,Raven               ,RAE/WRE,3, 11.9 , 0.44 ,     1.7 ,       0 ,,Q
+Jabiru,Raven               ,RAE/WRE,3, 11.9 , 0.44 ,     1.7 ,       0 ,,Q
+Jaguar 2,Raven               ,RAE/WRE,3, 12.9 , 0.44 ,     2.2 ,       0 ,,Q
+Jabiru 2,Raven               ,RAE/WRE,3, 12.9 , 0.44 ,     2.2 ,       0 ,,V
+Jabiru 3,Raven               ,RAE/WRE,2, 12.7 , 0.44 ,     2.0 ,       0 ,,V
+Rook,Raven               ,RAE,1,  5.0 , 0.44 ,     1.2 ,       0 ,,Q
+Rook IIIA,Raven               ,RAE,1,  5.0 , 0.44 ,     1.2 ,       0 ,,Q
+Leopard,Raven               ,RAE,2,  6.0 , 0.44 ,     1.5 ,       0 ,,Q
+Blue Water,Raven               ,EELEC,2,  7.6 , 0.44 ,     1.4 ,       0 ,     196 ,A
+PrSM,PrSM,USA,1,  4.0 , 0.43 ,     1.0 ,       0 ,,M
+RX-420,RX-420              ,LAPAN,1,  6.2 , 0.42 ,     1.0 ,       0 ,,A
+Kappa 7,K420                ,ISAS,1,  6.7 , 0.42 ,     1.2 ,       0 ,,T
+Kappa 8,K420                ,ISAS,2, 10.9 , 0.42 ,     1.5 ,       0 ,,R
+Kappa 9M,K420                ,ISAS,2, 11.1 , 0.42 ,     1.5 ,       0 ,,R
+Kappa 9L,K420                ,ISAS,3, 12.5 , 0.42 ,     1.6 ,       0 ,,R
+Kappa 10,K420                ,ISAS,2,  9.8 , 0.42 ,     1.8 ,       0 ,,R
+Kappa 10C,K420                ,ISAS,2, 10.0 , 0.42 ,,       0 ,,R
+Kappa 10S,K420                ,ISAS,3, 10.0 , 0.42 ,,       0 ,,R
+Nike,Nike                ,ABL,1,  6.0 , 0.42 ,     0.7 ,       0 ,     217 ,A
+Nike-480,Nike                ,DACC/AJ,2,  6.0 , 0.42 ,     0.7 ,       0 ,     217 ,A
+Nike-482,Nike                ,DACC/AJ,2,  6.0 , 0.42 ,     0.7 ,       0 ,     217 ,A
+Nike-484,Nike                ,DACC/AJ,2,  6.0 , 0.42 ,     0.7 ,       0 ,     217 ,A
+Nike-490,Nike                ,DACC/AJ,2,  6.0 , 0.42 ,     0.7 ,       0 ,     217 ,A
+Nike Ajax,Nike                ,WELEC,2, 10.8 , 0.42 ,     1.1 ,       0 ,     217 ,A
+Nike X201 Ajax,Nike                ,WELEC,2, 10.8 , 0.42 ,     1.1 ,       0 ,     217 ,A
+Nike Nike,Nike                ,AFCRL?,2, 11.9 , 0.42 ,     1.4 ,       0 ,     217 ,T
+Nike Cree,Nike                ,AFCRL?,3, 14.0 , 0.42 ,     1.4 ,       0 ,     217 ,T
+Nike Recruit,Nike                ,PARD,2,  8.0 , 0.42 ,     1.1 ,       0 ,     217 ,Q
+Nike Tomahawk,Nike                ,SAND,2, 10.8 , 0.42 ,     1.0 ,       0 ,     217 ,R
+Nike Deacon,Nike                ,PARD,2,  7.8 , 0.42 ,,       0 ,     217 ,R
+Nike Nike HPAG,Nike                ,PARD,3,  9.0 , 0.42 ,,       0 ,     217 ,Q
+Nike Nike T40,Nike                ,PARD,3,  9.0 , 0.42 ,,       0 ,     217 ,Q
+Nike T40 T55,Nike                ,PARD,3,  9.0 , 0.42 ,,       0 ,     217 ,Q
+Nike Nike T40 T55,Nike                ,PARD,4,  9.0 , 0.42 ,,       0 ,     217 ,V
+Nike Nike Tri-Deacon T40,Nike                ,PARD,4,  9.0 , 0.42 ,,       0 ,     217 ,Q
+Nike Nike Deacon,Nike                ,PARD,3,  9.0 , 0.42 ,,       0 ,     217 ,Q
+Mach 5 TV,Nike                ,SAND,2,  7.0 , 0.42 ,,       0 ,     217 ,Q
+Nike Yardbird,Nike                ,UMI,2,  8.1 , 0.42 ,,       0 ,     217 ,R
+Nike Cajun,Nike                ,UMI,2,  8.1 , 0.42 ,     0.7 ,       0 ,     217 ,R
+Nike Nike Cajun,Nike                ,UMI,3,  8.1 , 0.42 ,     0.7 ,       0 ,     217 ,Q
+Nike Apache,Nike                ,SAND,2,  8.6 , 0.42 ,     0.8 ,       0 ,     217 ,R
+Nike Orion,Nike                ,NASA,2,  9.0 , 0.42 ,     1.1 ,       0 ,     217 ,R
+Nike Improved Orion,Nike                ,NASA,2,  9.0 , 0.42 ,     1.1 ,       0 ,     217 ,R
+Nike Hawk,Nike                ,NASA,2,  9.0 , 0.42 ,     1.1 ,       0 ,     217 ,R
+Nike Malemute,Nike                ,NASA,2,  8.6 , 0.42 ,     1.0 ,       0 ,     217 ,R
+Nike Asp,Nike                ,COOP,2,  7.9 , 0.42 ,     0.7 ,       0 ,     217 ,R
+Nike Hydac,Nike                ,SDCO,2,  9.1 , 0.42 ,     0.9 ,       0 ,     217 ,R
+Nike Iroquois,Nike                ,AJSP,2,  8.0 , 0.42 ,     0.7 ,       0 ,     217 ,R
+Nike Javelin,Nike                ,AFCRL,2,  8.2 , 0.42 ,     0.9 ,       0 ,     217 ,R
+Nike Viper I,Nike                ,SAND?,2,  8.0 , 0.42 ,     0.6 ,       0 ,     217 ,R
+Terrier Viper I,Terrier             ,NOTS,2,  8.0 , 0.42 ,     0.6 ,       0 ,     217 ,R
+Nike Nike Recruit,Nike                ,LARC,3,  9.0 , 0.42 ,,       0 ,     217 ,R
+Aerobee 170A,Nike                ,AJGC,2, 12.4 , 0.42 ,     1.5 ,       0 ,     217 ,R
+Aerobee 170B,Nike                ,AJGC,2, 12.4 , 0.42 ,     1.5 ,       0 ,     225 ,R
+Aerobee 170,Nike                ,AJGC,2, 12.6 , 0.42 ,     1.4 ,       0 ,     225 ,R
+Aerobee 200A,Nike                ,AJGC,2, 12.6 , 0.42 ,     1.6 ,       0 ,     225 ,R
+Aerobee 200,Nike                ,AJGC,2, 12.6 , 0.42 ,     1.6 ,       0 ,     225 ,R
+Aerobee 350,Nike                ,AJGC,2, 15.9 , 0.42 ,     3.6 ,       0 ,     217 ,R
+Astrobee 200,Nike                ,AJSP,2,  6.3 , 0.42 ,     0.8 ,       0 ,     161 ,R
+AAD,AAD                 ,HAL,1,  7.5 , 0.42 ,     1.3 ,       0 ,,A
+AAD AD-1,AAD                 ,HAL,2, 10.0 , 0.42 ,     1.3 ,       0 ,,B
+Prahaar,AAD                 ,HAL,1,  7.5 , 0.42 ,     1.3 ,       0 ,,A
+KSR-I,KSR                 ,KARI,1,  6.7 , 0.42 ,     1.2 ,       0 ,      86 ,T
+KSR-II,KSR                 ,KARI,2,  6.7 , 0.42 ,     2.0 ,       0 ,     298 ,R
+Aeolus,LongTom             ,WRE,2,  6.6 , 0.41 ,     0.5 ,       0 ,      80 ,R
+Malemute,Malemute            ,SAND,1,  2.4 , 0.41 ,     0.8 ,       0 ,      57 ,R
+Improved Malemute,Malemute            ,GSFC,1,  2.4 , 0.41 ,     0.8 ,       0 ,      57 ,R
+PAAT,Malemute            ,SMDC,1,  2.4 , 0.41 ,     0.8 ,       0 ,      57 ,A
+IM/IO,Malemute            ,DLR,2,  5.0 , 0.41 ,,       0 ,,R
+IM/IM,Malemute            ,DLR,2,  5.0 , 0.41 ,,       0 ,,R
+IM/VS-30,Malemute            ,DLR,2,  5.0 , 0.41 ,,       0 ,,R
+Martlet 1,Gun16               ,SRCI,1,  1.7 , 0.41 ,     0.2 ,       0 ,,A
+Martlet 2,Gun16               ,SRCI,1,  1.7 , 0.41 ,     0.2 ,       0 ,,R
+Martlet 2C,Gun16               ,SRCI,1,  1.7 , 0.41 ,     0.2 ,       0 ,,R
+Martlet 3A,Gun16               ,SRCI,1,  1.7 , 0.41 ,     0.2 ,       0 ,,R
+Martlet 3B,Gun16               ,SRCI,1,  1.7 , 0.41 ,     0.2 ,       0 ,,R
+Gun Projectile 16-inch,Gun16               ,SRCI,1,  1.7 , 0.41 ,     0.2 ,       0 ,,B
+Zenit,Zenith              ,CONTR,1,  4.6 , 0.42 ,     0.7 ,       0 ,      45 ,R
+Daniel,Daniel              ,ONERA,3,  8.4 , 0.40 ,     1.0 ,       0 ,,R
+Doorknob,Lacrosse            ,SAND,1,  3.6 , 0.40 ,     0.5 ,       0 ,     168 ,T
+Nike-46,Nike-46             ,DAC/AJ,2,  6.0 , 0.40 ,     0.7 ,       0 ,     400 ,A
+Nike-47,Nike-46             ,DAC/AJ,2,  6.0 , 0.40 ,     0.7 ,       0 ,     400 ,A
+Nike-481,Nike-46             ,DAC/AJ,2,  6.0 , 0.42 ,     0.7 ,       0 ,     217 ,A
+Tien Kung 3,NSPO                ,NCSIST,1,  5.5 , 0.40 ,     0.9 ,       0 ,,A
+KN-25,KN-25               ,KP,1,  5.0 , 0.40 ,     2.0 ,       0 ,,B
+STIG-A,STIG                ,ARMAD,1,  9.8 , 0.39 ,     0.7 ,       0 ,      22 ,R
+ISRO-CES,ISRO-CES,ISRO,1,  6.0 , 0.40 ,     2.0 ,       0 ,,T
+Weka,Duqm,NASCOM,1,  6.5 , 0.40 ,     0.1 ,       0 ,,R
+K-200,Duqm,SNOW,1,  6.5 , 0.40 ,     0.1 ,       0 ,,R
+Astrobee F,AstrobeeF           ,AJSP,1, 11.5 , 0.38 ,     1.5 ,       0 ,     178 ,R
+Astrobee 500,Genie               ,AJSP,3,  7.8 , 0.38 ,     0.9 ,       0 ,     161 ,R
+Paiute Tomahawk,Genie               ,THKE,2,  5.8 , 0.38 ,     0.6 ,       0 ,     140 ,R
+Ute Tomahawk,Genie               ,THKE,2,  5.2 , 0.38 ,     0.5 ,       0 ,      60 ,R
+Paiute Apache,Genie               ,THKE,2,  4.8 , 0.38 ,     0.6 ,       0 ,     140 ,R
+Ute Apache,Genie               ,THKE,2,  4.2 , 0.38 ,     0.5 ,       0 ,      60 ,R
+ALARR,Genie               ,AFIT?,1,  3.1 , 0.38 ,     0.5 ,       0 ,,R
+Genie,Genie               ,SAND,1,  3.1 , 0.38 ,     0.5 ,       0 ,,A
+Genie Genie,Genie               ,SAND,2,  3.1 , 0.38 ,     0.5 ,       0 ,,A
+F89J/Genie,Genie               ,SAND,1,  3.1 , 0.38 ,     0.5 ,       0 ,,A
+Jaguar,Recruit             ,WFF,3,  8.8 , 0.38 ,     0.8 ,       0 ,     440 ,R
+Aerobee RTV-A-1a,AerobeeB            ,AJ,2,  7.9 , 0.38 ,     0.7 ,       0 ,      18 ,R
+Aerobee RTV-A-1,AerobeeB            ,AJ,2,  7.9 , 0.38 ,     0.7 ,       0 ,      18 ,R
+Aerobee RTV-A-1b,AerobeeB            ,AJ,2,  7.9 , 0.38 ,     0.7 ,       0 ,      18 ,R
+Aerobee RTV-A-1c,Aerobee             ,AJ,1,  7.5 , 0.38 ,     0.7 ,       0 ,      18 ,R
+Aerobee RTV-N-10a,AerobeeB            ,AJ,2,  7.9 , 0.38 ,     0.7 ,       0 ,      18 ,R
+Aerobee RTV-N-10,AerobeeB            ,AJ,2,  7.9 , 0.38 ,     0.7 ,       0 ,      18 ,R
+Aerobee RTV-N-10b,AerobeeB            ,AJ,2,  7.9 , 0.38 ,     0.7 ,       0 ,      18 ,R
+Aerobee RTV-N-10c,AerobeeB            ,AJ,2,  7.9 , 0.38 ,     0.7 ,       0 ,      18 ,R
+Aerobee RTV-N-8,AerobeeB            ,AJ,2,  7.9 , 0.38 ,     0.7 ,       0 ,      18 ,R
+Aerobee XASR-SC-1,AerobeeB            ,AJ,2,  7.9 , 0.38 ,     0.7 ,       0 ,      18 ,R
+Aerobee XASR-SC-2,AerobeeB            ,AJ,2,  7.9 , 0.38 ,     0.7 ,       0 ,      18 ,R
+Aerobee AJ10-25,AerobeeB            ,AJ,2,  7.9 , 0.38 ,     0.7 ,       0 ,      18 ,R
+Aerobee AJ10-27,AerobeeB            ,AJ,2,  7.9 , 0.38 ,     0.7 ,       0 ,      18 ,R
+Aerobee AJ10-34,AerobeeB            ,AJ,2,  7.9 , 0.38 ,     0.7 ,       0 ,      18 ,R
+Aerobee 100,AerobeeB            ,AJ,2,  7.8 , 0.38 ,     0.7 ,       0 ,      18 ,R
+Seabee,AerobeeB            ,AJ,1,  7.0 , 0.38 ,     0.7 ,       0 ,      18 ,A
+Aerobee,AerobeeB            ,AJ,2,  7.9 , 0.38 ,     0.7 ,       0 ,      18 ,R
+Aerobee Hi,AerobeeB            ,AJ,2,  9.5 , 0.38 ,     0.9 ,       0 ,      18 ,R
+Aerobee 150,AerobeeB            ,AJGC,2,  9.3 , 0.38 ,     0.9 ,       0 ,      18 ,R
+Aerobee 150A,AerobeeB            ,AJGC,2,  9.3 , 0.38 ,     0.9 ,       0 ,      18 ,R
+Aerobee 150 MI,AerobeeB            ,AJGC,2,  9.3 , 0.38 ,     0.9 ,       0 ,      18 ,R
+Aerobee 150A MII,AerobeeB            ,AJGC,2,  9.3 , 0.38 ,     0.9 ,       0 ,      18 ,R
+Aerobee 150 MII,AerobeeB            ,AJGC,2,  9.3 , 0.38 ,     0.9 ,       0 ,      18 ,R
+Aerobee 300,AerobeeB            ,AJGC,3,  9.9 , 0.38 ,     0.9 ,       0 ,      18 ,R
+Aerobee 300A,AerobeeB            ,AJGC,3,  9.9 , 0.38 ,     0.9 ,       0 ,      18 ,R
+Vikram-S,Vikram-S,SKYRT,1,  6.0 , 0.38 ,     0.5 ,       0 ,      70 ,R
+Kavoshgar M5,Kavoshgar           ,IR,1,  6.0 , 0.36 ,     0.9 ,       0 ,,R
+Nazeat 6H,Kavoshgar           ,IR,1,  6.3 , 0.36 ,     0.9 ,       0 ,,R
+Nucleus,Nucleus             ,NAMMO,1,  9.0 , 0.36 ,     0.1 ,       0 ,      30 ,R
+Starsailor,Amateur,CONCOR,1, 13.0 , 0.36 ,     0.5 ,       0 ,      40 ,R
+LS-A,LS-C                ,MHITO?,2,  7.5 , 0.35 ,     0.8 ,       0 ,      60 ,A
+Meteor-2H,Meteor2             ,PAI,1,  4.5 , 0.35 ,     0.4 ,       0 ,      24 ,W
+Meteor-2K,Meteor2             ,PAI,1,  4.3 , 0.35 ,     0.4 ,       0 ,      52 ,R
+Aerobee 75,Orion               ,AJ,1,  6.0 , 0.35 ,     0.4 ,       0 ,       7 ,R
+Improved Orion,Orion               ,WFF,1,  5.6 , 0.35 ,     0.4 ,       0 ,       7 ,R
+Orion,Orion               ,WFF,1,  5.6 , 0.35 ,     0.4 ,       0 ,       7 ,R
+Polaris FTV-4,10KS2500            ,LMSC,1,  2.9 , 0.35 ,     0.1 ,       0 ,      11 ,A
+Iraqi Gun Projectile,IraqGun350          ,SRCI,1,  1.5 , 0.35 ,     0.1 ,       0 ,,A
+THAAD,THAAD               ,LMPCO,1,  6.2 , 0.34 ,     0.9 ,       0 ,,B
+SM-1MR,Standard            ,GDPO,1,  4.5 , 0.34 ,     0.6 ,       0 ,,A
+SM-2MR,Standard            ,USN,1,  5.0 , 0.35 ,     1.3 ,       0 ,,A
+Lynx,Standard            ,USN,1,  5.0 , 0.35 ,     1.3 ,       0 ,,A
+Kappa 4,Kappa4              ,ISAS,2,  5.9 , 0.33 ,     0.2 ,       0 ,     105 ,R
+Kappa 5,Kappa4              ,ISAS,2,  5.9 , 0.33 ,     0.2 ,       0 ,     105 ,A
+Sandhawk,Sandhawk            ,SAND,1,  5.1 , 0.33 ,     0.8 ,       0 ,      80 ,R
+Sandhawk Tomahawk,Sandhawk            ,SAND,2,  9.0 , 0.33 ,     1.0 ,       0 ,      80 ,R
+Gradicom 1,Gradicom            ,CITED,1,  4.5 , 0.32 ,     0.5 ,       0 ,,T
+Gradicom 2,Gradicom            ,CITED,2,  7.7 , 0.32 ,     0.9 ,       0 ,,R
+RX-320,RX-320              ,LAPAN,1,  4.7 , 0.32 ,     0.5 ,       0 ,,T
+BT-310,S-310               ,ISAS,1,  6.0 , 0.31 ,     0.7 ,       0 ,,A
+S-310,S-310               ,ISAS,1,  6.8 , 0.31 ,     0.7 ,       0 ,,R
+Belier,Belier              ,AESPC,1,  3.8 , 0.31 ,     0.4 ,       0 ,,R
+Belier III,Belier              ,AESPC,1,  3.8 , 0.31 ,     0.4 ,       0 ,,R
+RH-300,Belier              ,VSSC,1,  4.1 , 0.31 ,     0.3 ,       0 ,      33 ,R
+RH-300 Mk II,Belier              ,VSSC,1,  5.9 , 0.31 ,     0.5 ,       0 ,      39 ,R
+SO-300-200,Belier              ,VSSC,1,  6.0 , 0.31 ,     0.5 ,       0 ,      38 ,R
+Iris,Iris                ,ATLR/NRL,1,  5.0 , 0.31 ,     0.6 ,       0 ,      17 ,R
+Hydra-Iris,Iris                ,NWC/LLNL,1,  6.0 , 0.31 ,     0.8 ,       0 ,      17 ,R
+S-300,S-300               ,ISAS,1,  6.0 , 0.30 ,     0.6 ,       0 ,,R
+Taiga,Taiga,NORDSP,1,  4.5 , 0.30 ,     0.5 ,       0 ,      25 ,R
+Bullpup Apache,Bullpup             ,THKE,2,  7.0 , 0.30 ,     0.4 ,       0 ,     111 ,T
+Bullpup Cajun,Bullpup             ,THKE,2,  7.0 , 0.30 ,     0.4 ,       0 ,     111 ,T
+FTI,FTI                 ,AVIB,1,  5.0 , 0.30 ,     0.2 ,       0 ,,A
+WAC A,WAC                 ,JPL/DAC,1,  7.3 , 0.30 ,     0.3 ,       0 ,,T
+WAC B,WAC                 ,JPL/DAC,1,  7.3 , 0.30 ,     0.3 ,       0 ,,T
+WAC,WAC                 ,JPL/DAC,1,  7.3 , 0.30 ,     0.3 ,       0 ,,T
+Tiny Tim,WAC                 ,JPL/DAC,1,  2.4 , 0.30 ,     0.1 ,       0 ,,T
+Sonda 2,Sonda               ,IAE,1,  5.6 , 0.30 ,     0.4 ,       0 ,      36 ,R
+VLS-R2,Sonda               ,IAE,1,  4.3 , 0.30 ,     1.0 ,       0 ,     120 ,T
+Centaure,Venus               ,SUD,2,  5.9 , 0.28 ,     0.6 ,       0 ,      44 ,R
+Centaure 1,Venus               ,SUD,2,  5.9 , 0.28 ,     0.6 ,       0 ,      44 ,R
+Centaure 2A,Venus               ,SUD,2,  5.9 , 0.28 ,     0.6 ,       0 ,      44 ,R
+Centaure 2B,Venus               ,SUD,2,  6.3 , 0.28 ,     0.5 ,       0 ,      44 ,R
+Centaure 2C,Venus               ,SUD,2,  5.9 , 0.28 ,     0.6 ,       0 ,      44 ,R
+RH-300B,Venus               ,VSSC,2,  6.5 , 0.28 ,     0.6 ,       0 ,      38 ,R
+Tauro,Rigel               ,IIAE,2,  7.7 , 0.28 ,     1.2 ,       0 ,,R
+Rigel,Rigel               ,IIAE,2,  6.3 , 0.28 ,     1.0 ,       0 ,,R
+Canopus 2,Rigel               ,IIAE,1,  4.0 , 0.28 ,     0.3 ,       0 ,,R
+Canopus 1,Rigel               ,IIAE,1,  4.0 , 0.28 ,     0.3 ,       0 ,,A
+Centenario,Rigel               ,IIAE,1,  4.6 , 0.28 ,     0.3 ,       0 ,,A
+Castor (A),Rigel               ,IIAE,2,  7.0 , 0.28 ,     0.3 ,       0 ,,R
+SpaceLoft XL,SpaceLoft           ,UPAE,1,  6.1 , 0.27 ,     0.4 ,       0 ,,R
+Spyder,SpaceLoft           ,UPAE,2,  8.0 , 0.27 ,     0.4 ,       0 ,,A
+Black Brant III,BB3                 ,BAL,1,  5.5 , 0.26 ,     0.3 ,       0 ,      49 ,R
+Black Brant IIIB,BB3                 ,BAL,1,  5.5 , 0.26 ,     0.3 ,       0 ,      44 ,R
+N2ORTH,Amateur,HYEND,1,  7.8 , 0.26 ,     0.2 ,       0 ,      10 ,A
+Gosling-Lobster,Gosling             ,WRE,2,  5.0 , 0.26 ,     0.3 ,       0 ,,Q
+INTA-255,Gosling             ,INTA,1,  6.1 , 0.26 ,     0.3 ,       0 ,      22 ,R
+HAD,Gosling             ,WRE,2,  6.1 , 0.26 ,     0.3 ,       0 ,     130 ,R
+INTA-300,Gosling             ,INTA,2,  7.3 , 0.26 ,     0.5 ,       0 ,     137 ,R
+INTA-300B,Gosling             ,INTA,2,  7.3 , 0.26 ,     0.5 ,       0 ,     137 ,R
+Fulmar,Gosling             ,BAJUK,2,  7.5 , 0.26 ,     0.5 ,       0 ,     137 ,R
+Aero High,Gosling             ,WRE,2,  6.8 , 0.26 ,     0.4 ,       0 ,      99 ,R
+Cockatoo,Gosling             ,WRE,2,  6.2 , 0.26 ,     0.3 ,       0 ,     111 ,R
+Cockatoo Mk 2,Gosling             ,WRE,2,  6.3 , 0.26 ,     0.3 ,       0 ,     111 ,R
+Cockatoo Mk 3,Gosling             ,WRE,2,  6.3 , 0.26 ,     0.3 ,       0 ,      99 ,R
+Cockatoo Mk 4,Gosling             ,WRE,2,  6.3 , 0.26 ,     0.3 ,       0 ,      99 ,R
+Corella,Gosling             ,WRE,2,  8.0 , 0.26 ,     0.4 ,       0 ,      99 ,R
+Hybrid Test Rocket,HTR                 ,NAMMO,1, 10.6 , 0.25 ,     0.4 ,       0 ,      30 ,T
+Evo Space,EvoSpace,EVOL,1,  6.7 , 0.25 ,     0.4 ,       0 ,,R
+Private A,PrivateA            ,JPL,1,  3.4 , 0.25 ,     0.3 ,       0 ,      98 ,A
+Private F,PrivateA            ,JPL,1,  3.4 , 0.25 ,     0.3 ,       0 ,      98 ,A
+Rhumi,Rhumi,SZI,1,  6.0 , 0.25 ,     0.2 ,       0 ,,C
+Forschungsflugkorper,FFK                 ,ERNO,1,  4.0 , 0.25 ,     0.3 ,       0 ,,R
+CSXT,CSXT                ,CSXT,1,  6.5 , 0.25 ,     0.3 ,       0 ,,R
+K245,K250                ,ISAS,1,  5.6 , 0.25 ,     0.3 ,       0 ,,T
+Kappa 6,K250                ,ISAS,2,  5.6 , 0.25 ,     0.3 ,       0 ,,T
+Kappa 6H,K250                ,ISAS,2,  6.9 , 0.25 ,     0.3 ,       0 ,,A
+Kappa 8L,K250                ,ISAS,2,  7.3 , 0.25 ,     0.3 ,       0 ,,R
+S-250,K250                ,ISAS,1,  5.0 , 0.25 ,     0.2 ,       0 ,,R
+CB-250/RH-125,CB-250              ,VSSC,1,  3.5 , 0.25 ,     0.1 ,       0 ,       8 ,W
+CB-250/LPR-006,CB-250              ,VSSC,1,  3.5 , 0.25 ,     0.1 ,       0 ,       8 ,W
+NAL-25,STA                 ,STA,1,, 0.25 ,     0.1 ,       0 ,,T
+M-100,M-100               ,TAIFUN?,2,  8.3 , 0.25 ,     0.5 ,       0 ,,Y
+M-100 (A-1),M-100               ,TAIFUN?,2,  8.3 , 0.25 ,     0.5 ,       0 ,,Y
+M-100A,M-100               ,TAIFUN?,2,  8.3 , 0.25 ,     0.5 ,       0 ,,Y
+M-100B,M-100               ,TAIFUN?,2,  8.3 , 0.25 ,     0.5 ,       0 ,,Y
+RX-250-LPN,RX-250              ,LAPAN,1,  5.3 , 0.25 ,     0.3 ,       0 ,      52 ,R
+D-Region Tomahawk,Tomahawk            ,SAND,1,  5.0 , 0.23 ,     0.3 ,       0 ,      44 ,R
+ILR-33 Bursztyn 2K,Bursztyn            ,PAI,1,  5.0 , 0.23 ,     0.3 ,       0 ,,R
+Tomahawk,Tomahawk            ,SAND,1,  5.0 , 0.23 ,     0.3 ,       0 ,      44 ,R
+Mesquito,MLRS                ,WFF,1,  5.0 , 0.23 ,     0.2 ,       0 ,,R
+Javelin 3,Javelin             ,SDCO,1,  4.5 , 0.23 ,     0.2 ,       0 ,      86 ,R
+Recruit,Recruit             ,PARD,1,  3.0 , 0.23 ,     0.3 ,       0 ,     156 ,A
+Recruit T55,Recruit             ,PARD,2,  5.0 , 0.23 ,     0.4 ,       0 ,     156 ,Q
+MX-2227,AeroHTV             ,AEROPH,2,  3.9 , 0.23 ,     0.1 ,       0 ,,Q
+HTV,AeroHTV             ,AEROPH,2,  3.9 , 0.23 ,     0.1 ,       0 ,,Q
+Kappa 2,K250                ,ISAS,2,  5.0 , 0.22 ,     0.2 ,       0 ,,T
+Kappa 3,K250                ,ISAS,2,  5.0 , 0.22 ,     0.2 ,       0 ,,T
+S-210,S-210               ,NISST,1,  5.2 , 0.21 ,     0.3 ,       0 ,,R
+Orion-2,IIAE.Orion          ,IAE,1,  4.0 , 0.21 ,     0.1 ,       0 ,,R
+Orion-1,IIAE.Orion          ,IAE,1,  4.0 , 0.21 ,     0.1 ,       0 ,,R
+Belenos,Belenos             ,CFTHB,2,  4.9 , 0.21 ,     0.1 ,       0 ,,R
+Belisama,Belenos             ,CFTHB,2,  4.6 , 0.21 ,     0.1 ,       0 ,,R
+Grannos,Belenos             ,CFTHB,2,  4.9 , 0.21 ,     0.2 ,       0 ,,R
+TT-210,TT-210              ,NASDA,1,  6.0 , 0.21 ,     0.2 ,       0 ,,R
+TT-200,TT-210              ,NASDA,1,  6.0 , 0.20 ,     0.2 ,       0 ,,R
+RH-200,RH-200              ,VSSC,2,  3.6 , 0.20 ,     0.1 ,       0 ,      17 ,R
+RH-200SV,RH-200              ,VSSC,1,  3.0 , 0.20 ,     0.1 ,       0 ,      17 ,R
+MMR-06,MMR-06              ,TAIFUN?,1,  3.5 , 0.20 ,     0.1 ,       0 ,       8 ,Y
+X-17 HTV,Nike                ,LVN,3,  5.0 , 0.20 ,     0.1 ,       0 ,     209 ,Q
+X-17 QTV,T-40                ,LVN,3,  2.5 , 0.20 ,     0.1 ,       0 ,      13 ,Q
+Kingfisher,Kingfisher,TMINUS,1,  4.0 , 0.20 ,     0.0 ,       0 ,       0 ,Y
+Barracuda,Kingfisher,TMINUS,1,  4.0 , 0.20 ,     0.0 ,       0 ,       0 ,Y
+Traveler,Traveler            ,USCLA,1,  4.0 , 0.20 ,     0.1 ,       0 ,,R
+Aftershock,Traveler            ,USCLA,1,  3.8 , 0.20 ,     0.1 ,       0 ,      19 ,R
+Cirrus I,Cirrus              ,DRG,2,  4.1 , 0.20 ,     0.1 ,       0 ,       5 ,A
+Cirrus II,Cirrus              ,DRG,2,  4.1 , 0.20 ,     0.1 ,       0 ,       5 ,A
+Stratos II+,Stratos2            ,DARE,1,  7.0 , 0.20 ,     0.2 ,       0 ,       8 ,A
+Stratos III,Stratos2            ,DARE,1,  7.0 , 0.20 ,     0.2 ,       0 ,       8 ,A
+Proson M1,Proson              ,CITEF,2,  3.1 , 0.20 ,     0.1 ,       0 ,,A
+Sparoair I,Sparrow             ,NMC,2,  3.7 , 0.20 ,     0.1 ,       0 ,      35 ,R
+Sparoair II,Sparrow             ,NMC,2,  3.9 , 0.20 ,     0.1 ,       0 ,      35 ,R
+Sparoair III,Sparrow             ,NMC,2,  3.9 , 0.20 ,     0.1 ,       0 ,      35 ,R
+Sparrow Arcas,Sparrow             ,ATLR,2,  3.8 , 0.20 ,     0.1 ,       0 ,      35 ,R
+Cleansweep IIIB,Sparrow             ,ZIMN,1,  3.0 , 0.20 ,     0.1 ,       0 ,      16 ,A
+Petrel,Petrel              ,BAJUK,1,  3.3 , 0.19 ,     0.2 ,       0 ,,R
+Petrel 2,Petrel              ,BAJUK,1,  3.7 , 0.19 ,     0.2 ,       0 ,,R
+Gun Projectile 7-inch,Gun07               ,BRL,1,  1.0 , 0.18 ,     0.2 ,       0 ,,B
+HAEC,Demon               ,WRE,2,  3.5 , 0.18 ,     0.1 ,       0 ,       9 ,T
+Lorikeet,Demon               ,WRE,2,  5.0 , 0.18 ,     0.1 ,       0 ,,R
+Lorikeet Mk 2,Demon               ,WRE,2,  5.0 , 0.18 ,     0.1 ,       0 ,,R
+Astrid,Astrid              ,LLL,1,  1.9 , 0.17 ,     0.0 ,       0 ,,T
+Cleansweep III,Asp                 ,ZIMN,1,  3.6 , 0.17 ,     0.1 ,       0 ,      16 ,W
+ASCAMP,Asp                 ,COOP,2,  5.0 , 0.17 ,     0.1 ,       0 ,      42 ,R
+Asp,Asp                 ,COOP,1,  2.7 , 0.17 ,     0.0 ,       0 ,      42 ,W
+Asp II,Asp                 ,COOP,1,  2.7 , 0.17 ,     0.0 ,       0 ,      42 ,W
+Asp III,Asp                 ,COOP,1,  2.7 , 0.17 ,     0.0 ,       0 ,      42 ,W
+Asp IV,Asp                 ,COOP,1,  2.7 , 0.17 ,     0.0 ,       0 ,      12 ,Y
+Viper-Arrow,Viper               ,SAND,2,  5.0 , 0.17 ,     0.1 ,       0 ,      24 ,R
+Kiva/Hopi,Kiva                ,RPI,2,  5.5 , 0.17 ,     0.1 ,       0 ,      27 ,R
+Cajun Dart,Deacon              ,SDCO,1,  4.1 , 0.17 ,     0.1 ,       0 ,      36 ,Y
+Double Cajun T40,Deacon              ,PARD,2,  5.0 , 0.17 ,     0.1 ,       0 ,      36 ,Q
+Pogo Hi,Deacon              ,NMSU,1,  4.0 , 0.17 ,     0.1 ,       0 ,      36 ,Q
+Pogo Hi II,Deacon              ,NMSU,1,  4.0 , 0.17 ,     0.1 ,       0 ,      36 ,Q
+Pogo Hi III,Asp                 ,NMSU,1,  4.0 , 0.17 ,     0.1 ,       0 ,      36 ,Q
+Apache,Deacon              ,NMSU,1,  4.0 , 0.17 ,     0.1 ,       0 ,,A
+Cajun,Deacon              ,PARD,1,  4.0 , 0.17 ,     0.1 ,       0 ,      36 ,Q
+S-C,STA                 ,MHITO?,1,  2.9 , 0.17 ,     0.1 ,       0 ,,R
+S-B,STA                 ,MHITO?,1,  2.8 , 0.16 ,     0.1 ,       0 ,,T
+S-A,STA                 ,MHITO?,1,  2.8 , 0.16 ,     0.0 ,       0 ,,T
+S-160,S-160               ,NISST,1,  4.0 , 0.16 ,     0.1 ,       0 ,,R
+NAL-16,STA                 ,STA,1,  4.0 , 0.16 ,     0.1 ,       0 ,      10 ,R
+Lex,Lex                 ,ONERA/SNECMA,1,  3.4 , 0.16 ,     0.0 ,       0 ,      10 ,R
+Monica I,Monica              ,ATEF,3,  3.1 , 0.16 ,     0.1 ,       0 ,,R
+Monica IV,Monica              ,ATEF,3,  5.1 , 0.16 ,     0.1 ,       0 ,,R
+Viper V/Dart,Viper5              ,OSCC,1,  3.4 , 0.18 ,     0.0 ,       0 ,      27 ,Y
+Viper Falcon,Viper               ,SDCO,2,  3.5 , 0.17 ,     0.0 ,       0 ,,Y
+Viper,Viper               ,SDCO,1,  2.4 , 0.16 ,     0.0 ,       0 ,,W
+Viper-Dart,Viper               ,SDCO,1,  3.4 , 0.16 ,     0.0 ,       0 ,,Y
+Rockaire,Deacon              ,NRL?,1,  2.7 , 0.16 ,     0.1 ,       0 ,      30 ,T
+Deacon Rockoon,Deacon              ,SUI,1,  3.7 , 0.16 ,     0.1 ,       0 ,      15 ,R
+Terrapin,Deacon              ,REP,2,  4.5 , 0.16 ,     0.1 ,       0 ,      15 ,R
+Deacon-Loki Rockoon,Deacon              ,SUI,2,  5.2 , 0.16 ,     0.1 ,       0 ,      15 ,R
+ALSOR,Deacon              ,FRC/ZIMN,1,  3.6 , 0.16 ,     0.1 ,       0 ,,R
+Deacon Judi,Deacon              ,RPI,2,  4.2 , 0.16 ,     0.1 ,       0 ,      21 ,R
+Kisha Judi,Deacon              ,RPI,2,  4.2 , 0.16 ,     0.1 ,       0 ,      21 ,R
+Deacon Arrow II,Deacon              ,SAND,2,  5.1 , 0.15 ,     0.1 ,       0 ,      27 ,R
+Deacon Deacon,Deacon              ,PARD,2,  5.0 , 0.15 ,     0.1 ,       0 ,      27 ,Q
+Double Deacon,Deacon              ,PARD,1,  5.0 , 0.15 ,     0.1 ,       0 ,      54 ,Q
+Tandem Double Deacon,Deacon              ,PARD,2, 10.0 , 0.15 ,     0.1 ,       0 ,      54 ,Q
+Triple Deacon,Deacon              ,PARD,1,  7.0 , 0.15 ,     0.1 ,       0 ,      75 ,Q
+Triple Deacon HPAG,Deacon              ,PARD,2,  7.0 , 0.15 ,     0.1 ,       0 ,      75 ,Q
+Tri-Deacon Deacon HPAG,Deacon              ,PARD,3,  7.0 , 0.15 ,     0.2 ,       0 ,      75 ,Q
+Quad Deacon,Deacon              ,PARD,1,  7.0 , 0.15 ,     0.1 ,       0 ,     100 ,Q
+Deacon,Deacon              ,PARD,1,  4.0 , 0.15 ,     0.1 ,       0 ,      27 ,Q
+Deacon HVAR,Deacon              ,PARD,2,  4.0 , 0.15 ,     0.1 ,       0 ,      27 ,Q
+Deacon Sidewinder,Deacon              ,PARD,2,  4.0 , 0.15 ,     0.1 ,       0 ,      27 ,Q
+Vrbec-Banovic,Amateur,VRBEC,2,  3.5 , 0.15 ,     0.1 ,       0 ,,R
+Atea-1,Atea                ,RLABN,1,  5.0 , 0.15 ,     0.1 ,       0 ,,R
+Icarus,Icarus              ,ERAU,2,  4.9 , 0.15 ,     0.1 ,       0 ,      16 ,A
+Hyperion,AMROC               ,EAC,1,  5.8 , 0.15 ,     0.1 ,       0 ,       6 ,T
+K150,K150                ,ISAS,1,  4.0 , 0.15 ,     0.1 ,       0 ,,T
+Zhinui,ZN                  ,NUDTC,1,  4.8 , 0.15 ,     0.1 ,       0 ,      10 ,R
+Arcon,Arcon               ,ATLR/NRL,1,  4.0 , 0.15 ,     0.1 ,       0 ,      14 ,R
+Astrobee D,AstrobeeD           ,AJSP,1,  3.9 , 0.15 ,     0.1 ,       0 ,      23 ,R
+MERA,Mera                ,KBPT,2,  3.2 , 0.15 ,     0.1 ,       0 ,,Y
+MD-01,Meteo               ,SUD,1,  3.4 , 0.15 ,     0.1 ,       0 ,,W
+Meteo,Meteo               ,SUD,1,  3.4 , 0.15 ,     0.0 ,       0 ,,W
+Sirocco,Sirocco             ,SDCO,1,  3.9 , 0.14 ,     0.1 ,       0 ,,W
+MT-135,MT-135              ,NISST,1,  3.3 , 0.14 ,     0.0 ,       0 ,      12 ,W
+MT-135P,MT-135              ,NISST,1,  3.3 , 0.14 ,     0.0 ,       0 ,      12 ,W
+MT-135JA,MT-135              ,NISST,1,  3.3 , 0.14 ,     0.0 ,       0 ,      12 ,W
+Ivanov,Ivanov              ,FIAN,3,  4.3 , 0.14 ,     0.1 ,       0 ,,W
+Emma,Emma                ,MATRA,1,  3.9 , 0.13 ,     0.1 ,       0 ,,W
+Gamma Centauro,GammaCen            ,IIAE,2,  2.4 , 0.13 ,     0.0 ,       0 ,,W
+Aurore,Aurore              ,SNECMA,1,  3.3 , 0.13 ,     0.0 ,       0 ,       8 ,W
+Kappa 1,Kappa               ,ISAS,1,  2.7 , 0.13 ,     0.0 ,       0 ,      10 ,T
+Gun Projectile 5-inch,Gun05               ,BRL,1,  1.0 , 0.13 ,     0.2 ,       0 ,,A
+Skua,Skua                ,BAJUK,1,  2.2 , 0.13 ,     0.0 ,       0 ,,Y
+Skua 2,Skua                ,BAJUK,1,  2.8 , 0.13 ,     0.1 ,       0 ,,R
+Skua 3,Skua                ,BAJUK,1,  2.8 , 0.13 ,     0.1 ,       0 ,,R
+Skua 4,Skua                ,BAJUK,1,  2.8 , 0.13 ,     0.1 ,       0 ,,R
+FTB,FTB                 ,AVIB,1,  3.0 , 0.13 ,     0.1 ,       0 ,,A
+Sidewinder-Arcas,Sidewinder          ,ATLR,2,  4.3 , 0.13 ,     0.1 ,       0 ,,R
+Sidewinder-Raven,Sidewinder          ,RPI,2,  5.2 , 0.13 ,     0.1 ,       0 ,,Y
+HPAG,Sidewinder          ,PARD,1,  1.8 , 0.13 ,     0.0 ,       0 ,      12 ,Q
+HPAG Deacon,Sidewinder          ,PARD,2,  3.0 , 0.13 ,     0.0 ,       0 ,      12 ,Q
+Double HPAG Deacon,Sidewinder          ,PARD,2,  3.0 , 0.13 ,     0.0 ,       0 ,      12 ,Q
+ADTV,Lupus               ,WRE,1,  2.2 , 0.13 ,     0.0 ,       0 ,       9 ,T
+Kookaburra,Lupus               ,WRE,2,  3.5 , 0.13 ,     0.1 ,       0 ,       9 ,R
+Kookaburra 2,Lupus               ,WRE,2,  3.5 , 0.13 ,     0.1 ,       0 ,       9 ,R
+Kookaburra 3,Lupus               ,WRE,2,  3.5 , 0.13 ,     0.1 ,       0 ,       9 ,R
+DAC Roc,DACRoc              ,DAC,1,, 0.13 ,,       0 ,,T
+Seagull,Unknown             ,UNKUS,1,, 0.13 ,,       0 ,,T
+HALO,HALO                ,HAL5,1,  2.2 , 0.13 ,     0.0 ,       0 ,,T
+HVAR,HVAR                ,PARD,1,  2.0 , 0.13 ,     0.0 ,       0 ,      25 ,Q
+HVAR FFAR,HVAR                ,PARD,2,  3.0 , 0.13 ,     0.0 ,       0 ,      25 ,Q
+DIM,DIM                 ,IIAE,1,  2.9 , 0.12 ,     0.0 ,       0 ,,W
+Meteor-1,Meteor              ,PAI,1,  2.5 , 0.12 ,     0.0 ,       0 ,      14 ,W
+Meteor-3,Meteor              ,PAI,2,  4.3 , 0.12 ,     0.0 ,       0 ,      14 ,W
+Meteor-3B,Meteor              ,PAI,2,  4.3 , 0.12 ,     0.0 ,       0 ,      14 ,W
+RH-125,RH-125              ,VSSC,1,  2.5 , 0.12 ,     0.1 ,       0 ,       8 ,W
+MCR-3/RH-125,RH-125              ,VSSC,1,  3.5 , 0.12 ,     0.1 ,       0 ,       8 ,W
+INTA-100,INTA-100            ,INTA,2,  4.1 , 0.12 ,     0.1 ,       0 ,      17 ,Y
+Menaka II,RH-125              ,VSSC,2,  3.8 , 0.12 ,     0.1 ,       0 ,       8 ,W
+Black Brant VI,BB6                 ,BAL,1,  2.8 , 0.12 ,     0.1 ,       0 ,       7 ,Y
+Sonda 1,Sonda               ,IAE,2,  4.5 , 0.11 ,     0.1 ,       0 ,      27 ,W
+Rocketsonde,Rocketsonde         ,SDCO?,1,  3.0 , 0.11 ,     0.0 ,       0 ,       1 ,Y
+Rocketsonde2,Rocketsonde2        ,SDCO?,1,  3.0 , 0.11 ,     0.0 ,       0 ,       1 ,Y
+MESOS,Amateur,MESOS,2,  3.5 , 0.11 ,     0.0 ,       0 ,,R
+Viper 3A,Viper3              ,SDCO,1,  2.4 , 0.11 ,     0.0 ,       0 ,,Y
+DART,Viper3              ,TMINUS,1,  3.4 , 0.11 ,     0.0 ,       0 ,,Y
+Arcas,Arcas               ,ATLR,1,  2.3 , 0.11 ,     0.0 ,       0 ,       1 ,Y
+Frangible Arcas,Arcas               ,ATLR,1,  2.3 , 0.11 ,     0.0 ,       0 ,       1 ,Y
+Boosted Arcas,ArcasB              ,ATLR,2,  3.4 , 0.11 ,     0.0 ,       0 ,       1 ,Y
+Boosted Arcas 2,ArcasB              ,ATLR,2,  3.4 , 0.11 ,     0.0 ,       0 ,       1 ,Y
+Super Arcas,Arcas               ,ATLR,1,  2.7 , 0.11 ,     0.0 ,       0 ,       1 ,Y
+Excalibur,Excalibur           ,BAL,1,  3.0 , 0.11 ,     0.0 ,       0 ,       1 ,Y
+Hopi Dart,Hopi                ,RPI,1,  3.3 , 0.11 ,     0.0 ,       0 ,,Y
+Raven,Hopi                ,RPI,1,  3.3 , 0.11 ,     0.0 ,       0 ,       8 ,W
+Super Loki,SuperLoki           ,SDCO,1,  3.3 , 0.10 ,     0.0 ,       0 ,      18 ,Y
+Shadow 1,SuperLoki           ,LRRC,1,  3.3 , 0.10 ,     0.0 ,       0 ,      18 ,Y
+Stable Super Loki,SuperLoki           ,SDCO,1,  3.3 , 0.10 ,     0.0 ,       0 ,      18 ,Y
+FalconLaunch,SuperLoki           ,USAFA,1,  3.3 , 0.10 ,     0.0 ,       0 ,      22 ,Y
+Microstar,SuperLoki           ,SPFL,1,  3.3 , 0.10 ,     0.0 ,       0 ,,Y
+Meraki,Amateur,NZRA,2,  4.0 , 0.10 ,     0.1 ,       0 ,       0 ,R
+SPEAR-HRT,Amateur,USMA,2,  3.0 , 0.10 ,     0.0 ,       0 ,,R
+Skylark Micro,SkylarkMicro,SKYR,2,  3.3 , 0.10 ,     0.0 ,       0 ,,W
+Epona,Belisama            ,CFTHB,2,  4.4 , 0.10 ,     0.1 ,       0 ,,W
+SA-II,STA                 ,STA,1,, 0.10 ,     0.0 ,       0 ,,T
+ST,STA                 ,STA,1,, 0.10 ,     0.0 ,       0 ,,T
+Black Brant VII,BB7                 ,BAL,1,  2.1 , 0.09 ,     0.0 ,       0 ,,W
+Loki Dart,Loki                ,SDCO,1,  2.6 , 0.08 ,     0.0 ,       0 ,,Y
+Loki Dart PWN-8B,Loki                ,SDCO,1,  2.6 , 0.08 ,     0.0 ,       0 ,,W
+Loki,Loki                ,SDCO,1,  2.6 , 0.08 ,     0.0 ,       0 ,,W
+Loki Rockoon,Loki                ,SUI,1,  2.4 , 0.08 ,     0.0 ,       0 ,      10 ,R
+Judi-Dart,Loki                ,RPI,1,  2.7 , 0.08 ,     0.0 ,       0 ,       9 ,W
+Metroc,Loki                ,ATLR,1,  1.4 , 0.08 ,     0.0 ,       0 ,       1 ,W
+FTV,ISRO-TV             ,VSSC,1,,,     0.0 ,       0 ,,T
+SEGPRO,ISRO-TV             ,VSSC,1,,,     0.0 ,       0 ,,T
+RH-75,RH-75               ,VSSC,1,  1.5 , 0.08 ,     0.0 ,       0 ,,W
+NAL-7,STA                 ,STA,1,, 0.07 ,     0.0 ,       0 ,,T
+Rockair,FFAR                ,UMD,1,  1.2 , 0.07 ,     0.0 ,       0 ,       3 ,T
+FFAR,FFAR                ,PARD,1,  1.2 , 0.08 ,     0.0 ,       0 ,,Q
+Double FFAR,FFAR                ,PARD,2,  2.4 , 0.08 ,     0.0 ,       0 ,,Q
+Navaho II SM-64,Navaho              ,NAAD,2, 26.6 ,,    54.6 ,       0 ,,C
+MX-775,Snark               ,NORTH,1, 15.8 , 1.40 ,    12.7 ,       0 ,,C
+Snark,Snark               ,NORTH,1, 21.3 , 1.40 ,    22.5 ,       0 ,,C
+Matador,Matador             ,MARTB,1, 12.1 , 1.40 ,     5.2 ,       0 ,,C
+Mace,Matador             ,MARTB,1, 14.3 , 1.40 ,     8.5 ,       0 ,,C
+Regulus,Regulus             ,VOUA,1, 10.1 , 1.40 ,     6.6 ,       0 ,     293 ,C
+Regulus II,Regulus             ,VOUA,1, 20.5 , 1.30 ,    10.2 ,       0 ,,C
+Bomarc A,Bomarc              ,BOC,1, 14.2 , 0.89 ,     6.8 ,       0 ,,C
+Bomarc B,Bomarc              ,BOC,1, 14.2 , 0.89 ,     6.8 ,       0 ,,C
+Goose,BullGoose           ,FAIRA,1, 10.2 , 0.85 ,     3.5 ,       0 ,,C
+Bull Goose,BullGoose           ,FAIRA,1, 10.2 , 0.85 ,     3.5 ,       0 ,,C
+X-7B,X-7                 ,LVN,1,  2.1 , 0.61 ,     3.6 ,       0 ,,C
+X-7A-3,X-7                 ,LVN,1,  2.1 , 0.61 ,     3.6 ,       0 ,,C
+GLCM,GLCM                ,GDA,1,  6.4 , 0.53 ,     1.8 ,       0 ,,C
+BLDT,BLDT                ,JPL,1,  0.0 , 0.00 ,     0.0 ,       0 ,,C
+Lark,Lark                ,FAIRA,1,  5.6 , 0.46 ,     0.9 ,       0 ,,C
