@@ -9,8 +9,6 @@
   <img src="Gemini_Generated_Image_u7lohwu7lohwu7lo.png" width="600" />
 </p>
 
----
-
 ## 📖 Overview
 
 Orbital Grid is an active catalog that centralizes information about spacecraft their launch vehicles, orbital parameters, and payload data. Built with PostgreSQL, this database serves as a valuable resource for space enthusiasts, researchers, and analysts who need access to quick facts and stats about the spacecraft industry.
