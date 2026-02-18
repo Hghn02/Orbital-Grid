@@ -1,0 +1,7 @@
+*.sql linguist-detectable=true
+*.sql linguist-language=SQL
+
+# force consistent line endings
+* text=auto
+*.sh text eol=lf
+*.bat text eol=crlf
