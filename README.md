@@ -137,6 +137,13 @@ project/
 ```
 ---
 
+## Future Work
+
+- Create a cron job that executes a Python script to pull new data daily from Celestrak and Jonathan's Space Report
+- Run the new data through existing Python preprocessing scripts I have written and refresh database with new data using upserts
+- New data is meant to not only add new spacecraft and launches but also to update exisiting entries for ops statuses, decay dates and more
+
+---
 
 ## 🙏 Acknowledgments
 
