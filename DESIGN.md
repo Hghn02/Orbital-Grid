@@ -210,7 +210,7 @@ The purpose of Orbital Grid is to serve as an active catalog of all past and pre
        width="1140"
        style="display:block;">
   <figcaption style="text-align:center; font-style:italic; color:#ffffff; margin-top:8px;">
-    Figure 1: Orbital Grid Database – Entity-Relationship Diagram Designed using [Mermaid JS](https://mermaid.js.org/)
+    Figure 1: Orbital Grid Database – Entity-Relationship Diagram Designed using Mermaid JS
   </figcaption>
 </figure>
 
